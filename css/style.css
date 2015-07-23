@@ -35,4 +35,7 @@
 
 .body figure {
   width: 30%;
+  text-align: center;
+  color: gray;
+  font-size: 1em;
 }
