@@ -30,6 +30,9 @@
 }
 
 .body img {
+  width: 100%;
+}
+
+.body figure {
   width: 30%;
-  margin: 10px;
 }
