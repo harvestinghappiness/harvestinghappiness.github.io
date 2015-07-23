@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 .tabs {
   border: brown 2px solid;
   background-color: beige;
