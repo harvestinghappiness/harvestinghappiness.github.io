@@ -21,16 +21,15 @@
   font-weight: bold;
 }
 
-.right img {
+.right {
   float: right;
-  margin: 10px;
 }
 
-.left img {
+.left {
   float: left;
-  margin: 10px;
 }
 
 .body img {
   width: 30%;
+  margin: 10px;
 }
