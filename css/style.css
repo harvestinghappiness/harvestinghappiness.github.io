@@ -10,10 +10,14 @@ body {
 
 .logo h1 {
   font-weight: 900;
+  font-size: 3em;
+  margin: 0;
 }
 
 .logo p {
   font-weight: 400;
+  font-size: 1.2em;
+  margin: 0;
 }
 
 .tabs {
