@@ -54,6 +54,7 @@ body {
 .tabs a {
   text-decoration: none;
   color: rgb(119, 94, 94);
+  font-size: 1.3em;
 }
 
 .right {
@@ -75,4 +76,10 @@ body {
   color: gray;
   font-size: .9em;
   margin: 15px;
+}
+
+@media only screen and (max-width : 768px) {
+  .body figure {
+    width: 100%;
+  }
 }
