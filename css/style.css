@@ -6,6 +6,8 @@ body {
   max-width: 980px;
   margin: 10px auto 10px auto;
   font-family: 'Source Sans Pro', sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .logo h1 {
@@ -37,6 +39,8 @@ body {
 .body {
   margin-left: auto;
   margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
   max-width: 800px;
   text-align: left;
   font-size: 1.1em;
