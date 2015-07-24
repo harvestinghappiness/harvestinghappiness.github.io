@@ -3,7 +3,7 @@ body {
 }
 
 .logo {
-  width: 980px;
+  max-width: 980px;
   margin: 10px auto 10px auto;
   font-family: 'Source Sans Pro', sans-serif;
 }
