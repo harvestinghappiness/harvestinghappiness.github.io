@@ -3,6 +3,7 @@ h1 {
   font-size: 3em;
   color: crimson;
   font-family: monospace;
+  margin-top: 25px;
 }
 
 p {
@@ -12,5 +13,5 @@ p {
 }
 
 a {
-  font-size: 1.5em;
+  font-size: 1.3em;
 }
