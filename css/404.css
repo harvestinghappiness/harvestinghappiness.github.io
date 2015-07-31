@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  font-size: 3em;
+  color: crimson;
+  font-family: monospace;
+}
+
+p {
+  text-align: center;
+  font-size: 1em;
+  font-family: font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
+}
+
+a {
+  font-size: 1.5em;
+}
