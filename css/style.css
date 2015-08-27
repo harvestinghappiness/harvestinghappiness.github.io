@@ -84,6 +84,10 @@ body {
   color: white;
 }
 
+.tabs .active {
+  color: #42A542;
+}
+
 .right {
   float: right;
 }
