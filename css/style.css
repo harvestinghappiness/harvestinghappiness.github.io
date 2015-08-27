@@ -62,8 +62,12 @@ body {
 
 .tabs a {
   text-decoration: none;
-  color: rgb(119, 94, 94);
+  color: #D6D6D6;
   font-size: 1.3em;
+}
+
+.tabs a:hover {
+  color: white;
 }
 
 .right {
