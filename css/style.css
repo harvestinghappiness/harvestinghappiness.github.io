@@ -15,12 +15,9 @@ body {
 
 .logo {
   display: inline-block;
-  max-width: 980px;
-  margin: 10px auto 10px auto;
   font-family: 'Source Sans Pro', sans-serif;
-  padding-left: 10px;
   padding-right: 10px;
-  margin: 0 0 0 50px;
+  margin: 0 0 0 0;
   color: white;
 }
 
