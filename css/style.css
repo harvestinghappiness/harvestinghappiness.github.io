@@ -109,6 +109,11 @@ body {
   margin: 15px;
 }
 
+.contact.group {
+    width: 49%;
+    display: inline-block;
+}
+
 @media only screen and (max-width : 768px) {
   .body figure {
     width: 90%;
