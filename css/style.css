@@ -46,9 +46,9 @@ body {
 
 .tabs {
   display: inline-block;
-  top: 0;
-  transform: translate(0,-50%);
+  top: 50%;
   -webkit-transform: translate(0,-50%);
+  transform: translate(0,-50%);
   position: absolute;
 }
 
