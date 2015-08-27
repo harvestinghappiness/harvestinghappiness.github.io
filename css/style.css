@@ -14,6 +14,7 @@ body {
   padding-left: 10px;
   padding-right: 10px;
   margin: 0 0 0 50px;
+  color: white;
 }
 
 .logo h1 {
@@ -36,6 +37,8 @@ body {
 
 .tabs {
   display: inline-block;
+  top: 0;
+  position: absolute;
 }
 
 .body {
