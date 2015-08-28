@@ -46,6 +46,11 @@ body {
   font-size: 1.2em;
   margin: 0;
 }
+
+.content {
+  top: 50px;
+  margin-top: 20px;
+}
 /*
 .tabs {
   display: inline-block;
