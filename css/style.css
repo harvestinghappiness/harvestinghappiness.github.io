@@ -21,7 +21,7 @@ body {
   height: inherit;
 }
 
-.logo {
+.navbar-brand {
   display: inline-block;
   font-family: 'Source Sans Pro', sans-serif;
   padding-right: 10px;
@@ -46,7 +46,7 @@ body {
   font-size: 1.2em;
   margin: 0;
 }
-
+/*
 .tabs {
   display: inline-block;
   top: 50%;
@@ -54,7 +54,7 @@ body {
   transform: translate(0,-50%);
   position: absolute;
 }
-/*
+
 .body {
   margin-left: auto;
   margin-right: auto;
@@ -89,25 +89,15 @@ body {
   color: #42A542;
 }*/
 
-.right {
-  float: right;
-}
-
-.left {
-  float: left;
-}
-
 .content img {
   width: 100%;
   margin-bottom: 5px;
 }
 
 figure {
-  width: 40%;
   text-align: center;
   color: gray;
   font-size: .9em;
-  margin: 15px;
 }
 
 .contact.group {
