@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
 }
 
 .header {
@@ -53,7 +54,7 @@ body {
   transform: translate(0,-50%);
   position: absolute;
 }
-
+/*
 .body {
   margin-left: auto;
   margin-right: auto;
@@ -86,7 +87,7 @@ body {
 
 .tabs .active {
   color: #42A542;
-}
+}*/
 
 .right {
   float: right;
@@ -96,12 +97,12 @@ body {
   float: left;
 }
 
-.body img {
+.content img {
   width: 100%;
   margin-bottom: 5px;
 }
 
-.body figure {
+figure {
   width: 40%;
   text-align: center;
   color: gray;
