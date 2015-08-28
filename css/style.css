@@ -51,6 +51,16 @@ body {
   top: 50px;
   margin-top: 20px;
 }
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #50B548;
+    background-color: #484848;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #FFFFFF;
+    font-weight: bold;
+}
 /*
 .tabs {
   display: inline-block;
