@@ -16,7 +16,7 @@ body {
 }
 
 nav.navbar.navbar-inverse.navbar-fixed-top {
-  position: relative;
+  position: fixed;
   box-shadow: 0 0 5px rgba(0,0,0,0.5);
 }
 
