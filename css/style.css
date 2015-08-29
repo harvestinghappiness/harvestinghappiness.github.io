@@ -80,6 +80,7 @@ figcaption {
 
 .title {
   background-image: url("../images/santamariaoverview.jpg");
+  background-position: -10px -150px;
   margin-top: 50px;
   position: relative;
   height: 300px;
