@@ -52,6 +52,22 @@ figure {
 
 img.logo {
   width: 40px;
-  margin: -10px 3px 0 0;
+  margin: -10px 3px -10px 0;
   display: inline-block;
+}
+
+.nav > li > a {
+    font-size: 1.3em;
+}
+
+a.navbar-brand {
+    font-size: 1.7em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+figcaption {
+    font-size: 1.1em;
 }
