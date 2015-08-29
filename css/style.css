@@ -104,8 +104,12 @@ nav.navbar.navbar-inverse.navbar-fixed-top {
   color: #42A542;
 }*/
 
-.nav li.active {
+.nav li.active > a {
   border-bottom: 3px solid #cc7a6f;
+}
+
+.nav li.active {
+  max-height: 50px;
 }
 
 .container img {
