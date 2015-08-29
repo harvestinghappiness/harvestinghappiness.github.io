@@ -71,3 +71,7 @@ p {
 figcaption {
     font-size: 1.1em;
 }
+
+.container.body {
+  padding: 0;
+}
