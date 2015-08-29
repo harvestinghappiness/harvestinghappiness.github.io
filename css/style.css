@@ -78,3 +78,9 @@ figcaption {
     border-bottom: 3px solid #cc7a6f;
   }
 }
+
+@media screen and (max-width: 380px) {
+  a.navbar-brand {
+    font-size: 1.4em;
+  }
+}
