@@ -25,9 +25,6 @@ nav.navbar.navbar-inverse.navbar-fixed-top {
     color: #FFFFFF;
     font-weight: bold;
 }
-.nav li.active > a {
-  border-bottom: 3px solid #cc7a6f;
-}
 
 .nav li.active {
   max-height: 50px;
@@ -74,4 +71,10 @@ figcaption {
 
 .container.body {
   padding: 0;
+}
+
+@media screen and (min-width: 767px) {
+  .nav li.active > a {
+    border-bottom: 3px solid #cc7a6f;
+  }
 }
