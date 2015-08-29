@@ -78,6 +78,22 @@ figcaption {
   margin-top: 50px;
 }
 
+.title {
+  background-image: url("images/agua2.jpg");
+  margin-top: 50px;
+  position: relative;
+  height: 300px;
+}
+
+.title > .text {
+  text-align: center;
+  top: 50%;
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+
 @media screen and (min-width: 767px) {
   .nav li.active > a {
     border-bottom: 3px solid #cc7a6f;
