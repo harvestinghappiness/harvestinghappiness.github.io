@@ -48,12 +48,8 @@ body {
 }
 
 nav.navbar.navbar-inverse.navbar-fixed-top {
-    position: relative;
-}
-
-.container.body {
-  top: 50px;
-  margin-top: 20px;
+  position: relative;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
 }
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
