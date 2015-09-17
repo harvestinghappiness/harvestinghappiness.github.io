@@ -96,6 +96,11 @@ figcaption {
   transform: translate(-50%,-50%);
 }
 
+.fb {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
 @media screen and (min-width: 767px) {
   .nav li.active > a {
     border-bottom: 3px solid #cc7a6f;
