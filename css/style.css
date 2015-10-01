@@ -115,6 +115,29 @@ div#navbar {
   background-color: #333;
 }
 
+pre {
+    padding: 0;
+    overflow-x: inherit;
+}
+pre, code {
+    font-size: inherit;
+    border: none;
+    border-radius: 0;
+    background-color: transparent;
+}
+
+.right {
+  float: right;
+}
+
+header h1{
+  padding-top: 10px;
+}
+
+.contact {
+  padding: 0;
+}
+
 @media screen and (min-width: 767px) {
   .nav li.active > a {
     border-bottom: 3px solid #cc7a6f;
