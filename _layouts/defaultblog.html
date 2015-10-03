@@ -5,27 +5,25 @@
 
   <body>
 
+    {% include header.html %}
+
     <div class="container" style="margin-top: 50px;">
 
-      {% include header.html %}
-
-      <section class="content wrap blogContent">
-        <div class="nav-blog">
-          <div class="nav-docs-section">
-            <h3>Recent posts</h3>
-            <ul>
-              {% for post in site.posts %}
-                <li>
-                  <a href="{{ post.url }}">{{ post.title }}</a>
-                </li>
-              {% endfor %}
-            </ul>
-          </div>
+      <div class="nav-blog">
+        <div class="nav-docs-section">
+          <h3>Recent posts</h3>
+          <ul>
+            {% for post in site.posts %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
         </div>
-        <div class="inner-content">
-          {{ content }}
-        </div>
-      </section>
+      </div>
+      <div class="inner-content">
+        {{ content }}
+      </div>
     </div>
 
     {% include footer.html %}
