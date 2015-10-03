@@ -137,6 +137,10 @@ pre, code {
   padding-top: 20px;
 }
 
+.page {
+    padding: 20px;
+}
+
 @media screen and (min-width: 767px) {
   .nav li.active > a {
     border-bottom: 3px solid #cc7a6f;
