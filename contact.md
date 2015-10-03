@@ -9,7 +9,7 @@ permalink: /contact/
 	<h3><a href="https://docs.google.com/forms/d/1UxdIzdVGaljOddK3Huq8BP0SYxs4xSLq1PQnSsLNZ7g/viewform">Sign up for our monthly news letter!</a></h3>
 </div>
 <div class="col-sm-6">
-	<h3>Emily Keller, Co-Director</h3>
+	<h3>{{ site.data.people[emily] }}, {{ site.data.people[emily].position }}</h3>
 	<p><a href="mailto:emily@harvestinghappiness.org">emily@harvestinghappiness.org</a></p>
 	<h3>Brennan McMillen, Co-Directer</h3>
 	<p><a href="mailto:brennan@harvestinghappiness.org">brennan@harvestinghappiness.org</a></p>

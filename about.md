@@ -7,7 +7,7 @@ permalink: /about/
 Currently, our main project is a feeding program for the elderly. This was established after finding that many of the elderly do not eat more than one meal a day, if that, and have to work in the fields to earn money to feed themselves. This work usually means strenuous physical labor. The feeding program is open to any of the elderly in the community who are in need and feeds anywhere between 15-20 people at each meal. Additionally, meals are delivered to the elderly who cannot come to the project such as the physically handicapped. Food is served three times a day by around 15 Guatemalan volunteers. The volunteers are young people approximately aged 16-25 who are passionate about helping others in their community. They are the most giving people we have ever met and cannot thank them enough for their tireless efforts.
 
 <figure class="col-sm-4">
-  <img src="../images/santamarianatives.jpg" alt="Guatemalan benefiting from Cosechando Felicidad">
+  <img src="{{ site.url }}/images/santamarianatives.jpg" alt="Guatemalan benefiting from Cosechando Felicidad">
   <figcaption>Guatemalans benefiting from Cosechando Felicidad</figcaption>
 </figure>
 
@@ -16,7 +16,7 @@ We also seek to meet the needs of the community as they become apparent. This is
 Harvesting Happiness was founded by Brennan McMillen and Emily Keller. It is the result of a long term relationship with this community stemming back to 2009 when they first began their annual trips to the village as volunteers. After spending several months living in Santa Maria in 2014, Brennan saw the need for feeding the elderly and thus the feeding program was born. Ever since then the feeding program has been growing and Brennan and Emily are excited to see what the future holds for Harvesting Happiness. They have since spent extended amounts of time in country and plan to continue to do so.
 
 <figure class="col-sm-4 right">
-	<img src="../images/volunteers5.jpg" alt="Founders Emily Keller and Brennan McMillen">
+	<img src="{{ site.url }}/images/volunteers5.jpg" alt="Founders Emily Keller and Brennan McMillen">
 	<figcaption>Cristian, Wilson, Edwin and Rocael</figcaption>
 </figure>
 
@@ -24,4 +24,4 @@ Harvesting Happiness would not be possible without our board of directors who we
 
 We are funded entirely by private donations and would ask anyone considering donating to contact us with any questions they might have.
 
-If you had any additional questions please do not hesitate to contact us at [emily@harvestinghappiness.org](emily@harvestinghappiness.org)
+If you had any additional questions please do not hesitate to contact us at [emily@harvestinghappiness.org](mailto:emily@harvestinghappiness.org)
