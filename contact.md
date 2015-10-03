@@ -6,7 +6,7 @@ permalink: /contact/
 
 <div class="contact col-sm-12">	
 	<p>If you had any additional questions please do not hesitate to contact us at emily@harvestinghappiness.org</p>
-	<h3><a href="https://docs.google.com/forms/d/1UxdIzdVGaljOddK3Huq8BP0SYxs4xSLq1PQnSsLNZ7g/viewform">Sign up for our monthly news letter!</a></h3>
+	<h3><a href="{{ site.newsletter }}">Sign up for our monthly news letter!</a></h3>
 </div>
 <div class="col-sm-6">
 	<h3>{{ site.data.people['emily'].name }}, {{ site.data.people['emily'].position }}</h3>
