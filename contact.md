@@ -10,9 +10,9 @@ permalink: /contact/
 </div>
 <div class="col-sm-6">
 	<h3>{{ site.data.people['emily'].name }}, {{ site.data.people['emily'].position }}</h3>
-	<p><a href="mailto:emily@harvestinghappiness.org">emily@harvestinghappiness.org</a></p>
-	<h3>Brennan McMillen, Co-Directer</h3>
-	<p><a href="mailto:brennan@harvestinghappiness.org">brennan@harvestinghappiness.org</a></p>
+	<p><a href="mailto:{{ site.data.people['emily'].email }}">{{ site.data.people['emily'].email }}</a></p>
+	<h3>{{ site.data.people['brennan'].name }}, {{ site.data.people['brennan'].position }}</h3>
+	<p><a href="mailto:{{ site.data.people['brennan'].email }}">{{ site.data.people['brennan'].email }}</a></p>
 </div>
 <div class="col-sm-6">
 	<h3>Cosechando Felicidad</h3>
