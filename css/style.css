@@ -131,12 +131,12 @@ pre, code {
   float: right;
 }
 
-header h1{
-  padding-top: 10px;
-}
-
 .contact {
   padding: 0;
+}
+
+.inner-content, .nav-blog {
+  padding-top: 20px;
 }
 
 @media screen and (min-width: 767px) {
