@@ -79,10 +79,16 @@ figcaption {
 }
 
 .title {
-  background-image: url("../images/santamariaoverview.jpg");
-  background-size: inherit;
   margin-top: 50px;
   position: relative;
+}
+
+.title-bg {
+  background-image: url("../images/santamariaoverview.jpg");
+  background-size: inherit;
+  position: absolute;
+  top: 0;
+  left: 0;
   height: 350px;
   -webkit-filter: blur(5px);
   -moz-filter: blur(5px);
