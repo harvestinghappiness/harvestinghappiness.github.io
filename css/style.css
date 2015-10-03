@@ -139,6 +139,18 @@ header h1{
   padding: 0;
 }
 
+.nav-blog {
+    color: #2d2d2d;
+    font-size: 14px;
+    float: left;
+    width: 210px;
+}
+
+.inner-content {
+    float: right;
+    width: 650px;
+}
+
 @media screen and (min-width: 767px) {
   .nav li.active > a {
     border-bottom: 3px solid #cc7a6f;
