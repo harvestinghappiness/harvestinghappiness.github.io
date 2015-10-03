@@ -14,7 +14,7 @@ We are a tax-deductible 501(c)3 public charity as recognized by the IRS under th
 
 ### Donate Online
 
-Use this button to donate securely using Paypal
+Donate one time or monthly! *(If you prefer to donate a custom amount monthly use the onetime button and select the monthly checkbox)*
 
 <div class="col-sm-6">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
