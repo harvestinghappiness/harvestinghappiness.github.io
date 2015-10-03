@@ -18,7 +18,7 @@ permalink: /contact/
 	<h3>Cosechando Felicidad</h3>
 	<pre><code>117 Elk Lane
 Williston, VT 05495</code></pre>
-	<h3>General Inquiry?</h3><p>Fill out <a target="_blank" href="http://goo.gl/forms/iU8Y3sQoaN">this Form!</a></p>
+	<h3>General Inquiry?</h3><p>Fill out <a target="_blank" href="{{ site.contactform }}">this Form!</a></p>
 </div>
 <div class="contact col-sm-4">
 	<figure>
