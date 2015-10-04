@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Test Post"
+date:   2015-09-30 21:01:38
+author: sam
+categories: First Post
+---
+
 Test
 
 [link](http://www.google.com)
