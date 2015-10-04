@@ -20,9 +20,5 @@ permalink: /contact/
 Williston, VT 05495</code></pre>
 	<h3>General Inquiry?</h3><p>Fill out <a target="_blank" href="{{ site.contactform }}">this Form!</a></p>
 </div>
-<div class="contact col-sm-4">
-	<figure>
-		<img src="../images/directors.jpg" alt="Founders Emily Keller and Brennan McMillen">
-		<figcaption>Co-Founders Brennan McMillen &amp; Emily Keller</figcaption>
-	</figure>
-</div>
+
+{% include figure.html src="directors.jpg" caption="Co-Founders Brennan McMillen & Emily Keller" %}
