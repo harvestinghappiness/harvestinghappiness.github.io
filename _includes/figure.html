@@ -1,0 +1,4 @@
+<figure class="col-sm-4 {% if include.side %}{{ include.side }}{% endif %}">
+	<img src="{{ site.url }}/images/{{ include.src }}" alt="{% if include.alt %}{{ include.alt }}{% endif %}">
+	<figcaption>{% if include.caption %}{{ include.caption }}{% endif %}</figcaption>
+</figure>
