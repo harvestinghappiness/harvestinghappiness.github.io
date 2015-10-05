@@ -67,4 +67,6 @@ they dont need to be aligned either
 |1|2|3|
 |\:--- for left alignment| \:---: for center | \---: for right|
 
+[here](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#lists) is a link to a great cheatsheet!
+
 ### hopefully that is everything you need feel free to ask questions!
