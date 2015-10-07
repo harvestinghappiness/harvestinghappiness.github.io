@@ -16,8 +16,9 @@ permalink: /contact/
 </div>
 <div class="col-sm-6">
 	<h3>Cosechando Felicidad</h3>
-	<pre><code>117 Elk Lane
-Williston, VT 05495</code></pre>
+	<pre>
+117 Elk Lane
+Williston, VT 05495</pre>
 	<h3>General Inquiry?</h3><p>Fill out <a target="_blank" href="{{ site.contactform }}">this Form!</a></p>
 </div>
 
