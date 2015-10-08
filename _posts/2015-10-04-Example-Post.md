@@ -16,10 +16,15 @@ This is an example to build a first post off of.
 Optionally you can include side= to align it left or right
 
 # This makes a header
+
 ## This a subheader
+
 ### a sub-sub-header
+
 ####
+
 #####
+
 ###### this is the smallest
 
 1. this will make numbered list
@@ -42,11 +47,15 @@ Optionally you can include side= to align it left or right
   1. too
   2. too
 
-{% include paypalbutton.html %} this will put a paypal button on the page
-{% include paypalmonthlybutton.html %} this will put a monthly donation button
+this will put a paypal button on the page
+
+{% include paypalbutton.html %} 
+
+this will put a monthly donation button
+
+{% include paypalmonthlybutton.html %} 
 
 > this will render as a block quote
-
 > \- Albert Einstien *probably*
 
 if you want to make text italic surround it with * like this *hello*
