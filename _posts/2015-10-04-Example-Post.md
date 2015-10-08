@@ -43,7 +43,7 @@ Optionally you can include side= to align it left or right
   2. too
 
 {% include paypalbutton.html %} this will put a paypal button on the page
-{% include paypalbuttonmonthly.html %} this will put a monthly donation button
+{% include paypalmonthlybutton.html %} this will put a monthly donation button
 
 > this will render as a block quote
 
