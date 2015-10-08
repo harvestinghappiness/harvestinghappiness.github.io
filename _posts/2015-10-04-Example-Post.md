@@ -8,12 +8,18 @@ categories: First Post
 
 This is an example to build a first post off of.
 
-[This](http://google.com) will create a link with text "this" and link to "google.com" Remember the order of []() or it won't work!
+will create a link with text "this" and link to "google.com" Remember the order of []() or it won't work!
 
-![image description]({{ site.url }}/images/imagename.jpg) this will make an inline image.
+[This](http://google.com) 
 
-{% include figure.html src="imagename.jpg" caption="Image caption here" side="left" %} this will make an image with a caption underneath. 
+this will make an inline image.
+
+![image description]({{ site.url }}/images/imagename.jpg) 
+
+this will make an image with a caption underneath. 
 Optionally you can include side= to align it left or right
+
+{% include figure.html src="imagename.jpg" caption="Image caption here" side="left" %} 
 
 # This makes a header
 
