@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Cosechando Felicidad - Harvesting Happiness
+title: Cosechando Felicidad
 permalink: /
 ---
 
