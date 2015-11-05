@@ -156,3 +156,9 @@ select {
     font-size: 1.2em;
   }
 }
+
+@media screen and (max-width: 380px) {
+  a.navbar-brand {
+    font-size: 1em;
+  }
+}
