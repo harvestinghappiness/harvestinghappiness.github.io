@@ -151,8 +151,8 @@ select {
   }
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 420px) {
   a.navbar-brand {
-    font-size: 1.4em;
+    font-size: 1.2em;
   }
 }
