@@ -20,6 +20,8 @@ We are so grateful for the generous support we have received from so many! Becau
 
 Donate one time or monthly! *(If you prefer to donate a custom amount monthly use the onetime button and select the monthly checkbox)*
 
+*Paypal takes **2.5%** of every donation, so a donation of **$100 will yeild $96.50***
+
 <div class="col-sm-6">
 	<h3>One Time Donation</h3>
 	{% include paypalbutton.html %}
