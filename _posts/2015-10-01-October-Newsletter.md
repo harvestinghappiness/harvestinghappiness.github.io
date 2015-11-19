@@ -11,7 +11,7 @@ categories: October Newsletter
 We are continually overwhelmed by the magnitude of 
 God’s goodness he has lavished on us! So many new and
 truly powerful things are happening. Doors are being 
-opened and lives are forever being changed. <!--endexcerpt-->So much has 
+opened and lives are forever being changed. So much has 
 happened in the past five months, it would be near 
 impossible to arrange words in any order to express 
 everything that has transpired. In mid-May both Emily 
