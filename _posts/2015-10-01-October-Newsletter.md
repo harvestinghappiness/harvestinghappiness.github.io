@@ -37,7 +37,7 @@ Emily wasted no time researching, organizing and
 compiling all the information necessary to apply to be a 
 non-profit organization. 
 
-   People continually ask us ‘how’ we do what we do. 
+People continually ask us ‘how’ we do what we do. 
 There is an enormous amount of work involved with 
 running a program such as this. Incalculable hours spent 
 doing things you would never even think of. Not only on- 
@@ -50,7 +50,7 @@ in the States. Countless phone calls, emails, bank visits,
 excel spreadsheets and a list of things to plan that would 
 make anyone’s head spin.
 
-   While filling out the non-profit application we were 
+While filling out the non-profit application we were 
 asked “What makes us qualified?” I remember a moment 
 of silence before a burst of laughter. On paper, we are a 
 group of young adults, no fancy titles in front of our 
@@ -62,7 +62,7 @@ are officially a 501c3 non-profit. Not because we are
 able, or qualified or extraordinary but, because God has 
 amazing plans for a very special village. 
 
-    Throughout this process our desperate need for God 
+Throughout this process our desperate need for God 
 has been made apparent in more ways than one, but also 
 our need for our brothers and sisters in Christ. So easily 
 our mind can trick us into thinking we have to do
@@ -76,7 +76,7 @@ intended to be.
 >so easily trips us up. And let us run with endurance the 
 >race God has set before us.”- Hebrews 12:1
 
-   We are so fortunate to be constantly surrounded by 
+We are so fortunate to be constantly surrounded by 
 some of the most incredible people we have ever had the 
 privilege of knowing. Our Board of Directors is not only 
 comprised of the four most hard-working, dedicated, 
