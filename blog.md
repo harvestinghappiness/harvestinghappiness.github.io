@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-<ul>
+<ul class="blog">
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
