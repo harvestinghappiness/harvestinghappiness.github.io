@@ -169,6 +169,10 @@ ul.blog li {
   margin-bottom: 2em;
 }
 
+article.post-content p {
+  text-indent: 1em;
+}
+
 @media screen and (min-width: 767px) {
   .nav li.active > a {
     border-bottom: 3px solid #cc7a6f;
