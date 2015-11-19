@@ -60,7 +60,7 @@ divide up the mealtimes to make it easier on everyone but
 no matter how you look at it, they volunteer a lot of time 
 and energy.
 
-{% include figure.html src="volunteers6.jpg" %}
+{% include figure.html src="volunteers6.jpg" side="right" %}
 
 One of our biggest time expenses is our water situation. 
 Nowhere in Santa Maria will you find anything that 
@@ -89,7 +89,7 @@ factory. Others walk 2 hours to work in the fields for 8
 hours and then walk the 2 hours home. Others get up at 4 
 AM to iron clothes.
 
-{% include figure.html src="cristianemilybrennan.jpg" %}
+{% include figure.html src="cristianemilybrennan.jpg" side="right" %}
 
 With all this going on you might ask yourself why they 
 volunteer. Truth is, they absolutely love volunteering. It 
