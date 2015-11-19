@@ -20,7 +20,7 @@ importantly to the people we know and love. We were
 thrilled to be ‘home’ and doing what God had laid on our 
 hearts so many years ago.
 
-{% include figure.html src="bandepots.jpg" caption="Co-Directors of <b>Cosechando Felicidad, Inc</b> <br> Brennan McMillan & Emily Keller" side="center" %}
+{% include figure.html src="bandepots.jpg" caption="Co-Directors of <b>Cosechando Felicidad, Inc</b> <br> Brennan McMillan & Emily Keller" %}
 
 We quickly dove into work at the feeding program that
 was established in December, doing home visitations, 
@@ -83,7 +83,7 @@ comprised of the four most hard-working, dedicated,
 compassionate and humble people you will ever meet, 
 but they are also our best friends.
 
-{% include figure.html src="volunteers5.jpg" caption="Our Board of Directors for <b>Cosechando Felicidad</b> <br> Cristian, Wilson, Edwin and Rocael" side="center" %}
+{% include figure.html src="volunteers5.jpg" caption="Our Board of Directors for <b>Cosechando Felicidad</b> <br> Cristian, Wilson, Edwin and Rocael" %}
 
 The four gentlemen in the photo above have all dedicated 
 themselves to serving God through helping their own 
