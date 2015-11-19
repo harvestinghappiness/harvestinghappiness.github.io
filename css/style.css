@@ -148,7 +148,6 @@ select {
 ul.blog {
   max-width: 600px;
   list-style: none;
-  margin: auto;
 }
 
 @media screen and (min-width: 767px) {
