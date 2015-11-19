@@ -11,7 +11,7 @@ permalink: /blog/
       <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
         <p class="meta">{{ post.date | date: '%B %d, %Y' }}{% if post.author %} by {{ author.name }}{% endif %}</p>
       <hr>
-      {{ post.excerpt | strip_html }}
+      {{ post.content | strip_html | truncatewords: 50 }}
     </li>
   {% endfor %}
 </ul>
