@@ -2,7 +2,6 @@
 layout: post
 title:  October Newsletter
 date:   2015-10-01 12:00:00
-author: brennan
 categories: October Newsletter
 ---
 
