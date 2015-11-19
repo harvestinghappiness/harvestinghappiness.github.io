@@ -150,6 +150,14 @@ ul.blog {
   list-style: none;
 }
 
+ul.blog h4 {
+  margin: 0;
+}
+
+.meta {
+  margin: 0;
+}
+
 @media screen and (min-width: 767px) {
   .nav li.active > a {
     border-bottom: 3px solid #cc7a6f;
