@@ -145,6 +145,12 @@ select {
     width: 315px;
 }
 
+ul.blog {
+  max-width: 600px;
+  list-style: none;
+  margin: auto;
+}
+
 @media screen and (min-width: 767px) {
   .nav li.active > a {
     border-bottom: 3px solid #cc7a6f;
