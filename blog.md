@@ -6,7 +6,7 @@ permalink: /blog/
 
 <ul class="blog">
   {% for post in site.posts %}
-    {% assign author = site.data.people[post.author] %}
+    {% if post.author %} {% assign author = site.data.people[post.author] %} {% endif %}
     <li>
       <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
         <p class="meta">{{ post.date | date: '%B %d, %Y' }}{% if post.author %} by {{ author.name }}{% endif %}</p>
