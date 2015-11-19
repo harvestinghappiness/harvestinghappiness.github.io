@@ -8,7 +8,7 @@ permalink: /blog/
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
-      <p class="meta">{{ page.date | date: '%B %d, %Y' }} by {{ post.author }}</p>
+        <p class="meta">{{ page.date | date: '%B %d, %Y' }} {% if post.author %}by {{ post.author.name }}{% endif %}</p>
       <hr>
       {{ post.excerpt }}
     </li>
