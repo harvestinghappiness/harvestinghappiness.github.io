@@ -16,6 +16,7 @@ twitter_username:
 markdown: kramdown
 highlighter: pygments
 encoding: utf-8
+excerpt_separator: <!--endexcerpt-->
 
 newsletter: https://docs.google.com/forms/d/1UxdIzdVGaljOddK3Huq8BP0SYxs4xSLq1PQnSsLNZ7g/viewform
 contactform: http://goo.gl/forms/iU8Y3sQoaN
