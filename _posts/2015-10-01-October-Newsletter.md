@@ -104,7 +104,7 @@ would not want it any other way!
 {% include figure.html src="nl4.jpg" alt="Cooking in Guatemala" %}
 {% include figure.html src="nl5.jpg" alt="All of the volunteers in Guatemala" %}
 
-
+&nbsp;
 
 >“Never Stop Praying.”~ 1 Thessalonians 5:17
 
