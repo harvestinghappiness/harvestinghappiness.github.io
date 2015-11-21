@@ -173,6 +173,11 @@ article.post-content p {
   text-indent: 1em;
 }
 
+.center {
+  float: none;
+  margin: 0 auto;
+}
+
 @media screen and (min-width: 767px) {
   .nav li.active > a {
     border-bottom: 3px solid #cc7a6f;
