@@ -17,9 +17,10 @@ this will make an inline image.
 ![image description]({{ site.url }}/images/imagename.jpg) 
 
 this will make an image with a caption underneath. 
-Optionally you can include side= to align it left or right
+Optionally you can include side= to align it left or right or center
+Optionally you can include size= to make it fill full, half, quarter or third of the area
 
-{% include figure.html src="imagename.jpg" caption="Image caption here" side="left" %} 
+{% include figure.html src="imagename.jpg" caption="Image caption here" side="left" size="half" %} 
 
 # This makes a header
 
