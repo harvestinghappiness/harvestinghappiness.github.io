@@ -80,7 +80,7 @@ dishes. There are plenty of dishes to go around when you
 are sometimes feeding 40 people at a mealtime. Keep in 
 mind water must also be hauled for this task.
 
-{% include figure.html src="volunteers7.jpg" size="half" %}
+{% include figure.html src="volunteers7.jpg" %}
 
 All of this would be a lot of work if it was the only thing 
 our volunteers had going on, but it’s not. The majority of 
