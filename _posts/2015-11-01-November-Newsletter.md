@@ -23,7 +23,7 @@ towards our work in Guatemala and we hope you will
 consider giving a gift that makes an impact this holiday 
 season.
 
-{% include figure.html src="ring.jpg" %}
+{% include figure.html src="ring.jpg" size="half" %}
 
 Additionally, plans have been made for several short 
 term mission groups to visit us. We are very excited 
@@ -61,7 +61,7 @@ divide up the mealtimes to make it easier on everyone but
 no matter how you look at it, they volunteer a lot of time 
 and energy.
 
-{% include figure.html src="volunteers6.jpg" side="right" %}
+{% include figure.html src="volunteers6.jpg" side="right" size="half" %}
 
 One of our biggest time expenses is our water situation. 
 Nowhere in Santa Maria will you find anything that 
@@ -80,7 +80,7 @@ dishes. There are plenty of dishes to go around when you
 are sometimes feeding 40 people at a mealtime. Keep in 
 mind water must also be hauled for this task.
 
-{% include figure.html src="volunteers7.jpg" %}
+{% include figure.html src="volunteers7.jpg" size="half" %}
 
 All of this would be a lot of work if it was the only thing 
 our volunteers had going on, but it’s not. The majority of 
@@ -90,7 +90,7 @@ factory. Others walk 2 hours to work in the fields for 8
 hours and then walk the 2 hours home. Others get up at 4 
 AM to iron clothes.
 
-{% include figure.html src="cristianemilybrennan.jpg" side="right" %}
+{% include figure.html src="cristianemilybrennan.jpg" side="right" size="half" %}
 
 With all this going on you might ask yourself why they 
 volunteer. Truth is, they absolutely love volunteering. It 
@@ -118,7 +118,7 @@ gives them hope. When we look at our volunteers and all
 God has done in their lives we see an incredible hope for 
 the future.
 
-{% include figure.html src="volunteers2.jpg" %}
+{% include figure.html src="volunteers2.jpg" size="half" %}
 
 It is easy to feel overwhelmed and it is probably safe to 
 say it happens on a near daily basis. We have no special 
