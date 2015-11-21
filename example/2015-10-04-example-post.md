@@ -4,6 +4,7 @@ title:  "The Title goes here"
 date:   2015-09-30 21:01:38
 author: sam
 categories: First Post
+activetab: blog
 ---
 
 This is an example to build a first post off of.
