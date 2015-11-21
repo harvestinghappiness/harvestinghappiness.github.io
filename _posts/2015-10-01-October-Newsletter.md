@@ -100,9 +100,9 @@ continue. They were our friends who quickly became our
 family.  We are in this together, for the long-haul and we 
 would not want it any other way!
 
-![image description]({{ site.url }}/images/imagename.jpg) 
-![image description]({{ site.url }}/images/imagename.jpg) 
-![image description]({{ site.url }}/images/imagename.jpg) 
+![Cristian, Wilson, Edwin and Rocael]({{ site.url }}/images/nl3.jpg) 
+![Cooking in Guatemala]({{ site.url }}/images/nl4.jpg) 
+![All of the volunteers in Guatemala]({{ site.url }}/images/nl5.jpg) 
 
 >“Never Stop Praying.”~ 1 Thessalonians 5:17
 

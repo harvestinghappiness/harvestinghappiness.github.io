@@ -46,6 +46,8 @@ we will always strive for. We would be absolutely
 nothing without our Guatemalan volunteers and cannot 
 thank them enough for what they are doing.
 
+![Santa Maria, Guatemala]({{ site.url }}/images/santamariavolc.jpg)
+
 ###Our Volunteers
 
 Our volunteers work incredibly hard to make sure our 
