@@ -16,6 +16,8 @@ We are a tax-deductible 501(c)3 public charity as recognized by the IRS under th
 
 We are so grateful for the generous support we have received from so many! Because we truly value your financial commitment, we want to assure you that 100% of every donation goes directly to maintaining and expanding these necessary programs. Our directors and board of directors function strictly on a volunteer basis. We are committed to being good stewards of your donation!
 
+{% include figure.html src="asmile.png" alt="Amazon Smile" side="left" %}
+
 You can also sign up for Amazon Smile, which will donate 0.5% of every purchase with no charge to you. All you have to do is go to [smile.amazon.com](http://smile.amazon.com/) and search for Cosechando Felicidad.
 
 **If you are making a donation, check or online, PLEASE include your email address so we can email you a thank you and your tax receipt. We can provide a meal for the same cost as a postage stamp.**
