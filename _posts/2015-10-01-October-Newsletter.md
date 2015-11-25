@@ -20,7 +20,7 @@ importantly to the people we know and love. We were
 thrilled to be ‘home’ and doing what God had laid on our 
 hearts so many years ago.
 
-{% include figure.html src="bandepots.jpg" caption="Co-Directors of <b>Cosechando Felicidad, Inc</b> <br> Brennan McMillan & Emily Keller" %}
+{% include figure.html src="bandepots.jpg" caption="Co-Directors of <b>Cosechando Felicidad, Inc</b> <br> Brennan McMillen & Emily Keller" %}
 
 We quickly dove into work at the feeding program that
 was established in December, doing home visitations, 
