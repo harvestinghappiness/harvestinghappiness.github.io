@@ -2,7 +2,7 @@
 layout: post
 title:  The String of Life
 date:   2015-11-25 12:00:00
-categories: October Newsletter
+categories: Guatemala Reflections
 author: brennan
 activetab: blog
 ---
