@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The String of Life
+title:  The Sting of Real Life
 date:   2015-11-25 12:00:00
 categories: Guatemala Reflections
 author: brennan
