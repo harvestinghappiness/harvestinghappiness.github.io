@@ -25,4 +25,4 @@ I want to become accustomed to. I never want other people’s suffering to be no
 part of my day. No matter how many stories I hear, or how many people come to us. I want it to sting as 
 much as it did first time. I want each situation to break my heart so love can flow out. 
 
--Brennan
+<p class="meta">-Brennan</p>
