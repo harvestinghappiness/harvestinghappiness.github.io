@@ -18,7 +18,6 @@ We are so grateful for the generous support we have received from so many! Becau
 
 <a href="https://smile.amazon.com/"><figure class="col-xs-2 left">
 	<img src="http://harvestinghappiness.org/images/asmile.png" alt="Amazon Smile" title="">
-	<figcaption></figcaption>
 </figure></a>
 
 You can also sign up for Amazon Smile, which will donate 0.5% of every purchase with no charge to you. All you have to do is go to [smile.amazon.com](http://smile.amazon.com/) and search for Cosechando Felicidad.
