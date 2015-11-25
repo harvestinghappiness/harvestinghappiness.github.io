@@ -178,6 +178,10 @@ article.post-content p {
   margin: 0 auto;
 }
 
+article.post-content p.meta {
+  text-indent: 0;
+}
+
 @media screen and (min-width: 767px) {
   .nav li.active > a {
     border-bottom: 3px solid #cc7a6f;
