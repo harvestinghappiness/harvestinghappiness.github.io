@@ -18,4 +18,4 @@ Harvesting Happiness would not be possible without our board of directors who we
 
 We are funded entirely by private donations and would ask anyone considering donating to contact us with any questions they might have.
 
-If you had any additional questions please do not hesitate to contact us at [emily@harvestinghappiness.org](mailto:emily@harvestinghappiness.org)
+If you had any additional questions please do not hesitate to contact us at [info@harvestinghappiness.org](mailto:info@harvestinghappiness.org)
