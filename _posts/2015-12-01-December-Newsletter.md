@@ -6,7 +6,7 @@ categories: December Newsletter
 activetab: blog
 ---
 
-{% include figure.html src="d15pic1.jpg" %}
+{% include figure.html src="d15pic1.jpg" size="full" alt="Santa Maria, Guatemala" %}
 
 ##Thanksgiving in Guatemala
 
@@ -16,7 +16,7 @@ It brings tears to my eyes when I think about how far God has brought us. All th
 
 For us, being thankfully isn’t where it ends though. God continually reminds us that to those who are given much, much will be asked. On behalf of Cosechando Felicidad, we want to spread that same love, hope and happiness we have so freely received.
 
-{% include figure.html src="d15pic2.jpg" caption="“Come to me, all you who are weary and burdened, and I will give you rest” Matthew 11:28" %}
+{% include figure.html src="d15pic2.jpg" size="half" caption="“Come to me, all you who are weary and burdened, and I will give you rest” Matthew 11:28" %}
 
 ##Hope for a future
 
@@ -36,12 +36,12 @@ Much love and many thanks,
 
 Brennan, Emily, and the Cosechando Felicidad Family
 
-{% include figure.html src="d15pic3.jpg" %}
-
-{% include figure.html src="d15pic4.jpg" caption="“This month we were able to purchase a stove of our own from the capital. This means we no longer have the expense of renting a stove that used more than double the propane!" %}
-
 {% include figure.html src="d15pic5.jpg" caption="“Soaking corn to grind for tortillas." %}
 
 {% include figure.html src="d15pic6.jpg" caption="Sandra and Alex getting ready to make tortillas." %}
 
+{% include figure.html src="d15pic3.jpg" %}
+
 {% include figure.html src="d15pic7.jpg" caption="The door to the dining room with canes propped outside, a “God Bless this Home” sign above the door in Spanish, and Matthew 11:28 on the wall." %}
+
+{% include figure.html src="d15pic4.jpg" caption="“This month we were able to purchase a stove of our own from the capital. This means we no longer have the expense of renting a stove that used more than double the propane!" %}
