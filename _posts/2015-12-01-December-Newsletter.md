@@ -32,9 +32,9 @@ Designate us as your Amazon Smile Charity: [https://smile.amazon.com/ch/47443726
 
 Brennan has made it back to Guatemala and has moved into the upper story of our new facility. Emily will be joining her in January. She spends each day cooking at the project, visiting the sick, taking people to the doctor and doing so much more. Each day is different while we are in Guatemala, but we are always very busy. Each evening there is a line of people in crisis who form to talk to us. They are at the end of their rope and do not know what to do. They are about to lose their homes, in medical crisis, depressed, abused, and any number of other possibilities. They come to us hoping we have the answers and can do something about their situation. While we are far from knowing the answers, we know who does and we seek His counsel in every decision. It would be impossible to ask for specific prayers for all of the difficult decisions we make each day, but we would greatly appreciate your general prayers for this.  Sometimes we feel like we hold the success of this village in our hands and have to choose who it goes to. Pray that we would have clarity in our decision and be able to heard God’s voice and see his purpose clearly.
 
-Much love and many thanks,
+<p class="meta">Much love and many thanks,</p>
 
-Brennan, Emily, and the Cosechando Felicidad Family
+<p class="meta">Brennan, Emily, and the Cosechando Felicidad Family</p>
 
 <style type="text/css">
 	figure {

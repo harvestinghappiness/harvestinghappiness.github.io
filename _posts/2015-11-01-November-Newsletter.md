@@ -168,5 +168,7 @@ should come. Pray for wisdom and understanding as we
 continue to learn and grow as an organization. As always 
 thank you all for your support. We feel incredibly blessed 
 to have so many people standing behind us.
-A million thanks,
-Emily, Brennan, and the Cosechando Felicidad Family
+
+<p class="meta">A million thanks,</p>
+
+<p class="meta">Emily, Brennan, and the Cosechando Felicidad Family</p>
