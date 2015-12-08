@@ -36,6 +36,10 @@ Brennan has made it back to Guatemala and has moved into the upper story of our 
 
 <p class="meta">Brennan, Emily, and the Cosechando Felicidad Family</p>
 
+&nbsp;
+
+
+
 <style type="text/css">
 	figure {
 		height: 582px;
