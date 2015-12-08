@@ -38,13 +38,31 @@ Brennan has made it back to Guatemala and has moved into the upper story of our 
 
 &nbsp;
 
+<style type="text/css">
+	figure.d15 {
+		height: 582px;
+	}
+</style>
 
-{% include figure.html src="d15pic7.jpg" caption="The door to the dining room with canes propped outside, a “God Bless this Home” sign above the door in Spanish, and Matthew 11:28 on the wall." %}
+<figure class="col-xs-4 d15">
+<img src="d15pic7.jpg" alt="The door to the dining room with canes propped outside, a “God Bless this Home” sign above the door in Spanish, and Matthew 11:28 on the wall."><figcaption>The door to the dining room with canes propped outside, a “God Bless this Home” sign above the door in Spanish, and Matthew 11:28 on the wall.</figcaption>
+</figure>
 
-{% include figure.html src="d15pic4.jpg" caption="“This month we were able to purchase a stove of our own from the capital. This means we no longer have the expense of renting a stove that used more than double the propane!" %}
+<figure class="col-xs-4 d15">
+<img src="d15pic4.jpg" alt="This month we were able to purchase a stove of our own from the capital. This means we no longer have the expense of renting a stove that used more than double the propane!">
+<figcaption>This month we were able to purchase a stove of our own from the capital. This means we no longer have the expense of renting a stove that used more than double the propane!</figcaption>
+</figure>
 
-{% include figure.html src="d15pic3.jpg" %}
+<figure class="col-xs-4 d15">
+<img src="d15pic3.jpg">
+</figure>
 
-{% include figure.html src="d15pic5.jpg" caption="“Soaking corn to grind for tortillas." %}
+<figure class="col-xs-4 d15">
+<img src="d15pic5.jpg" alt="Soaking corn to grind for tortillas.">
+<figcaption>Soaking corn to grind for tortillas.</figcaption>
+</figure>
 
-{% include figure.html src="d15pic6.jpg" caption="Sandra and Alex getting ready to make tortillas." %}
+<figure class="col-xs-4 d15">
+<img src="d15pic6.jpg" alt="Sandra and Alex getting ready to make tortillas.">
+<figcaption>Sandra and Alex getting ready to make tortillas.</figcaption>
+</figure>
