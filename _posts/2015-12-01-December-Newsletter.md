@@ -36,11 +36,23 @@ Much love and many thanks,
 
 Brennan, Emily, and the Cosechando Felicidad Family
 
+<style type="text/css">
+	figure {
+		height: 500px;
+	}
+</style>
+
 {% include figure.html src="d15pic5.jpg" caption="“Soaking corn to grind for tortillas." %}
 
 {% include figure.html src="d15pic6.jpg" caption="Sandra and Alex getting ready to make tortillas." %}
 
 {% include figure.html src="d15pic3.jpg" %}
+
+<style type="text/css">
+	figure {
+		height: 582px;
+	}
+</style>
 
 {% include figure.html src="d15pic7.jpg" caption="The door to the dining room with canes propped outside, a “God Bless this Home” sign above the door in Spanish, and Matthew 11:28 on the wall." %}
 
