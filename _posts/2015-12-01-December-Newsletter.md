@@ -39,13 +39,6 @@ Brennan has made it back to Guatemala and has moved into the upper story of our 
 &nbsp;
 
 
-
-<style type="text/css">
-	figure {
-		height: 582px;
-	}
-</style>
-
 {% include figure.html src="d15pic7.jpg" caption="The door to the dining room with canes propped outside, a “God Bless this Home” sign above the door in Spanish, and Matthew 11:28 on the wall." %}
 
 {% include figure.html src="d15pic4.jpg" caption="“This month we were able to purchase a stove of our own from the capital. This means we no longer have the expense of renting a stove that used more than double the propane!" %}
