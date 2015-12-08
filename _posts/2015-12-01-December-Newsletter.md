@@ -38,18 +38,6 @@ Brennan, Emily, and the Cosechando Felicidad Family
 
 <style type="text/css">
 	figure {
-		height: 500px;
-	}
-</style>
-
-{% include figure.html src="d15pic5.jpg" caption="“Soaking corn to grind for tortillas." %}
-
-{% include figure.html src="d15pic6.jpg" caption="Sandra and Alex getting ready to make tortillas." %}
-
-{% include figure.html src="d15pic3.jpg" %}
-
-<style type="text/css">
-	figure {
 		height: 582px;
 	}
 </style>
@@ -57,3 +45,9 @@ Brennan, Emily, and the Cosechando Felicidad Family
 {% include figure.html src="d15pic7.jpg" caption="The door to the dining room with canes propped outside, a “God Bless this Home” sign above the door in Spanish, and Matthew 11:28 on the wall." %}
 
 {% include figure.html src="d15pic4.jpg" caption="“This month we were able to purchase a stove of our own from the capital. This means we no longer have the expense of renting a stove that used more than double the propane!" %}
+
+{% include figure.html src="d15pic3.jpg" %}
+
+{% include figure.html src="d15pic5.jpg" caption="“Soaking corn to grind for tortillas." %}
+
+{% include figure.html src="d15pic6.jpg" caption="Sandra and Alex getting ready to make tortillas." %}
