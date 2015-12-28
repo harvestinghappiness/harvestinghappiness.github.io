@@ -5,6 +5,8 @@ permalink: /test/
 ---
 
 <div class="col-sm-6">
+    <h3>Email Us!</h3>
+    <hr>
     <form action="https://docs.google.com/forms/d/1ooxeou7pVxHweD8-jG7Hq6cQONiDby3u1yt0TBef1wg/formResponse" method="POST" id="ss-form" target="secret-frame" onsubmit="">
         <div class="form-group">
             <label for="itemView.getDomIdToLabel()" aria-label="(Required field)">First &amp; Last Name: *
@@ -38,6 +40,8 @@ permalink: /test/
     </form>
 </div>
 <div class="col-sm-6">
+    <h3>Sign up for our newsletter!</h3>
+    <hr>
     <form action="https://docs.google.com/forms/d/1UxdIzdVGaljOddK3Huq8BP0SYxs4xSLq1PQnSsLNZ7g/formResponse" method="POST" id="ss-form" target="secret-frame" onsubmit="">
         <div class="form-group">
             <label class="ss-q-item-label" for="entry_1272035182">
