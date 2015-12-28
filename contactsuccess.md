@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Email Sent!
+title: Email Sent
 permalink: /contactsuccess/
 ---
 
