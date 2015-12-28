@@ -217,7 +217,7 @@ article.post-content p.meta {
 }
 
 @media screen and (min-device-width: 767px) {
-  .newsletter {
+  div.newsletter {
     margin-bottom: 15px;
   }
 }
