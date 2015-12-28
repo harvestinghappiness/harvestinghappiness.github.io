@@ -75,10 +75,14 @@ function validateForma() {
     var z = document.forms["forma"]["entry.1857669065"].value;
     var a = document.forms["forma"]["entry.112630363"].value;
     var errors = "";
-    errors.concat(x ? "" : "Name ");
-    errors.concat(y ? "" : "Email ");
-    errors.concat(z ? "" : "Subject ");
-    errors.concat(a ? "" : "Message");
+    x = x ? "" : "Name ";
+    errors.concat(x);
+    y = y ? "" : "Email ";
+    errors.concat(y);
+    z = z ? "" : "Subject ";
+    errors.concat(z);
+    a = a ? "" : "Message";
+    errors.concat(a);
     if (errrors){
         alert("These feilds are required: ".concat(errors));
         return false;
@@ -90,8 +94,10 @@ function validateFormb() {
     var x = document.forms["formb"]["entry.1272035182"].value;
     var y = document.forms["formb"]["entry.170275494"].value;
     var errors = "";
-    errors.concat(x ? "" : "Name ");
-    errors.concat(y ? "" : "Email ");
+    x = x ? "" : "Name ";
+    errors.concat(x);
+    y = y ? "" : "Email ";
+    errors.concat(y);
     if (errrors){
         alert("These feilds are required: ".concat(errors));
         return false;
