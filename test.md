@@ -7,7 +7,7 @@ permalink: /test/
 <div class="col-sm-6">
     <h3>Have Questions?</h3>
     <hr>
-    <form action="https://docs.google.com/forms/d/1ooxeou7pVxHweD8-jG7Hq6cQONiDby3u1yt0TBef1wg/formResponse" method="POST" id="ss-form" target="secret-frame" onsubmit="">
+    <form action="https://docs.google.com/forms/d/1ooxeou7pVxHweD8-jG7Hq6cQONiDby3u1yt0TBef1wg/formResponse" method="POST" id="ss-form" name="forma" target="secret-frame" onsubmit="">
         <div class="form-group">
             <label for="itemView.getDomIdToLabel()" aria-label="(Required field)">First &amp; Last Name: *
             </label>
@@ -20,13 +20,13 @@ permalink: /test/
         </div>
         <div class="form-group">
             <label class="ss-q-item-label" for="entry_1857669065">
-                Subject:
+                Subject *:
             </label>
             <input type="text" name="entry.1857669065" value="" class="ss-q-short form-control" id="entry_1857669065" dir="auto" aria-label="Subject:  " title="" required="">
         </div>
         <div class="form-group">
             <label class="ss-q-item-label" for="entry_112630363">
-                Message:
+                Message *:
             </label>
             <textarea name="entry.112630363" rows="8" cols="0" class="ss-q-long form-control" id="entry_112630363" dir="auto" aria-label="Message:  " aria-required="true" required=""></textarea>
         </div>
@@ -35,14 +35,14 @@ permalink: /test/
             <input type="hidden" name="pageHistory" value="0">
             <input type="hidden" name="fvv" value="0">
             <input type="hidden" name="fbzx" value="6162429118050415973">
-            <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action btn btn-default">
+            <input type="submit" name="submit" value="Submit" id="ss-submita" class="jfk-button jfk-button-action btn btn-default">
         </div>
     </form>
 </div>
 <div class="col-sm-5 col-sm-offset-1 newsletter">
     <h3>Sign up for our newsletter!</h3>
     <hr>
-    <form action="https://docs.google.com/forms/d/1UxdIzdVGaljOddK3Huq8BP0SYxs4xSLq1PQnSsLNZ7g/formResponse" method="POST" id="ss-form" target="secret-frame" onsubmit="">
+    <form action="https://docs.google.com/forms/d/1UxdIzdVGaljOddK3Huq8BP0SYxs4xSLq1PQnSsLNZ7g/formResponse" method="POST" id="ss-form" target="secret-frame" onsubmit="" name="formb">
         <div class="form-group">
             <label class="ss-q-item-label" for="entry_1272035182">
                 Name *:
@@ -60,7 +60,7 @@ permalink: /test/
             <input type="hidden" name="pageHistory" value="0">
             <input type="hidden" name="fvv" value="0">
             <input type="hidden" name="fbzx" value="-3198933841993541816">
-            <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action btn btn-default">
+            <input type="submit" name="submit" value="Submit" id="ss-submitb" class="jfk-button jfk-button-action btn btn-default">
         </div>
     </form>
 </div>
@@ -69,12 +69,54 @@ permalink: /test/
 <iframe name="secret-frame" width="0" height="0" border="0" style="display: none;"></iframe>
 <!-- Script to redirect to a custom page -->
 <script>
+function validateForma() {
+    var x = document.forms["forma"]["entry.917075521"].value;
+    var y = document.forms["forma"]["entry.2068441859"].value;
+    var z = document.forms["forma"]["entry.1857669065"].value;
+    var a = document.forms["forma"]["entry.112630363"].value;
+    var errors = "";
+    errors.concat(x ? "" : "Name ");
+    errors.concat(y ? "" : "Email ");
+    errors.concat(z ? "" : "Subject ");
+    errors.concat(a ? "" : "Message");
+    if (errrors){
+        alert("These feilds are required: ".concat(errors));
+        return false;
+    }
+    return true;
+}
+
+function validateFormb() {
+    var x = document.forms["formb"]["entry.1272035182"].value;
+    var y = document.forms["formb"]["entry.170275494"].value;
+    var errors = "";
+    errors.concat(x ? "" : "Name ");
+    errors.concat(y ? "" : "Email ");
+    if (errrors){
+        alert("These feilds are required: ".concat(errors));
+        return false;
+    }
+    return true;
+}
+
 // replace "ss-submit" with the ID of your submit button
-document.getElementById("ss-submit").addEventListener("click", function() {
+document.getElementById("ss-submita").addEventListener("click", function() {
     // adds a delay because the results page loads before the form has a chance to submit
-    setTimeout(function() {
-        // replace the url in quotes below to where you want to the user to be redirected to
-        window.location = "http://www.harvestinghappiness.org/contactsuccess/";
-    }, 1000);
+    if (validateForma()){
+        setTimeout(function() {
+            // replace the url in quotes below to where you want to the user to be redirected to
+            window.location = "http://www.harvestinghappiness.org/contactsuccess/";
+        }, 1000);
+    }
+});
+
+document.getElementById("ss-submitb").addEventListener("click", function() {
+    // adds a delay because the results page loads before the form has a chance to submit
+    if (validateFormb()){
+        setTimeout(function() {
+            // replace the url in quotes below to where you want to the user to be redirected to
+            window.location = "http://www.harvestinghappiness.org/contactsuccess/";
+        }, 1000);
+    }
 });
 </script>
