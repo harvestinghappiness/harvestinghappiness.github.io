@@ -4,6 +4,7 @@ title:  October Newsletter
 date:   2015-10-01 12:00:00
 categories: October Newsletter
 activetab: blog
+commentID: 1
 ---
 
 ##We Are Called
