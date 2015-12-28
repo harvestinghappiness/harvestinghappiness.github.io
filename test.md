@@ -86,15 +86,15 @@ function validateForma() {
     var errors = "";
     x = x ? "" : "Name ";
     console.log(x);
-    errors.concat(x);
+    errors = errors + x;
     y = y && validateEmail(y) ? "" : "Email ";
     console.log(y);
-    errors.concat(y);
+    errors = errors + y;
     console.log(errors);
     z = z ? "" : "Subject ";
-    errors.concat(z);
+    errors = errors + z;
     a = a ? "" : "Message";
-    errors.concat(a);
+    errors = errors + a;
     if (errrors){
         alert("These feilds are required: ".concat(errors));
         return false;
@@ -107,9 +107,9 @@ function validateFormb() {
     var y = document.forms["formb"]["entry.170275494"].value;
     var errors = "";
     x = x ? "" : "Name ";
-    errors.concat(x);
+    errors = errors + x;
     y = y && validateEmail(y) ? "" : "Email ";
-    errors.concat(y);
+    errors = errors + y;
     if (errrors){
         alert("These feilds are required: ".concat(errors));
         return false;
