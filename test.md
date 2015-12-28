@@ -5,6 +5,7 @@ permalink: /test/
 ---
 
 <form action="https://docs.google.com/forms/d/1ooxeou7pVxHweD8-jG7Hq6cQONiDby3u1yt0TBef1wg/formResponse" method="POST" id="ss-form" target="_self" onsubmit="">
+<div class="form-inline">
     <div class="form-group">
         <label for="itemView.getDomIdToLabel()" aria-label="(Required field)">First &amp; Last Name: *
         </label>
@@ -13,8 +14,9 @@ permalink: /test/
     <div class="form-group">
         <label class="ss-q-item-label" for="entry_2068441859">Email Address: *
         </label>
-        <input type="text" name="entry.2068441859" value="" class="ss-q-short form-control" id="entry_2068441859" dir="auto" aria-label="Email address:  " aria-required="true" required="" title="">
+        <input type="email" name="entry.2068441859" value="" class="ss-q-short form-control" id="entry_2068441859" dir="auto" aria-label="Email address:  " aria-required="true" required="" title="">
     </div>
+</div>
     <div class="form-group">
         <label class="ss-q-item-label" for="entry_1857669065">
             Subject:
