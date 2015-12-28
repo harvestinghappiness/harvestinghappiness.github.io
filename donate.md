@@ -26,13 +26,13 @@ Williston, VT 05495
 
 <p><i>Paypal takes __2.5%__ of every donation, so a donation of <strong>$100 will yeild $96.50</strong>. Sending a check does not have any associated fees.</i></p>
 
-<div class="one-time">
-	<h3>One Time Donation</h3>
+<div class="col-sm-6">
+	<h4>One Time Donation</h4>
 	{% include paypalbutton.html %}
 </div>
 
-<div class="monthly">
-	<h3>Monthly Donation</h3>
+<div class="col-sm-6">
+	<h4>Monthly Donation</h4>
 	{% include paypalmonthlybutton.html %}
 </div>
 </div>
