@@ -11,12 +11,12 @@ permalink: /test/
         <div class="form-group">
             <label for="itemView.getDomIdToLabel()" aria-label="(Required field)">First &amp; Last Name: *
             </label>
-            <input type="email" name="entry.917075521" value="" class="ss-q-short form-control" id="entry_917075521" dir="auto" aria-label="Name:  First and Last " aria-required="true" required="" title="">
+            <input type="text" name="entry.917075521" value="" class="ss-q-short form-control" id="entry_917075521" dir="auto" aria-label="Name:  First and Last " aria-required="true" required="" title="">
         </div>
         <div class="form-group">
             <label class="ss-q-item-label" for="entry_2068441859">Email Address: *
             </label>
-            <input type="text" name="entry.2068441859" value="" class="ss-q-short form-control" id="entry_2068441859" dir="auto" aria-label="Email address:  " aria-required="true" required="" title="">
+            <input type="email" name="entry.2068441859" value="" class="ss-q-short form-control" id="entry_2068441859" dir="auto" aria-label="Email address:  " aria-required="true" required="" title="">
         </div>
         <div class="form-group">
             <label class="ss-q-item-label" for="entry_1857669065">
@@ -74,7 +74,7 @@ document.getElementById("ss-submit").addEventListener("click", function() {
     // adds a delay because the results page loads before the form has a chance to submit
     setTimeout(function() {
         // replace the url in quotes below to where you want to the user to be redirected to
-        window.location = "http://www.google.com";
+        window.location = "http://www.harvestinghappiness.org/contactsuccess/";
     }, 1000);
 });
 </script>
