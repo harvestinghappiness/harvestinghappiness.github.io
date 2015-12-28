@@ -6,6 +6,8 @@ permalink: /donate/
 
 We are so grateful for the generous support we have received from so many! Because we truly value your financial commitment, we want to assure you that 100% of every donation goes directly to maintaining and expanding these necessary programs. Our directors and board of directors function strictly on a volunteer basis. We are committed to being good stewards of your donation!
 
+**If you are making a donation, check or online, PLEASE include your email address so we can email you a thank you and your tax receipt. We can provide a meal for the same cost as a postage stamp.**
+
 <div class="col-sm-6">
 <h3>Check <i>(preferred)</i></h3>
 
@@ -34,8 +36,6 @@ Williston, VT 05495
 	{% include paypalbutton.html %}
 </div>
 </div>
-
-**If you are making a donation, check or online, PLEASE include your email address so we can email you a thank you and your tax receipt. We can provide a meal for the same cost as a postage stamp.**
 
 <div class="col-sm-6">
 <h3>Amazon Smile</h3>
