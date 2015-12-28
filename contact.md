@@ -140,7 +140,7 @@ document.getElementById("ss-submitb").addEventListener("click", function() {
 </script>
 
 <div class="col-sm-12">
-	<h3>Cosechando Felicidad</h3>
+	<h3>Physical Address</h3>
 	<pre>
 117 Elk Lane
 Williston, VT 05495</pre>
