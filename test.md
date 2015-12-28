@@ -1,3 +1,9 @@
+---
+layout: page
+title: Donation Cancelled
+permalink: /test/
+---
+
 <div class="ss-form"><form action="https://docs.google.com/forms/d/1ooxeou7pVxHweD8-jG7Hq6cQONiDby3u1yt0TBef1wg/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
 <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="auto" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
