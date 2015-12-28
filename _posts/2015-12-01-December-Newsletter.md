@@ -4,7 +4,7 @@ title:  December Newsletter
 date:   2015-12-01 12:00:00
 categories: December Newsletter
 activetab: blog
-commentID: 1
+commentID: 4
 ---
 
 {% include figure.html src="d15pic1.jpg" size="full" alt="Santa Maria, Guatemala" %}
