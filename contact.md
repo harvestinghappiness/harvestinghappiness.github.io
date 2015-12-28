@@ -142,6 +142,7 @@ document.getElementById("ss-submitb").addEventListener("click", function() {
 <div class="col-sm-12">
 	<h3>Physical Address</h3>
 	<pre>
+Cosechando Felicidad Inc.
 117 Elk Lane
 Williston, VT 05495</pre>
 </div>
