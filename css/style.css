@@ -7,6 +7,14 @@ body {
   font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
 }
 
+h3 {
+  font-weight: bold;
+}
+
+p {
+    font-size: 1em;
+}
+
 .navbar-brand {
   display: inline-block;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
@@ -67,10 +75,6 @@ img.logo {
 
 a.navbar-brand {
     font-size: 1.3em;
-}
-
-p {
-    font-size: 1.2em;
 }
 
 figcaption {
