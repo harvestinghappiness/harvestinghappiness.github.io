@@ -76,14 +76,21 @@ function validateEmail(email) {
 
 function validateForma() {
     var x = document.forms["forma"]["entry.917075521"].value;
+    console.log(x);
     var y = document.forms["forma"]["entry.2068441859"].value;
+    console.log(y);
     var z = document.forms["forma"]["entry.1857669065"].value;
+    console.log(z);
     var a = document.forms["forma"]["entry.112630363"].value;
+    console.log(a);
     var errors = "";
     x = x ? "" : "Name ";
+    console.log(x);
     errors.concat(x);
     y = y && validateEmail(y) ? "" : "Email ";
+    console.log(y);
     errors.concat(y);
+    console.log(errors);
     z = z ? "" : "Subject ";
     errors.concat(z);
     a = a ? "" : "Message";
