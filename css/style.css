@@ -34,6 +34,10 @@ nav.navbar.navbar-inverse.navbar-fixed-top {
   max-height: 50px;
 }
 
+.donate {
+  color: #cc7a6f;
+}
+
 figure img {
   width: 100%;
   margin-bottom: 5px;
