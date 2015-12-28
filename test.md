@@ -5,7 +5,7 @@ permalink: /test/
 ---
 
 <div class="col-sm-6">
-    <h3>Email Us!</h3>
+    <h3>Have Questions?</h3>
     <hr>
     <form action="https://docs.google.com/forms/d/1ooxeou7pVxHweD8-jG7Hq6cQONiDby3u1yt0TBef1wg/formResponse" method="POST" id="ss-form" target="secret-frame" onsubmit="">
         <div class="form-group">
