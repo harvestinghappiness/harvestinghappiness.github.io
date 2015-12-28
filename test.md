@@ -95,7 +95,7 @@ function validateForma() {
     errors = errors + z;
     a = a ? "" : "Message";
     errors = errors + a;
-    if (errrors){
+    if (errors){
         alert("These feilds are required: " + errors);
         return false;
     }
@@ -110,7 +110,7 @@ function validateFormb() {
     errors = errors + x;
     y = y && validateEmail(y) ? "" : "Email ";
     errors = errors + y;
-    if (errrors){
+    if (errors){
         alert("These feilds are required: " + errors);
         return false;
     }
