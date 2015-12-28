@@ -139,9 +139,11 @@ document.getElementById("ss-submitb").addEventListener("click", function() {
 });
 </script>
 
+<div class="col-sm-12">
 	<h3>Cosechando Felicidad</h3>
 	<pre>
 117 Elk Lane
 Williston, VT 05495</pre>
+</div>
 
 {% include figure.html src="directors.jpg" caption="Co-Founders Brennan McMillen & Emily Keller" %}
