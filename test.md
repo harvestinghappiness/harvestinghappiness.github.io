@@ -69,6 +69,11 @@ permalink: /test/
 <iframe name="secret-frame" width="0" height="0" border="0" style="display: none;"></iframe>
 <!-- Script to redirect to a custom page -->
 <script>
+function validateEmail(email) {
+    var re = /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    return re.test(email);
+}
+
 function validateForma() {
     var x = document.forms["forma"]["entry.917075521"].value;
     var y = document.forms["forma"]["entry.2068441859"].value;
@@ -77,7 +82,7 @@ function validateForma() {
     var errors = "";
     x = x ? "" : "Name ";
     errors.concat(x);
-    y = y ? "" : "Email ";
+    y = y && validateEmail(y) ? "" : "Email ";
     errors.concat(y);
     z = z ? "" : "Subject ";
     errors.concat(z);
@@ -96,7 +101,7 @@ function validateFormb() {
     var errors = "";
     x = x ? "" : "Name ";
     errors.concat(x);
-    y = y ? "" : "Email ";
+    y = y && validateEmail(y) ? "" : "Email ";
     errors.concat(y);
     if (errrors){
         alert("These feilds are required: ".concat(errors));
