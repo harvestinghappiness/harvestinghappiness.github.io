@@ -19,6 +19,14 @@ p {
     font-size: 1em;
 }
 
+a {
+  color: #50B548;
+}
+
+a:visited {
+  #357B30
+}
+
 .navbar-brand {
   display: inline-block;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
