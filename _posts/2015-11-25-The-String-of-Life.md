@@ -5,7 +5,7 @@ date:   2015-11-25 12:00:00
 categories: Guatemala Reflections
 author: brennan
 activetab: blog
-commentID: 2
+commentID: 3
 ---
 
 After being here for two weeks, I feel like I never left. The streets and faces are familiar and 
