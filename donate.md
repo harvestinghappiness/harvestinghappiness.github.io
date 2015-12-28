@@ -44,9 +44,9 @@ Williston, VT 05495
 	<img src="http://harvestinghappiness.org/images/asmile.png" alt="Amazon Smile" title="">
 </figure></a>
 
-<p>You can also sign up for Amazon Smile, which will donate 0.5% of every purchase with no charge to you. All you have to do is go to <a href="smile.amazon.com">http://smile.amazon.com/</a> and search for Cosechando Felicidad.<p>
+<p>You can also sign up for Amazon Smile, which will donate 0.5% of every purchase with no charge to you. All you have to do is go to <a href="smile.amazon.com">http://smile.amazon.com/</a> and search for Cosechando Felicidad.</p>
 </div>
-
+<hr>
 <div class="col-sm-12">
 <h4>More Information</h4>
 
