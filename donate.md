@@ -8,6 +8,8 @@ We are so grateful for the generous support we have received from so many! Becau
 
 **If you are making a donation, check or online, PLEASE include your email address so we can email you a thank you and your tax receipt. We can provide a meal for the same cost as a postage stamp.**
 
+---
+
 <div class="col-sm-6">
 <h3>Check <i>(preferred)</i></h3>
 
