@@ -154,7 +154,7 @@ pre, code {
 }
 
 select {
-    width: 315px;
+    width: 100%;
 }
 
 ul.blog {
