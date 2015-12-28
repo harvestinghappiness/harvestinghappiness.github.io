@@ -54,6 +54,13 @@ nav.navbar.navbar-inverse.navbar-fixed-top {
   max-height: 50px;
 }
 
+div.newsletter{
+  background-color: rgba(59, 136, 5, 0.56);
+  border-radius: 28px;
+  padding: 20px;
+  box-shadow: 0 0 13px rgba(0,0,0,0.2);
+}
+
 #donate {
   color: #cc7a6f;
 }
