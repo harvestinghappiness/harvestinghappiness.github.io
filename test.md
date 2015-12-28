@@ -43,13 +43,13 @@ permalink: /test/
             <label class="ss-q-item-label" for="entry_1272035182">
                 Name *:
             </label>
-            <input type="text" name="entry.1272035182" value="" class="ss-q-short" id="entry_1272035182" dir="auto" aria-label="Name:  " aria-required="true" required="" title="">
+            <input type="text" name="entry.1272035182" value="" class="ss-q-short form-control" id="entry_1272035182" dir="auto" aria-label="Name:  " aria-required="true" required="" title="">
         </div>
         <div class="form-group">
             <label class="ss-q-item-label" for="entry_170275494">
                 Email address *:
             </label>
-            <input type="text" name="entry.170275494" value="" class="ss-q-short" id="entry_170275494" dir="auto" aria-label="Email address:  " aria-required="true" required="" title="">
+            <input type="text" name="entry.170275494" value="" class="ss-q-short form-control" id="entry_170275494" dir="auto" aria-label="Email address:  " aria-required="true" required="" title="">
         </div>
         <div class="form-group">
             <input type="hidden" name="draftResponse" value="[,,&quot;-3198933841993541816&quot;]">
