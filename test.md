@@ -39,7 +39,7 @@ permalink: /test/
         </div>
     </form>
 </div>
-<div class="col-sm-5 col-sm-offset-1">
+<div class="col-sm-5 col-sm-offset-1 newsletter">
     <h3>Sign up for our newsletter!</h3>
     <hr>
     <form action="https://docs.google.com/forms/d/1UxdIzdVGaljOddK3Huq8BP0SYxs4xSLq1PQnSsLNZ7g/formResponse" method="POST" id="ss-form" target="secret-frame" onsubmit="">
