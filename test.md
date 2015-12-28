@@ -96,7 +96,7 @@ function validateForma() {
     a = a ? "" : "Message";
     errors = errors + a;
     if (errrors){
-        alert("These feilds are required: ".concat(errors));
+        alert("These feilds are required: " + errors);
         return false;
     }
     return true;
@@ -111,7 +111,7 @@ function validateFormb() {
     y = y && validateEmail(y) ? "" : "Email ";
     errors = errors + y;
     if (errrors){
-        alert("These feilds are required: ".concat(errors));
+        alert("These feilds are required: " + errors);
         return false;
     }
     return true;
