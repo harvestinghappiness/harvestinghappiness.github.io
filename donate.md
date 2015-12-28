@@ -47,6 +47,7 @@ Williston, VT 05495
 <p>You can also sign up for Amazon Smile, which will donate 0.5% of every purchase with no charge to you. All you have to do is go to <a href="smile.amazon.com">http://smile.amazon.com/</a> and search for Cosechando Felicidad.<p>
 </div>
 
+<div class="col-sm-12">
 <h4>More Information</h4>
 
 <p><small>We are a tax-deductible 501(c)3 public charity as recognized by the IRS under the Internal Revenue Code. If you would like to receive a tax receipt for your donation please write a current email address in the subject line of your check or in the memo on an electronic payment. This helps us to conserve paper as well as administrative costs (which are covered by an outside entity of the corporation). Please be advised we send out all tax receipts in December for that year so as to avoid sending out multiple receipts to one individual.</small></p>
@@ -54,3 +55,4 @@ Williston, VT 05495
 
 <p>Please do not hesitate to contact us with any questions or concerns regarding this process.
 <a href="/contact/">Contact Us</a></p>
+</div>
