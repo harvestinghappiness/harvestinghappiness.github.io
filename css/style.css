@@ -214,6 +214,9 @@ article.post-content p.meta {
   .nav li.active > a {
     border-bottom: 3px solid #cc7a6f;
   }
+}
+
+@media screen and (min-width: 767px) {
   .newsletter {
     margin-bottom: 15px;
   }
