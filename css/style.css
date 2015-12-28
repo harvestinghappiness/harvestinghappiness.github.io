@@ -214,11 +214,8 @@ article.post-content p.meta {
   .nav li.active > a {
     border-bottom: 3px solid #cc7a6f;
   }
-  .col-sm-6 {
-    margin-bottom: 10px;
-  }
-  .col-sm-5 {
-    margin-bottom: 10px;
+  .newsletter {
+    margin-bottom: 15px;
   }
 }
 
