@@ -4,7 +4,7 @@ title: Test
 permalink: /test/
 ---
 
-<form action="https://docs.google.com/forms/d/1ooxeou7pVxHweD8-jG7Hq6cQONiDby3u1yt0TBef1wg/formResponse" method="POST" id="ss-form" target="_self" onsubmit="">
+<form action="https://docs.google.com/forms/d/1ooxeou7pVxHweD8-jG7Hq6cQONiDby3u1yt0TBef1wg/formResponse" method="POST" id="ss-form" target="secret-frame" onsubmit="">
 <div class="form-inline">
     <div class="form-group">
         <label for="itemView.getDomIdToLabel()" aria-label="(Required field)">First &amp; Last Name: *
@@ -37,3 +37,21 @@ permalink: /test/
         <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action btn btn-default">
     </div>
 </form>
+
+
+<!-- Form Redirect -->
+
+<!-- Hidden iframe -->
+<iframe name="secret-frame" width="0" height="0" border="0" style="display: none;"></iframe>
+
+<!-- Script to redirect to a custom page -->
+<script>
+// replace "ss-submit" with the ID of your submit button
+document.getElementById("ss-submit").addEventListener("click", function(){
+  // adds a delay because the results page loads before the form has a chance to submit
+  setTimeout(function() {
+    // replace the url in quotes below to where you want to the user to be redirected to
+    window.location = "http://www.harvestinghappiness.org/contactsuccess/";
+  }, 1000);
+});
+</script>
