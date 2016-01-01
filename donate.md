@@ -28,7 +28,7 @@ Williston, VT 05495
 
 <p>Donate one time or monthly! <i>(If you prefer to donate a custom amount monthly use the onetime button and select the monthly checkbox)</i></p>
 
-<p><i>Paypal takes <strong>2.2% + $0.30 flat fee</strong> for every donation, so a donation of <strong>$100 will yeild $97.50</strong>. Sending a check does not have any associated fees.</i></p>
+<p><i>Paypal takes <strong>2.2% + $0.30</strong> fee for every donation, so a donation of <strong>$100 will yeild $97.50</strong>. Sending a check does not have any associated fees.</i></p>
 <div class="col-sm-6">
 	<h4>Monthly Donation</h4>
 	{% include paypalmonthlybutton.html %}
