@@ -19,7 +19,7 @@ We were founded and became an IRS recognized non-profit! Our feeding program has
 
 Our volunteers grown in number and our new facility has become the place for them to hang out. The additional space at facility has also allowed our volunteers to spend the night in a safe space as needed if they don’t feel safe returning to their homes for the night. 
 
-{% include figure.html src="jan16pic3.jpg" size="third" alt="Guatemalan boy carrying food." %}
+{% include figure.html src="jan16pic3.jpg" size="third" alt="Guatemalan boy carrying food." side="right" %}
 
 Not only did the elderly receive food this year, but families in need, living partway up the volcano in houses made of cornstalks, were able to receive food assistance this Christmas. 
 
@@ -44,5 +44,7 @@ In summary, thank you! You all rock. Thank you for all the encouraging notes and
 <p class="meta">Happy New Year!</p>
 
 <p class="meta">Emily, Brennan, and the Cosechando Felicidad Family</p>
+
+&nbsp;
 
 {% include figure.html src="jan16pic6.jpg" size="third" alt="Guatemalan sunset" %}
