@@ -7,7 +7,7 @@ activetab: blog
 commentID: 1
 ---
 
-##We Are Called
+###We Are Called
 
 We are continually overwhelmed by the magnitude of 
 God’s goodness he has lavished on us! So many new and
