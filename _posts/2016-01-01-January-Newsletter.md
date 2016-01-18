@@ -17,7 +17,7 @@ We were founded and became an IRS recognized non-profit! Our feeding program has
 
 {% include figure.html src="jan16pic2.jpg" size="third" alt="Guatemalans smiling" %}
 
-Our volunteers grown in number and our new facility has become the place for them to hang out. The additional space at facility has also allowed our volunteers to spend the night in a safe space as needed if they don’t feel safe returning to their homes for the night. 
+Our volunteers have grown in number and our new facility has become the place for them to hang out. The additional space at the facility has also allowed our volunteers to spend the night in a safe space as needed if they don’t feel safe returning to their homes for the night. 
 
 {% include figure.html src="jan16pic3.jpg" size="third" alt="Guatemalan boy carrying food." side="right" %}
 
@@ -25,7 +25,7 @@ Not only did the elderly receive food this year, but families in need, living pa
 
 ###2016 Plans:
 
-While we have accomplished a lot in a relatively short amount of time, there is a still lot of work to be done. Brennan and I will spend 6 months in Guatemala together in 2016. During this time, we hope to bring you frequent blog posts to let you know what is going on. We ask for your prayers as we look to 2016 and potentially new projects as many community issues have been weighing on our hearts. Prayers for the abused and abandoned children of the village, prayers for the broken families, prayers for the sick and hungry, prayers for the desperate, prayers for wisdom, strength, and health for our volunteers and leaders, and just general prayers. We find peace in knowing that God has big plans for our future eethat He divinely crafted and will reveal to us when the time comes.
+While we have accomplished a lot in a relatively short amount of time, there is still plenty of work to be done. Brennan and I will spend 6 months in Guatemala together in 2016. During this time, we hope to bring you frequent blog posts to let you know what is going on. We ask for your prayers as we look to 2016 and potentially new projects as many community issues have been weighing on our hearts. Prayers for the abused and abandoned children of the village, prayers for the broken families, prayers for the sick and hungry, prayers for the desperate, prayers for wisdom, strength, and health for our volunteers and leaders, and just general prayers. We find peace in knowing that God has big plans for our future that He divinely crafted and will reveal to us when the time comes.
 
 {% include figure.html src="jan16pic4.jpg" size="third" alt="Guatemalans smiling" %}
 
