@@ -3,6 +3,7 @@ layout: post
 title:  Worth It All
 date:   2016-02-03 12:00:00
 categories: Guatemala Reflections
+author: emilybrennan
 activetab: blog
 commentID: 6
 ---
