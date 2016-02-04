@@ -7,7 +7,7 @@ activetab: blog
 commentID: 1
 ---
 
-###We Are Called
+<h3>We Are Called</h3>
 
 We are continually overwhelmed by the magnitude of 
 God’s goodness he has lavished on us! So many new and
@@ -110,7 +110,7 @@ would not want it any other way!
 
 >“Never Stop Praying.”~ 1 Thessalonians 5:17
 
-###Prayer Requests
+<h3>Prayer Requests</h3>
 
 Would you please keep us in your thoughts 
 and prayers as we continue to move forward 
@@ -124,7 +124,7 @@ A million thanks,
 Brennan, Emily, and Cosechando Felicidad Volunteers 
 standing behind us.
 
-###Coming Soon
+<h3>Coming Soon</h3>
 
 During the month of October we will be launching our 
 new donation feature! This will allow you to select 

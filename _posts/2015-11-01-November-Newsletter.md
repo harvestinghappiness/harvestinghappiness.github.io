@@ -7,7 +7,7 @@ activetab: blog
 commentID: 2
 ---
 
-###Growth
+<h3>Growth</h3>
 
 Yet another month is upon us and we are excited to share 
 with you more about what we have going on. Last month 
@@ -50,7 +50,7 @@ thank them enough for what they are doing.
 
 {% include figure.html src="santamariavolc.jpg" caption="Santa Maria, Guatemala" side="center" %}
 
-###Our Volunteers
+<h3>Our Volunteers</h3>
 
 Our volunteers work incredibly hard to make sure our 
 organization continues to run in Guatemala and three 
@@ -138,7 +138,7 @@ unlikely it may seem.
 >nullify the things that are, so that no one may boast 
 >before him.” 1 Corinthians 1:27-29
 
-###Looking Forward
+<h3>Looking Forward</h3>
 
 We are excited to announce that on the 11th of this month 
 Brennan will be returning to Guatemala for 6 months. 
@@ -154,7 +154,7 @@ our volunteers. They are looking forward to encouraging
 them and helping to relieve some of the burden of 
 running the feeding program.
 
-###Prayer Requests
+<h3>Prayer Requests</h3>
 
 >“Never stop praying.”~ 1 Thessalonians 5:17
 

@@ -11,7 +11,7 @@ commentID: 5
 
 We want to start out by thanking you all for your support! We are 4 months old as an official IRS non-profit and wouldn’t have made it this far without your help! It is pretty crazy to look back at the past year and see all that has happened in our lives, our volunteer’s lives, and those who benefit from our programs. All involved have been extremely blessed and we cannot wait to see what this next year will bring for us. 
 
-###2015 in Review:
+<h3>2015 in Review:</h3>
 
 We were founded and became an IRS recognized non-profit! Our feeding program has almost doubled in size since Brennan and I returned to the United States. We have been able to help our volunteers attend school and help manage crises in the community. We moved to a larger facility and had our first employee.  We praise God for all he accomplished through us in 2015 and praise him for all He is sure to do in 2016. 
 
@@ -23,7 +23,7 @@ Our volunteers have grown in number and our new facility has become the place fo
 
 Not only did the elderly receive food this year, but families in need, living partway up the volcano in houses made of cornstalks, were able to receive food assistance this Christmas. 
 
-###2016 Plans:
+<h3>2016 Plans:</h3>
 
 While we have accomplished a lot in a relatively short amount of time, there is still plenty of work to be done. Brennan and I will spend 6 months in Guatemala together in 2016. During this time, we hope to bring you frequent blog posts to let you know what is going on. We ask for your prayers as we look to 2016 and potentially new projects as many community issues have been weighing on our hearts. Prayers for the abused and abandoned children of the village, prayers for the broken families, prayers for the sick and hungry, prayers for the desperate, prayers for wisdom, strength, and health for our volunteers and leaders, and just general prayers. We find peace in knowing that God has big plans for our future that He divinely crafted and will reveal to us when the time comes.
 
@@ -31,7 +31,7 @@ While we have accomplished a lot in a relatively short amount of time, there is 
 
 We look forward to finding ways to better serve the neediest of our neighbors in 2016. It is common for large families to live in houses made of cornstalk and mud like the one in this picture. 
 
-###Finances:
+<h3>Finances:</h3>
 
 As a part of being a non-profit organization we have open financial records. If you ever have any questions about our expenses/spending please do not hesitate to ask! We want to be extremely transparent and show you exactly where your money is going. Not only are we committed to tracking every penny we spend, but we have a US volunteer, Katie Bashant, who tracks our spending patterns. Our official records for this year started in September as that was when we officially because a 501(c)3 incorporated charity. Since September  we have spent $7,175.49 as follows:
 
