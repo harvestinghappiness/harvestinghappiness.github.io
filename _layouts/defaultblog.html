@@ -13,12 +13,13 @@
         <div class="nav-docs-section">
           <h3>Recent posts</h3>
           <ul>
-            {% for post in site.posts %}
+            {% for post in site.posts limit:4 %}
               <li>
                 <a href="{{ post.url }}">{{ post.title }}</a>
               </li>
             {% endfor %}
           </ul>
+          <p><a href="{{ site.url }}/blog/">more</a></p>
         </div>
       </div>
       <div class="inner-content col-sm-9">
