@@ -39,13 +39,13 @@ commentID: 6
 
 >"I just ask God to take me away. But, He just won't do it. I feel like I talk and he doesn't listen."
 
->These are all things we have heard over the past three days. Honestly, it hurts. These things have all come from people we love and care about. People who have openly welcomed us in as family without question. 
+These are all things we have heard over the past three days. Honestly, it hurts. These things have all come from people we love and care about. People who have openly welcomed us in as family without question. 
 
->There is nothing we would rather do than alleviate all their suffering. But, more often that not we are left asking ourselves 'what do we even do?' The problems seem too big and the answers too few.
+There is nothing we would rather do than alleviate all their suffering. But, more often that not we are left asking ourselves 'what do we even do?' The problems seem too big and the answers too few.
 
->At times it can feel like there will never be a moment of peace. It feels like we are making no progress. You feel defeated.
+At times it can feel like there will never be a moment of peace. It feels like we are making no progress. You feel defeated.
 
->But, then you hear other things.
+But, then you hear other things.
 
 >"Thank you for being there for me in the darkness."
 
