@@ -210,6 +210,30 @@ article.post-content p.meta {
   text-indent: 0;
 }
 
+.person {
+  float: left;
+  margin-bottom: 20px;
+}
+
+.person img {
+  width: 20%;
+  float: left;
+  margin-right: 10px;
+}
+
+p.name {
+    font-size: 1.7em;
+    margin: 0;
+}
+
+p.email {
+    margin: 0;
+}
+
+p.position {
+    margin: 0 0 10px 0;
+}
+
 @media screen and (min-width: 767px) {
   .nav li.active > a {
     border-bottom: 3px solid #cc7a6f;
