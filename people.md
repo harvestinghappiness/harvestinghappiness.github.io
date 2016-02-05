@@ -14,5 +14,6 @@ permalink: /people/
 	{% if person.position %}<p class="position">{{ person.position }}</p>{% endif %}
 	{% if person.bio %}<p class="bio">{{ person.bio }}</p>{% endif %}
 </div>
+<hr>
 {% endif %}
 {% endfor %}
