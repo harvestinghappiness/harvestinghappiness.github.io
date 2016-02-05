@@ -211,8 +211,10 @@ article.post-content p.meta {
 }
 
 .person {
-  float: left;
-  margin-bottom: 20px;
+  overflow: hidden;
+  background-color: white;
+  padding: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
 }
 
 .person img {
@@ -222,7 +224,7 @@ article.post-content p.meta {
 }
 
 p.name {
-    font-size: 1.7em;
+    font-size: 1.5em;
     margin: 0;
 }
 
@@ -232,6 +234,10 @@ p.email {
 
 p.position {
     margin: 0 0 10px 0;
+}
+
+.person > hr {
+    margin: 15px 0 15px 0;
 }
 
 @media screen and (min-width: 767px) {
