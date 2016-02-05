@@ -236,7 +236,7 @@ p.position {
     margin: 0 0 10px 0;
 }
 
-.person > hr {
+.person + hr {
     margin: 15px 0 15px 0;
 }
 
