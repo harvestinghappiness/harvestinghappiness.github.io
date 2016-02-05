@@ -4,7 +4,8 @@ title: People
 permalink: /people/
 ---
 
-{% for person in site.data.people %}
+{% for personb in site.data.people %}
+{% assign person = personb[1] %}
 <div class="person">
 	<img src="{{ site.url }}/images/{{ person.img }}">
 	{% if person.name %}<p class="name">{{ person.name }}</p>{% endif %}
