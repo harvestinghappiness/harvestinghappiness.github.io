@@ -4,6 +4,8 @@ title: People
 permalink: /people/
 ---
 
+We are blessed to have many awesome volunteers....here are a few of them!
+
 {% for personb in site.data.people %}
 {% assign person = personb[1] %}
 {% if person.bio %}
