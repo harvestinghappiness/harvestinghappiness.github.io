@@ -283,6 +283,10 @@ p.position {
   .nav li.active {
     max-height: 50px;
   }
+  .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    color: #9d9d9d;
+    background-color: #333333;
+  }
 }
 /* Nav Dropdown end */
 
