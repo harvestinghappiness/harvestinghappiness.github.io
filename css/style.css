@@ -50,10 +50,6 @@ nav.navbar.navbar-inverse.navbar-fixed-top {
     color: #FFFFFF;
 }
 
-.nav li.active {
-  max-height: 50px;
-}
-
 div.newsletter{
   background-color: rgba(59, 136, 5, 0.56);
   border-radius: 28px;
@@ -282,6 +278,10 @@ p.position {
       left: 10px;
       top: 11px;
       left: -6px;
+  }
+  
+  .nav li.active {
+    max-height: 50px;
   }
 }
 /* Nav Dropdown end */
