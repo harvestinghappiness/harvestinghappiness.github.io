@@ -8,7 +8,7 @@ activetab: blog
 commentID: 8
 ---
 
-{% include figure.html src="march19.jpg" size="half" caption="'God is within her, she will not fall; God will help her at break of day.' -Psalm 46:5" side="right" %}
+{% include figure.html src="march19.jpg" size="half" caption='"God is within her, she will not fall; God will help her at break of day." -Psalm 46:5' side="right" %}
 
 I used to think that because God has overcome the world I don't have to fear death. Which is true. But I didn’t realize how much it applies to my life; not just my death. 
 
