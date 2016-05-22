@@ -3,6 +3,7 @@ layout: post
 title:  May Newsletter
 date:   2016-5-21 12:00:00
 categories: May Newsletter
+author: brennan
 activetab: blog
 commentID: 9
 ---
