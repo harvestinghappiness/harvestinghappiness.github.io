@@ -147,4 +147,7 @@ Cosechando Felicidad Inc.
 Williston, VT 05495</pre>
 </div>
 
-{% include figure.html src="directors.jpg" caption="Co-Founders Brennan McMillen & Emily Keller" %}
+<figure class="col-sm-8 col-sm-offset-2">
+    <img src="http://harvestinghappiness.org/images/directors.jpg" alt="Co-Founders Brennan McMillen &amp; Emily Keller" title="" style="">
+    <figcaption>Co-Founders Brennan McMillen &amp; Emily Keller</figcaption>
+</figure>
