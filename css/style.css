@@ -307,6 +307,11 @@ p.position {
   a.navbar-brand {
     font-size: 1.2em;
   }
+  .person img {
+    float: none;
+    width: 50%;
+    margin: 0px 25%;
+  }
 }
 
 @media screen and (max-width: 380px) {
