@@ -214,7 +214,8 @@ article.post-content p.meta {
 }
 
 .person img {
-  width: 30%;
+  width: 20%;
+  min-width: 100px;
   float: left;
   margin-right: 10px;
 }
