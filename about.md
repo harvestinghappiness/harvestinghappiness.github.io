@@ -6,7 +6,7 @@ permalink: /about/
 
 Currently, our main project is a feeding program for the elderly. This was established after finding that many of the elderly do not eat more than one meal a day, if that, and have to work in the fields to earn money to feed themselves. This work usually means strenuous physical labor. The feeding program is open to any of the elderly in the community who are in need and feeds anywhere between 15-20 people at each meal. Additionally, meals are delivered to the elderly who cannot come to the project such as the physically handicapped. Food is served three times a day by around 15 Guatemalan volunteers. The volunteers are young people approximately aged 16-25 who are passionate about helping others in their community. They are the most giving people we have ever met and cannot thank them enough for their tireless efforts.
 
-{% include figure.html src="santamarianatives.jpg" caption="Guatemalan benefiting from Cosechando Felicidad" side="left" %}
+{% include figure.html src="santamarianatives.jpg" caption="Guatemalans benefiting from Cosechando Felicidad" side="left" %}
 
 We also seek to meet the needs of the community as they become apparent. This is always done through forming a relationship with the individuals and money is never handed out. This usually takes the form of helping those in need to go to a doctor or receive the medicine they need.
 
