@@ -10,7 +10,7 @@ commentID: 10
 
 This last week (June 18 - June 25) I was in Guatemala working with Cosechando Felicidad. I am the web developer, and I had not seen their work first hand. The week was a wonderful opportunity for me to see what is happening as well as the effect it is having in Santa Maria de Jesus, Guatemala. 
 
-{% include figure.html src="blog-07-05-16/blog-07-05-16/agua.jpg" size="full" side="" caption="Agua Volcano, which Santa Maria is on the side of." %}
+{% include figure.html src="blog-07-05-16/agua.jpg" size="full" side="" caption="Agua Volcano, which Santa Maria is on the side of." %}
 
 <h3>Previous Trip</h3>
 
