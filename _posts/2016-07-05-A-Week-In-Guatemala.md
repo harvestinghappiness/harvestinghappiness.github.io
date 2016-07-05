@@ -42,7 +42,7 @@ During this week we accomplished several things. We helped to install 5 concrete
 
 We served up 3 meals a day (as has been happening since the beginning). We also delivered fresh meals to those that were not well enough to walk to the house where food is served. 
 
-{% include figure.html src="blog-07-05-16/food.jpg" size="half" side="right" caption="A traditional meal served at Cosechando Felicidad one night" %}
+{% include figure.html src="blog-07-05-16/food.jpg" size="half" side="" caption="A traditional meal served at Cosechando Felicidad one night" %}
 
 Inbetween those things we delivered medications that were bought for people that did not have the means to afford them, and accompanied people to doctor's visits. Overall there wasn't a dull moment while I was there. 
 
