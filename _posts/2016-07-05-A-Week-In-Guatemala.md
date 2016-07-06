@@ -16,7 +16,7 @@ This last week (June 18 - June 25) I was in Guatemala working with Cosechando Fe
 
 I have been to Guatemala twice before on mission trips with a group from the States. The difference between this week and those weeks is drastic. During my previous trips we stayed in a hotel in Antigua, a larger more "touristy" city 30 minutes from where we were working. We traveled to Santa Maria for a few hours each day, installing stoves and then went back to our hotel with running water and TV. This unintentionally created an "us and them" type of dynamic with the local population. There was just not enough time to forge meaningful relationships with the people we were trying to help, which created some distance between us and what people in the town were thinking and feeling. Coming to Cosechando for a week was a whole new world.
 
-{% include figure.html src="blog-07-05-16/jimmypage.jpg" size="half" side="" caption="Brennan, 'Jimmy Page', Miguel, Me & Wilson"  %}
+{% include figure.html src="blog-07-05-16/jimmypage.jpg" size="half" side="" caption="Brennan, 'Jimmy Page', Emily, Me & Wilson"  %}
 
 This week I stayed in the building that the feeding program operates out of in Santa Maria. I ate what we were serving. I showered out of a bucket of hot water, using a cup to pour it. But through the smaller sacrifices I was able to build real friendships with many of the local volunteers that help run the program. Every night we would talk for hours. Although I wasn't able to understand all of what was said, the sense of community was overwhelming. It is a tight bond between people that want to improve lives in Santa Maria. 
 
