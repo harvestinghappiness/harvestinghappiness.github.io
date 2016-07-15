@@ -135,6 +135,7 @@ figcaption {
 
 nav.navbar {
   background-color: rgba(249, 249, 249, 0.9);
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 
 .navbar-inverse {
