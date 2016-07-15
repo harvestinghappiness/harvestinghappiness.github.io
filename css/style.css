@@ -129,8 +129,8 @@ figcaption {
   margin-right: 5px;
 }
 
-div#navbar {
-  background-color: #333333;
+nav.navbar {
+  background-color: rgba(249, 249, 249, 0.8);
 }
 
 .navbar-inverse {
