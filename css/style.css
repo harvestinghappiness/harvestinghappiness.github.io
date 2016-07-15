@@ -47,7 +47,11 @@ nav.navbar.navbar-inverse.navbar-fixed-top {
 }
 
 .navbar-inverse .navbar-brand {
-    color: #FFFFFF;
+  color: #FFFFFF;
+}
+
+.navbar-toggle .icon-bar {
+  background-color: grey;
 }
 
 div.newsletter{
