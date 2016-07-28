@@ -249,7 +249,7 @@ div.blog-img {
     height: 100px;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50% 50%;
+    background-position: 0 50%;
 }
 
 /* Nav Dropdown begin */
