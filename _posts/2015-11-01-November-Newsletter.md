@@ -3,6 +3,7 @@ layout: post
 title:  November Newsletter
 date:   2015-11-01 12:00:00
 categories: November Newsletter
+image: ring.jpg
 activetab: blog
 commentID: 2
 ---
