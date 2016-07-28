@@ -3,6 +3,7 @@ layout: post
 title:  January Newsletter
 date:   2016-01-01 12:00:00
 categories: January Newsletter
+image: jan16pic2.jpg
 activetab: blog
 commentID: 5
 ---
