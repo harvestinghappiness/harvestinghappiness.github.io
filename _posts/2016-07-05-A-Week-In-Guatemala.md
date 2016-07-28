@@ -4,6 +4,7 @@ title:  A Week in Guatemala
 date:   2016-06-27 12:00:00
 categories: Guatemala Reflections
 author: sam
+image: blog-07-05-16/thegang.jpg
 activetab: blog
 commentID: 10
 ---
