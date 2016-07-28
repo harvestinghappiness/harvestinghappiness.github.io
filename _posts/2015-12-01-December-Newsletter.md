@@ -3,6 +3,7 @@ layout: post
 title:  December Newsletter
 date:   2015-12-01 12:00:00
 categories: December Newsletter
+image: d15pic1.jpg
 activetab: blog
 commentID: 4
 ---
