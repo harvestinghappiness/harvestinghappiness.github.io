@@ -12,7 +12,7 @@ permalink: /blog/
         <p class="meta">{{ post.date | date: '%B %d, %Y' }}{% if post.author %} by {{ author.name }}{% endif %}</p>
       <hr>
       {% if post.image %}
-      <img class="blog-img" src="{{ site.url }}/{{ post.image }}>
+      <img class="blog-img" src="{{ site.url }}/{{ post.image }}">
       {% endif %}
       {{ post.content | strip_html | truncatewords: 50 }}
     </li>
