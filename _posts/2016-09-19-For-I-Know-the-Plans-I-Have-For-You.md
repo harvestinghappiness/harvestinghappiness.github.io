@@ -3,6 +3,7 @@ layout: post
 title:  For I Know the Plans I Have For You
 date:   2016-09-19 12:00:00
 categories: Guatemala Reflections
+author: emilybrennan
 activetab: blog
 commentID: 11
 ---
@@ -19,6 +20,5 @@ Now, I understand. The same thing that made the worst days in the village okay, 
 
 I am continually reminded that this is for His glory. We are overwhelmed with what God has done, and cannot wait to see the new and powerful things He has in store. It can be easy to stress about funding for our programs while we are busy studying and cannot actively seek out support as we usually do, but we know God will provide through our faithful supporters. 
 
-Thank you all for your continued support of us, our volunteers, and our programs,
-
--Brennan and Emily 
+<p class="meta">Thank you all for your continued support of us, our volunteers, and our programs,</p>
+<p class="meta">-Brennan and Emily</p>
