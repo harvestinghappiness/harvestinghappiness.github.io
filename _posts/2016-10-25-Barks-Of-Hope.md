@@ -24,4 +24,4 @@ It has been absolutely incredible to watch them take on this project in response
 
 If anyone would like to support “Ladridos de Esperanza” please feel free to like their page on Facebook (Asociación Ladridos de Esperanza) or contact emily@harvestinghappiness.org to donate money directly to the cause. 
 
-Note: Due to their location solely in Guatemala, any donations made will not be issued tax-deductible receipts. 
+<s>Note: Due to their location solely in Guatemala, any donations made will not be issued tax-deductible receipts.</s>
