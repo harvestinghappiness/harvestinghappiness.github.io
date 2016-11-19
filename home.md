@@ -8,7 +8,7 @@ permalink: /
 
 Cosechando Felicidad, Harvesting Happiness, is a 501(c)3 non-profit corporation working in Santa Maria de Jesús, Guatemala. Our goal is to empower the community by forming genuine relationships through which people can receive the help they need.
 
-### Christmas Meal Baskets
+#### Christmas Meal Baskets
 
 Each basket costs $5
 
