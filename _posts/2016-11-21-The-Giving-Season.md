@@ -30,8 +30,6 @@ Last year, only a few weeks before Christmas we saw what was happening and reach
 
 Both Emily and I will be returning to Guatemala during the month of December. We are both over the moon with just the thought of seeing the people we are missing so much. Because our time is limited on this trip, we are planning diligently to fill our days with the most productive and beneficial things for the village.  
 
-{% include figure.html src="blog-11-21-16/Nov16pic5.jpg" size="half" %}
-
 The families that have received the Christmas care bags expressed what a blessing the food was for them. It also created a unique opportunity for our volunteers. They live within the village and see countless people they want to reach out to, but often do not have the resources themselves. Once the bags are packaged, they help us select each individual family that will receive.   
 
 {% include figure.html src="blog-11-21-16/Nov16pic6.jpg" size="half" %}
