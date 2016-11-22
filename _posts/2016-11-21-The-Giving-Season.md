@@ -39,6 +39,6 @@ We consider it a privilege to be able to serve our brothers and sister in Christ
 
 As we enter the holiday season may we take a moment to appreciate we have and use it to make a difference in our local and global community.
 
-{% include figure.html src="blog-11-21-16/Nov16pic7.jpg" size="half" %}
+{% include figure.html src="blog-11-21-16/Nov16pic7.jpg" size="third" %}
 
-{% include figure.html src="blog-11-21-16/Nov16pic8.jpg" size="half" %}
+{% include figure.html src="blog-11-21-16/Nov16pic8.jpg" size="third" %}
