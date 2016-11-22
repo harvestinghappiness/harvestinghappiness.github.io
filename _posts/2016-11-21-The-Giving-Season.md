@@ -4,6 +4,7 @@ title: The Giving Season
 date: 2016-11-21 12:00:00
 categories: Guatemala Reflections
 author: emilybrennan
+image: blog-11-21-16/Nov16pic2.jpg
 activetab: blog
 commentID: 13
 ---
@@ -36,8 +37,8 @@ The families that have received the Christmas care bags expressed what a blessin
 
 We consider it a privilege to be able to serve our brothers and sister in Christ and would like to invite you to support the distribution of these necessary items. There is a direct link to the PayPal site for this specific donation below or you can find a PayPal button on the homepage of our website. Each bag costs $5, but absolutely any donation is extremely valuable.
 
-{% include figure.html src="blog-11-21-16/Nov16pic7.jpg" size="half" %}
-
 As we enter the holiday season may we take a moment to appreciate we have and use it to make a difference in our local and global community.
+
+{% include figure.html src="blog-11-21-16/Nov16pic7.jpg" size="half" %}
 
 {% include figure.html src="blog-11-21-16/Nov16pic8.jpg" size="half" %}
