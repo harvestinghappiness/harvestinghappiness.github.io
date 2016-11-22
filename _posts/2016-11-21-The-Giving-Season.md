@@ -19,7 +19,7 @@ Christmas Eve and New Year’s Day are some of the few days that the majority of
    
 There is also another aspect of Christmas in Guatemala that I was not aware of my first year. Something that affects many the families we serve. Prices skyrocket between the second week of December until after the New year has started. Specifically produce and commonly used cooking ingredients. Items such as tomatoes, onions and peppers can up to triple in cost. The rate of crime during the holidays also rises significantly. Unfortunately, those who are already experiencing financial difficultly often fall victim to theft. 
 
-{% include figure.html src="blog-11-21-16/Nov16pic3.jpg" size="third" %}
+{% include figure.html src="blog-11-21-16/Nov16pic3.jpg" size="third" side="right" %}
 
 It breaks our hearts that a time that is meant to be joyous can be filled with such hardship. At the same time, we feel honored to know the village and the people well enough to be able to anticipate their specific needs. 
 
