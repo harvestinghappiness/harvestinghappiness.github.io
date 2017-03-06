@@ -8,10 +8,6 @@ activetab: blog
 commentID: 14
 ---
 
-## Santa María de Jesús, GUATEMALA.
-
-## Cosechando Felicidad Inc.
-
 ![Santa María de Jesús, Guatemala]({{site.url}}/images/blog-3-6-17/Picture1.jpg)
 
 By Robbin Sicajau 
