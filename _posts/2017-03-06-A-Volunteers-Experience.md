@@ -3,7 +3,7 @@ layout: post
 title: A Volunteer's Experience
 date: 2017-04-06 12:00:00
 categories: Guatemala Reflections
-image: blog-4-6-17/Picture1.jpg
+image: blog-3-6-17/Picture1.jpg
 activetab: blog
 commentID: 14
 ---
