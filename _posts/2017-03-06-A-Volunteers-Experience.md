@@ -14,7 +14,7 @@ commentID: 14
 
 ![Santa María de Jesús, Guatemala]({{site.url}}/images/blog-3-6-17/Picture1.jpg)
 
-### By Robbin Sicajau 
+By Robbin Sicajau 
 
 Santa Maria is a municipality of Guatemala located 50 km outside of the capital. It is a beautiful, lush place that would be great for your vacations. Vacations where you can experience the life of the locals, a people determined to fight for a better life and win their daily bread. Unfortunately, there is a lot of need in this community, much like many areas of Central and South America. Thankfully, God has always placed people with good hearts, and a desire to help in our community. Two marvelous individuals with huge hearts were sent to our corner of the world to help us overcome the need in our community. This is the story of Cosechando Felicidad Inc. or “Harvesting Happiness”.
 
