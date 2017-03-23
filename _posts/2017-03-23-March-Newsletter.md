@@ -3,7 +3,7 @@ layout: post
 title: March Newsletter
 date: 2017-03-23 12:00:00
 categories: Guatemala Reflections
-image: blog-3-23-17/Picture3.jpg
+image: blog-3-23-17/pic3.jpg
 activetab: blog
 commentID: 15
 ---
@@ -51,6 +51,8 @@ Guatemala and share any potential opportunities to share with us. We are extreme
 season of growth and trust God to provide for all our needs in 2017 and beyond. 
 
 <p class="meta">Emily &amp; Brennan</p>
+
+&nbsp;
 
 {% include figure.html src="blog-3-23-17/pic3.jpg" size="full" alt="Santa Maria" %}
 
