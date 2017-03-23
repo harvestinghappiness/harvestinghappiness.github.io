@@ -4,6 +4,7 @@ title: March Newsletter
 date: 2017-03-23 12:00:00
 categories: Guatemala Reflections
 image: blog-3-23-17/pic3.jpg
+author: emilybrennan
 activetab: blog
 commentID: 15
 ---
