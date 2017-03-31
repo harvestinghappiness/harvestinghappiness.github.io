@@ -1,12 +1,12 @@
 # Site settings
-title: Harvesting Happiness
+title: Cosechando Felicidad Inc.
 email: emily@harvestinghappiness.org
 description: > # this means to ignore newlines until "baseurl:"
-  Cosechando Felicidad, Harvesting Happiness, is a non-profit corporation 
+  Cosechando Felicidad, (or Harvesting Happiness in English), is a non-profit corporation 
   working in Santa Maria de Jesús, Guatemala. Our goal is to empower the 
   community by forming genuine relationships through which people can receive 
   the help they need.
-footertext: Harvesting Happiness is a 501(c)3 nonprofit working in Guatemala
+footertext: Cosechando Felicidad Inc. is a 501(c)3 nonprofit working in Guatemala
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://harvestinghappiness.org" # the base hostname & protocol for your site
 facebook_username: harvestinghappinessguate
