@@ -149,5 +149,5 @@ Williston, VT 05495</pre>
 
 <figure class="col-sm-8 col-sm-offset-2">
     <img src="http://harvestinghappiness.org/images/directors.jpg" alt="Co-Founders Brennan McMillen &amp; Emily Keller" title="" style="">
-    <figcaption>Co-Founders Brennan McMillen &amp; Emily Keller</figcaption>
+    <figcaption>Co-Founders Emily Keller &amp; Brennan McMillen</figcaption>
 </figure>
