@@ -140,11 +140,16 @@ document.getElementById("ss-submitb").addEventListener("click", function() {
 </script>
 
 <div class="col-sm-12">
-	<h3>Physical Address</h3>
+	<h3>Business Contact</h3>
 	<pre>
+Emily Keller
+<a href="mailto:emily@harvestinghappiness.org">emily@harvestinghappiness.org</a>
 Cosechando Felicidad Inc.
 117 Elk Lane
-Williston, VT 05495</pre>
+Williston, VT 05495
+
+For phone or further contact info email Emily Keller.
+</pre>
 </div>
 
 <figure class="col-sm-8 col-sm-offset-2">
