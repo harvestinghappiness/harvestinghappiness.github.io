@@ -35,7 +35,7 @@ permalink: /contact/
             <input type="hidden" name="pageHistory" value="0">
             <input type="hidden" name="fvv" value="0">
             <input type="hidden" name="fbzx" value="6162429118050415973">
-            <input type="submit" name="submit" value="Submit" id="ss-submita" class="jfk-button jfk-button-action btn btn-default" disabled>
+            <input type="submit" name="submit" value="Submit" id="ss-submita" class="jfk-button jfk-button-action btn btn-default">
         </div>
     </form>
 </div>
@@ -60,7 +60,7 @@ permalink: /contact/
             <input type="hidden" name="pageHistory" value="0">
             <input type="hidden" name="fvv" value="0">
             <input type="hidden" name="fbzx" value="-3198933841993541816">
-            <input type="submit" name="submit" value="Submit" id="ss-submitb" class="jfk-button jfk-button-action btn btn-default" disabled>
+            <input type="submit" name="submit" value="Submit" id="ss-submitb" class="jfk-button jfk-button-action btn btn-default">
         </div>
     </form>
 </div>
