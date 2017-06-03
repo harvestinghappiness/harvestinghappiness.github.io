@@ -69,14 +69,6 @@ permalink: /contact/
 <iframe name="secret-frame" width="0" height="0" border="0" style="display: none;"></iframe>
 <!-- Script to redirect to a custom page -->
 <script>
-document.getElementById('ss-submita').disabled = true;
-document.getElementById('ss-submita').disabled = true;
-setTimeout(function(){
-document.getElementById('ss-submita').disabled = false;
-document.getElementById('ss-submitb').disabled = false;
-}, 4000);
-</script>
-<script>
 function validateEmail(email) {
     var re = /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
     return re.test(email);
