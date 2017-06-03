@@ -35,7 +35,7 @@ permalink: /contact/
             <input type="hidden" name="pageHistory" value="0">
             <input type="hidden" name="fvv" value="0">
             <input type="hidden" name="fbzx" value="6162429118050415973">
-            <input type="submit" name="submit" value="Submit" id="ss-submita" class="jfk-button jfk-button-action btn btn-default">
+            <input type="submit" name="submit" value="Submit" id="ss-submita" class="jfk-button jfk-button-action btn btn-default" disabled>
         </div>
     </form>
 </div>
@@ -60,7 +60,7 @@ permalink: /contact/
             <input type="hidden" name="pageHistory" value="0">
             <input type="hidden" name="fvv" value="0">
             <input type="hidden" name="fbzx" value="-3198933841993541816">
-            <input type="submit" name="submit" value="Submit" id="ss-submitb" class="jfk-button jfk-button-action btn btn-default">
+            <input type="submit" name="submit" value="Submit" id="ss-submitb" class="jfk-button jfk-button-action btn btn-default" disabled>
         </div>
     </form>
 </div>
@@ -69,6 +69,8 @@ permalink: /contact/
 <iframe name="secret-frame" width="0" height="0" border="0" style="display: none;"></iframe>
 <!-- Script to redirect to a custom page -->
 <script>
+document.onload = function(){setTimeout(function(){document.getElementById('ss-submita').disabled = false;document.getElementById('ss-submitb').disabled = false;}, 400)};
+
 function validateEmail(email) {
     var re = /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
     return re.test(email);
