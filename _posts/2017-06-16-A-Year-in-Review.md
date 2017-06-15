@@ -22,8 +22,8 @@ I am eager to announce that I have returned to Guatemala for the months of June 
 
 That being said, we have had extra expenses associated with the unforeseen move, and renovations to the new facility. As we are making this big investment in our future as an organization, we ask that you prayerfully consider supporting us through this transition. I will continue to share updates with you as I am here over the summer and look forward to sharing pictures of the new facility in the coming weeks. As always we thank you for your support and realize we would be at a loss without your generosity. 
 
-{% include figure.html src="blog-6-16-17/pic4.jpg" size="half" side="right" alt="Santa Maria" %}
-
 Please add our organization of Facebook for more updates and photos at Cosechando Felicidad Inc. or www.facebook.com/harvestinghappinessguate/
+
+{% include figure.html src="blog-6-16-17/pic4.jpg" size="half" side="right" alt="Santa Maria" %}
 
 {% include figure.html src="blog-6-16-17/pic5.jpg" size="half" alt="Santa Maria" %}
