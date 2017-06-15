@@ -11,7 +11,7 @@ permalink: /blog/
       <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
         <p class="meta">{{ post.date | date: '%B %d, %Y' }}{% if post.author %} by {{ author.name }}{% endif %}</p>
       <hr>
-      {% if post.image %}
+      {% if post.imageoff %} <!-- Turn this back on by removing "off" -->
       <div class="blog-img" style="background-image: url({{ site.url }}/images/{{ post.image }});"></div>
       {% endif %}
       {{ post.content | strip_html | truncatewords: 50 }}
