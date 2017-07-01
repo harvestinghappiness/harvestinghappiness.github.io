@@ -4,6 +4,8 @@ title: About Draft
 permalink: /aboutdraft/
 ---
 
+{% include figure.html src="about/building.jpg" caption="Cosechando Felicidad's building in Santa Maria" side="left" size="third" %}
+
 We began our programs in 2014 and became an official 501c3 in the US and ONG in Guatemala in 2015.
 Founded by Brennan McMillan, Pennsylvania, and Emily Keller, Vermont, we are an organization seeking
 to empower the community of Santa Maria de Jesus, Sacatepéquez, Guatemala, especially the youth, to
@@ -21,16 +23,14 @@ assistance for single mothers. All of our programs have various checks and balan
 we run as smoothly as possible and are able to help those who are eager to use the help they are given
 to succeed.
 
-{% include figure.html src="about/building.jpg" caption="Cosechando Felicidad's building in Santa Maria" side="left" size="third" %}
+{% include figure.html src="about/group.jpg" caption="Co-founder Emily Keller with volunteers Edwin and Robbin" side="right" size="third" %}
 
 Before we enroll anyone in one of our programs, we first do a home visit to assess the need. To be
 eligible for our programs, families or individuals must prove to us that they have a need. We ask those
 who receive our assistance to come and help at the community center or with the feeding program as a
 way to pay it forward.
 
-{% include figure.html src="about/group.jpg" caption="Co-founder Emily Keller with volunteers Edwin and Robbin" side="left" size="third" %}
-
-##Feeding Program for the Elderly
+## Feeding Program for the Elderly
 
 Currently, our main project is a feeding program for the elderly. This was established after finding that
 many of the elderly do not eat more than one meal a day, if that, and have to work in the fields to earn
@@ -45,12 +45,12 @@ rotate between either making tortillas or cooking the food. Each week we use 150
 tortillas.
 
 {% include figure.html src="about/elderly.jpg" caption="Local elderly in Santa Maria benefiting from the feeding program" side="left" size="third" %}
-{% include figure.html src="about/elderly2.jpg" caption="" side="left" size="third" %}
+{% include figure.html src="about/elderly.png" caption="" side="left" size="third" %}
 {% include figure.html src="about/food.jpg" caption="A typical meal served at Cosechando Felicidad" side="left" size="third" %}
 
 
 
-##Community Center
+## Community Center
 
 {% include figure.html src="about/communitycenter.jpg" caption="Cosechando Felicidad volunteers in the community center" side="left" %}
 
@@ -65,7 +65,7 @@ whoever would like to come.
 
 {% include figure.html src="about/communitycenter2.jpg" caption="Cosechando Felicidad volunteers and local Guatemalans in the community center" side="left" %}
 
-##Scholarships for our Volunteers
+## Scholarships for our Volunteers
 
 We pay for 50% of the educational costs of our regular volunteers. They must come a minimum of once
 a week and are assigned a mealtime to attend based on their schedule and the needs of the program.
@@ -77,7 +77,7 @@ her child. Volunteers are eligible for a scholarship once they have come consist
 month. In everything we do we try to instill the value of paying it forward and helping others. We bless
 others because we have been blessed.
 
-##Medical Aid
+## Medical Aid
 
 {% include figure.html src="about/jeffry.jpg" caption="Jeffry" side="left" %}
 
@@ -89,7 +89,7 @@ example, we also helped Baby Alan get his cleft lip repaired.
 
 {% include figure.html src="about/alan.jpg" caption="Emily with Alan" side="left" %}
 
-##Construction Projects – Short Term Missions
+## Construction Projects – Short Term Missions
 
 Several times a year we welcome groups to our facility to help with projects in the community. Over the
 course of the year, we take note of any families who are particularly in need. For example, this may be a
@@ -105,7 +105,7 @@ neighbors. We believe long-lasting change comes from within the community itself
 {% include figure.html src="about/lecker.jpg" caption="Volunteer Courtney Lecker with local baby" side="left" size="third" %}
 {% include figure.html src="about/girls2.jpg" caption="" side="left" size="third" %}
 
-##Formula Assistance
+## Formula Assistance
 
 We provide monthly assistance with purchasing formula for members in the community who require it.
 If something happens to a mother here and she is not able to produce milk, it is a huge financial burden
@@ -115,10 +115,10 @@ child, but don’t have the resources. Our goal is to support families so they c
 We want to prevent children with loving parents from ending up in orphanages merely because their
 families don’t have the resources.
 
-{% include figure.html src="about/baby.jpg" caption="Jeffry" side="left" size="half" %}
+{% include figure.html src="about/baby.jpg" caption="" side="left" size="half" %}
 {% include figure.html src="about/alan2.jpg" caption="Emily with Alan" side="left" size="half" %}
 
-##Monthly Grocery Aid
+## Monthly Grocery Aid
 
 Each month we provide groceries to families in need. We provide a set quantity of sugar, beans, maize,
 coffee, soup packets, salt, oil, rice, pasta, etc. each month. This helps to relieve some of the financial
@@ -128,7 +128,7 @@ families cannot provide food for their families, they live off only corn tortill
 {% include figure.html src="about/groceries.jpg" caption="Delivering groceries to a family in need" side="left" size="half" %}
 {% include figure.html src="about/groceries2.jpg" caption="" side="left" size="half" %}
 
-##Single Mothers
+## Single Mothers
 
 We recognize single mothers are in an especially difficult situation. In this culture, it is common for the
 fatherly figure of the family to be an alcoholic or to have abandoned the family altogether. We think it is
