@@ -30,6 +30,8 @@ eligible for our programs, families or individuals must prove to us that they ha
 who receive our assistance to come and help at the community center or with the feeding program as a
 way to pay it forward.
 
+&nbsp;
+
 ## Feeding Program for the Elderly
 
 Currently, our main project is a feeding program for the elderly. This was established after finding that
@@ -49,6 +51,8 @@ tortillas.
 {% include figure.html src="about/food.jpg" caption="A typical meal served at Cosechando Felicidad" side="left" size="third" %}
 
 
+&nbsp;
+
 
 ## Community Center
 
@@ -65,6 +69,8 @@ whoever would like to come.
 
 {% include figure.html src="about/communitycenter2.jpg" caption="Cosechando Felicidad volunteers and local Guatemalans in the community center" side="left" %}
 
+&nbsp;
+
 ## Scholarships for our Volunteers
 
 We pay for 50% of the educational costs of our regular volunteers. They must come a minimum of once
@@ -77,6 +83,8 @@ her child. Volunteers are eligible for a scholarship once they have come consist
 month. In everything we do we try to instill the value of paying it forward and helping others. We bless
 others because we have been blessed.
 
+&nbsp;
+
 ## Medical Aid
 
 {% include figure.html src="about/jeffry.jpg" caption="Jeffry" side="left" %}
@@ -88,6 +96,8 @@ many health issues and was able to get surgery that ultimately saved his life in
 example, we also helped Baby Alan get his cleft lip repaired.
 
 {% include figure.html src="about/alan.jpg" caption="Emily with Alan" side="left" %}
+
+&nbsp;
 
 ## Construction Projects – Short Term Missions
 
@@ -105,6 +115,8 @@ neighbors. We believe long-lasting change comes from within the community itself
 {% include figure.html src="about/lecker.jpg" caption="Volunteer Courtney Lecker with local baby" side="left" size="third" %}
 {% include figure.html src="about/girls2.jpg" caption="" side="left" size="third" %}
 
+&nbsp;
+
 ## Formula Assistance
 
 We provide monthly assistance with purchasing formula for members in the community who require it.
@@ -118,6 +130,8 @@ families don’t have the resources.
 {% include figure.html src="about/baby.jpg" caption="" side="left" size="quarter" %}
 {% include figure.html src="about/alan2.jpg" caption="Emily with Alan" side="left" size="quarter" %}
 
+&nbsp;
+
 ## Monthly Grocery Aid
 
 Each month we provide groceries to families in need. We provide a set quantity of sugar, beans, maize,
@@ -127,6 +141,8 @@ families cannot provide food for their families, they live off only corn tortill
 
 {% include figure.html src="about/groceries.jpg" caption="Delivering groceries to a family in need" side="left" size="quarter" %}
 {% include figure.html src="about/groceries2.jpg" caption="" side="left" size="quarter" %}
+
+&nbsp;
 
 ## Single Mothers
 
