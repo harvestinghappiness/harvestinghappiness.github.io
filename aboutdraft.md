@@ -103,7 +103,7 @@ families to raise support and awareness for the organization. It is important to
 accept long-term volunteers, as we strongly believe in supporting the locals to help themselves and their
 neighbors. We believe long-lasting change comes from within the community itself.
 
-{% include figure.html src="about/boy.jpg" caption="Local boy in Santa Maria with Cosechando volunteer" side="left" size="quarter" %}
+{% include figure.html src="about/boy.jpg" caption="Local boy in Santa Maria with Cosechando volunteer" side="right" size="quarter" %}
 <!--{% include figure.html src="about/lecker.jpg" caption="Volunteer Courtney Lecker with local baby" side="left" size="third" %}-->
 <!--{% include figure.html src="about/girls2.jpg" caption="" side="left" size="third" %}-->
 
@@ -127,7 +127,7 @@ coffee, soup packets, salt, oil, rice, pasta, etc. each month. This helps to rel
 burden from families and provides them with more nutritious options for their families. Often, when
 families cannot provide food for their families, they live off only corn tortillas alone.
 
-{% include figure.html src="about/groceries.jpg" caption="Delivering groceries to a family in need" side="left" size="quarter" %}
+<!--{% include figure.html src="about/groceries.jpg" caption="Delivering groceries to a family in need" side="left" size="quarter" %}-->
 <!--{% include figure.html src="about/groceries2.jpg" caption="" side="left" size="quarter" %}-->
 
 ## Single Mothers
@@ -143,7 +143,7 @@ some of the most needy people in the community. On our “Donate” page you can
 sponsor a single mothers groceries. The cost is $20 and can be set up through automatic payments.
 
 <!--{% include figure.html src="about/singlemothers.jpg" caption="A single mother with her family" side="left" size="quarter" %}-->
-{% include figure.html src="about/singlemothers2.jpg" caption="" side="left" size="quarter" %}
+{% include figure.html src="about/singlemothers2.jpg" caption="" side="right" size="quarter" %}
 
 We encourage you to read “Our People” section under our “About” section, check out or blog to find
 out what is currently going on in Santa Maria, and explore our “Donate” page as we are entirely funded
