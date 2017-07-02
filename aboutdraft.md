@@ -4,7 +4,7 @@ title: About Draft
 permalink: /aboutdraft/
 ---
 
-{% include figure.html src="about/building.jpg" caption="Cosechando Felicidad's building in Santa Maria" side="left" size="quarter" %}
+{% include figure.html src="about/building.jpg" caption="Cosechando Felicidad's building in Santa Maria" side="right" size="third" %}
 
 We began our programs in 2014 and became an official 501c3 in the US and ONG in Guatemala in 2015.
 Founded by Brennan McMillan, Pennsylvania, and Emily Keller, Vermont, we are an organization seeking
@@ -23,14 +23,12 @@ assistance for single mothers. All of our programs have various checks and balan
 we run as smoothly as possible and are able to help those who are eager to use the help they are given
 to succeed.
 
-{% include figure.html src="about/group.jpg" caption="Co-founder Emily Keller with volunteers Edwin and Robbin" side="right" size="quarter" %}
+<!--{% include figure.html src="about/group.jpg" caption="Co-founder Emily Keller with volunteers Edwin and  Robbin" side="right" size="quarter" %}-->
 
 Before we enroll anyone in one of our programs, we first do a home visit to assess the need. To be
 eligible for our programs, families or individuals must prove to us that they have a need. We ask those
 who receive our assistance to come and help at the community center or with the feeding program as a
 way to pay it forward.
-
-&nbsp;
 
 ## Feeding Program for the Elderly
 
@@ -84,15 +82,14 @@ others because we have been blessed.
 
 ## Medical Aid
 
-{% include figure.html src="about/jeffry.jpg" caption="Jeffry" side="left" %}
+<!--{% include figure.html src="about/jeffry.jpg" caption="Jeffry" side="left" %}-->
+{% include figure.html src="about/alan.jpg" caption="Emily with Alan" side="right" size="quarter" %}
 
 Living in the conditions of a developing nation means there is a lot of sickness. We will pay for a set
 amount of medical treatment per individual per month. In addition, each year we help several people
 get lifesaving surgeries and advanced medical treatments. For example, 5 year old Jeffy was born with
 many health issues and was able to get surgery that ultimately saved his life in 2017. As another
 example, we also helped Baby Alan get his cleft lip repaired.
-
-{% include figure.html src="about/alan.jpg" caption="Emily with Alan" side="left" %}
 
 ## Construction Projects – Short Term Missions
 
@@ -106,9 +103,9 @@ families to raise support and awareness for the organization. It is important to
 accept long-term volunteers, as we strongly believe in supporting the locals to help themselves and their
 neighbors. We believe long-lasting change comes from within the community itself.
 
-{% include figure.html src="about/boy.jpg" caption="Local boy in Santa Maria with Cosechando volunteer" side="left" size="third" %}
-{% include figure.html src="about/lecker.jpg" caption="Volunteer Courtney Lecker with local baby" side="left" size="third" %}
-{% include figure.html src="about/girls2.jpg" caption="" side="left" size="third" %}
+{% include figure.html src="about/boy.jpg" caption="Local boy in Santa Maria with Cosechando volunteer" side="left" size="quarter" %}
+<!--{% include figure.html src="about/lecker.jpg" caption="Volunteer Courtney Lecker with local baby" side="left" size="third" %}-->
+<!--{% include figure.html src="about/girls2.jpg" caption="" side="left" size="third" %}-->
 
 ## Formula Assistance
 
@@ -121,7 +118,7 @@ We want to prevent children with loving parents from ending up in orphanages mer
 families don’t have the resources.
 
 {% include figure.html src="about/baby.jpg" caption="" side="left" size="quarter" %}
-{% include figure.html src="about/alan2.jpg" caption="Emily with Alan" side="left" size="quarter" %}
+<!--{% include figure.html src="about/alan2.jpg" caption="Emily with Alan" side="left" size="quarter" %}-->
 
 ## Monthly Grocery Aid
 
@@ -131,7 +128,7 @@ burden from families and provides them with more nutritious options for their fa
 families cannot provide food for their families, they live off only corn tortillas alone.
 
 {% include figure.html src="about/groceries.jpg" caption="Delivering groceries to a family in need" side="left" size="quarter" %}
-{% include figure.html src="about/groceries2.jpg" caption="" side="left" size="quarter" %}
+<!--{% include figure.html src="about/groceries2.jpg" caption="" side="left" size="quarter" %}-->
 
 ## Single Mothers
 
@@ -145,7 +142,7 @@ alone during the days. Single mothers are often the recipients of our constructi
 some of the most needy people in the community. On our “Donate” page you can select the option to
 sponsor a single mothers groceries. The cost is $20 and can be set up through automatic payments.
 
-{% include figure.html src="about/singlemothers.jpg" caption="A single mother with her family" side="left" size="quarter" %}
+<!--{% include figure.html src="about/singlemothers.jpg" caption="A single mother with her family" side="left" size="quarter" %}-->
 {% include figure.html src="about/singlemothers2.jpg" caption="" side="left" size="quarter" %}
 
 We encourage you to read “Our People” section under our “About” section, check out or blog to find
