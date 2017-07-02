@@ -56,8 +56,6 @@ tortillas.
 
 ## Community Center
 
-{% include figure.html src="about/communitycenter.jpg" caption="Cosechando Felicidad volunteers in the community center" side="right" %}
-
 The building we use for our feeding program also serves as community center. We have been blessed to
 outgrow two facilities and are now in our third, which we hope will serve as our home base for the
 future. Our door is always open to our volunteers. We provide a safe place where they can come and
@@ -67,7 +65,9 @@ hanging out and working to support our projects. We have become a close-knit gro
 more like family. We are growing all the time and the community knows our doors are always open to
 whoever would like to come.
 
-{% include figure.html src="about/communitycenter2.jpg" caption="Cosechando Felicidad volunteers and local Guatemalans in the community center" side="left" %}
+{% include figure.html src="about/communitycenter.jpg" caption="Cosechando Felicidad volunteers in the community center" side="right" size="half"%}
+
+{% include figure.html src="about/communitycenter2.jpg" caption="Cosechando Felicidad volunteers and local Guatemalans in the community center" side="right" size="half" %}
 
 ## Scholarships for our Volunteers
 
@@ -81,7 +81,6 @@ her child. Volunteers are eligible for a scholarship once they have come consist
 month. In everything we do we try to instill the value of paying it forward and helping others. We bless
 others because we have been blessed.
 
-{% include figure.html src="about/communitycenter2.jpg" caption="Cosechando Felicidad volunteers and local Guatemalans in the community center" side="right" %}
 
 ## Medical Aid
 
