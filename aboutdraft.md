@@ -63,7 +63,7 @@ hanging out and working to support our projects. We have become a close-knit gro
 more like family. We are growing all the time and the community knows our doors are always open to
 whoever would like to come.
 
-<div style="width: 60%;display: flex;margin: auto;">
+<div id="about-photos">
 
 {% include figure.html src="about/communitycenter.jpg" caption="Cosechando Felicidad volunteers in the community center" side="right" size="half"%}
 
