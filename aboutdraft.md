@@ -121,7 +121,6 @@ child, but don’t have the resources. Our goal is to support families so they c
 We want to prevent children with loving parents from ending up in orphanages merely because their
 families don’t have the resources.
 
-{% include figure.html src="about/baby.jpg" caption="" side="left" size="quarter" %}
 <!--{% include figure.html src="about/alan2.jpg" caption="Emily with Alan" side="left" size="quarter" %}-->
 
 ## Monthly Grocery Aid
@@ -131,6 +130,7 @@ coffee, soup packets, salt, oil, rice, pasta, etc. each month. This helps to rel
 burden from families and provides them with more nutritious options for their families. Often, when
 families cannot provide food for their families, they live off only corn tortillas alone.
 
+{% include figure.html src="about/baby.jpg" caption="" side="left" size="quarter" %}
 <!--{% include figure.html src="about/groceries.jpg" caption="Delivering groceries to a family in need" side="left" size="quarter" %}-->
 <!--{% include figure.html src="about/groceries2.jpg" caption="" side="left" size="quarter" %}-->
 
@@ -147,7 +147,7 @@ some of the most needy people in the community. On our “Donate” page you can
 sponsor a single mothers groceries. The cost is $20 and can be set up through automatic payments.
 
 <!--{% include figure.html src="about/singlemothers.jpg" caption="A single mother with her family" side="left" size="quarter" %}-->
-{% include figure.html src="about/singlemothers2.jpg" caption="" side="right" size="quarter" %}
+<!--{% include figure.html src="about/singlemothers2.jpg" caption="" side="right" size="quarter" %}-->
 
 We encourage you to read “Our People” section under our “About” section, check out or blog to find
 out what is currently going on in Santa Maria, and explore our “Donate” page as we are entirely funded
