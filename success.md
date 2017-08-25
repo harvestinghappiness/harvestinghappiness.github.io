@@ -17,3 +17,5 @@ Emily, Brennan, and the Cosechando Felicidad Family
 [emily@harvestinghappiness.org](mailto:emily@harvestinghappiness.org)
 
 <small>*Please note tax receipts are sent at the end of each calendar year</small>
+
+{% include figure.html src="success.jpg" caption="Emily & Brennan" size="full" %}
