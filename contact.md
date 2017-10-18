@@ -28,7 +28,7 @@ permalink: /contact/
             <label class="ss-q-item-label" for="entry_112630363">
                 Message *:
             </label>
-            <textarea name="entry.112630363" rows="8" cols="0" class="ss-q-long form-control" id="entry_112630363" dir="auto" aria-label="Message:  " aria-required="true" required=""></textarea>
+            <textarea name="entry.112630363" rows="8" class="ss-q-long form-control" id="entry_112630363" dir="auto" aria-label="Message:  " required=""></textarea>
         </div>
         <div class="form-group">
             <input type="hidden" name="draftResponse" value="[,,&quot;6162429118050415973&quot;]">
@@ -66,7 +66,7 @@ permalink: /contact/
 </div>
 <!-- Form Redirect -->
 <!-- Hidden iframe -->
-<iframe name="secret-frame" width="0" height="0" border="0" style="display: none;"></iframe>
+<iframe name="secret-frame" width="0" height="0" style="display: none;"></iframe>
 <!-- Script to redirect to a custom page -->
 <script>
 function validateEmail(email) {
