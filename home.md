@@ -10,4 +10,4 @@ Cosechando Felicidad Inc., (or Harvesting Happiness, in English), is a 501(c)3 n
 
 [Learn more about us](/about/)
 
-<a href=""><img alt="Guide Star Platinum Seal of Transparency" src="{{ site.url }}/images/guideStarSeal_2017_platinum_SM.svg"></a>
+<a href="https://www.guidestar.org/profile/47-4437262"><img alt="Guide Star Platinum Seal of Transparency" src="{{ site.url }}/images/guideStarSeal_2017_platinum_SM.svg"></a>
