@@ -104,8 +104,6 @@ families to raise support and awareness for the organization. It is important to
 accept long-term volunteers, as we strongly believe in supporting the locals to help themselves and their
 neighbors. We believe long-lasting change comes from within the community itself.
 
-{% include figure.html src="about/boy.jpg" caption="Local boy in Santa Maria with Cosechando volunteer" side="right" size="quarter" %}
-
 ## Formula Assistance
 
 We provide monthly assistance with purchasing formula for members in the community who require it.
@@ -115,6 +113,8 @@ circumstances such as a special needs individual who was raped and her family is
 child, but don’t have the resources. Our goal is to support families so they can raise their own children.
 We want to prevent children with loving parents from ending up in orphanages merely because their
 families don’t have the resources.
+
+{% include figure.html src="about/boy.jpg" caption="Local boy in Santa Maria with Cosechando volunteer" side="right" size="quarter" %}
 
 ## Monthly Grocery Aid
 
