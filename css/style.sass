@@ -2,7 +2,7 @@
 ---
 
 /* Vars */
-$font-stack: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif
+$font-stack: Camphor, Open Sans, Segoe UI, sans-serif
 $font-brand: "Century Gothic", CenturyGothic, AppleGothic, sans-serif
 $primary-color: #50B548
 $secondary-color: #cc7a6f
@@ -11,11 +11,14 @@ $background-color: #f9f9f9
 /* General */
 html
   background: $background-color
-
+  
 body
   @extend html
   margin: 0
   font-family: $font-stack
+  text-rendering: optimizeLegibility
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
 
 h3, h4
   font-weight: bold
