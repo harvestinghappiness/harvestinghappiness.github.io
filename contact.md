@@ -123,7 +123,7 @@ document.getElementById("ss-submita").addEventListener("click", function() {
     if (validateForma()){
         setTimeout(function() {
             // replace the url in quotes below to where you want to the user to be redirected to
-            window.location = "http://www.harvestinghappiness.org/contactsuccess/";
+            window.location = "https://www.harvestinghappiness.org/contactsuccess/";
         }, 1000);
     }
 });
@@ -133,7 +133,7 @@ document.getElementById("ss-submitb").addEventListener("click", function() {
     if (validateFormb()){
         setTimeout(function() {
             // replace the url in quotes below to where you want to the user to be redirected to
-            window.location = "http://www.harvestinghappiness.org/newssuccess/";
+            window.location = "https://www.harvestinghappiness.org/newssuccess/";
         }, 1000);
     }
 });
@@ -153,6 +153,6 @@ For phone or further contact info email Emily Keller.
 </div>
 
 <figure class="col-sm-8 col-sm-offset-2">
-    <img src="http://harvestinghappiness.org/images/directors.jpg" alt="Co-Founders Brennan McMillen &amp; Emily Keller" title="" style="">
+    <img src="{{ site.url }}images/directors.jpg" alt="Co-Founders Brennan McMillen &amp; Emily Keller" title="" style="">
     <figcaption>Co-Founders Emily Keller &amp; Brennan McMillen</figcaption>
 </figure>
