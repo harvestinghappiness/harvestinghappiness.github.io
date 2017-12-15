@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   the help they need.
 footertext: Cosechando Felicidad Inc. is a 501(c)3 nonprofit working in Guatemala
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://harvestinghappiness.org" # the base hostname & protocol for your site
+url: "https://harvestinghappiness.org" # the base hostname & protocol for your site
 facebook_username: harvestinghappinessguate
 twitter_username:
 
