@@ -153,6 +153,6 @@ For phone or further contact info email Emily Keller.
 </div>
 
 <figure class="col-sm-8 col-sm-offset-2">
-    <img src="{{ site.url }}images/directors.jpg" alt="Co-Founders Brennan McMillen &amp; Emily Keller" title="" style="">
+    <img src="{{ site.url }}/images/directors.jpg" alt="Co-Founders Brennan McMillen &amp; Emily Keller" title="" style="">
     <figcaption>Co-Founders Emily Keller &amp; Brennan McMillen</figcaption>
 </figure>
