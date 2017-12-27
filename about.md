@@ -42,9 +42,9 @@ them enough for their tireless efforts. Our two employees help to maintain the f
 rotate between either making tortillas or cooking the food. Each week we use 150 lbs of corn for
 tortillas.
 
-{% include figure.html src="about/elderly.jpg" caption="Local elderly in Guatemala benefiting from the feeding program" side="left" size="third" %}
 {% include figure.html src="about/elderly2.jpg" caption="" side="left" size="third" %}
 {% include figure.html src="about/food.jpg" caption="A typical meal served at Cosechando Felicidad" side="left" size="third" %}
+{% include figure.html src="about/elderly.jpg" caption="Local elderly in Guatemala benefiting from the feeding program" side="left" size="third" %}
 
 
 &nbsp;
