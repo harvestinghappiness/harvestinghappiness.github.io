@@ -42,7 +42,7 @@ them enough for their tireless efforts. Our two employees help to maintain the f
 rotate between either making tortillas or cooking the food. Each week we use 150 lbs of corn for
 tortillas.
 
-{% include figure.html src="about/elderly.jpg" caption="Local elderly in Santa Maria benefiting from the feeding program" side="left" size="third" %}
+{% include figure.html src="about/elderly.jpg" caption="Local elderly in Guatemala benefiting from the feeding program" side="left" size="third" %}
 {% include figure.html src="about/elderly2.jpg" caption="" side="left" size="third" %}
 {% include figure.html src="about/food.jpg" caption="A typical meal served at Cosechando Felicidad" side="left" size="third" %}
 
@@ -123,9 +123,9 @@ coffee, soup packets, salt, oil, rice, pasta, etc. each month. This helps to rel
 burden from families and provides them with more nutritious options for their families. Often, when
 families cannot provide food for their families, they live off only corn tortillas alone.
 
-{% include figure.html src="about/baby.jpg" caption="" side="left" size="quarter" %}
-
 ## Single Mothers
+
+{% include figure.html src="about/baby.jpg" caption="" side="left" size="quarter" %}
 
 We recognize single mothers are in an especially difficult situation. In this culture, it is common for the
 fatherly figure of the family to be an alcoholic or to have abandoned the family altogether. We think it is
