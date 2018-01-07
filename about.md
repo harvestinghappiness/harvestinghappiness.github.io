@@ -12,7 +12,8 @@ to empower the community of Santa Maria de Jesus, Sacatepéquez, Guatemala, espe
 help their neighbors. This organization began as its founders were living in the community and began
 meeting needs one person at a time. This mentality of helping one person at a time has now grown into
 this organization. Since 2014 we have continued to grow and establish our programs. We now serve
-thousands of people annually and our feeding program for the elderly provided over 27,000 meals in 2016. 
+thousands of people annually and our feeding program for the elderly provided over 27,000 meals in 2016, 
+and has grown to provide over 50,000 meals in 2017.
 We are extremely humbled to see how our organization has grown in such a short amount of
 time. We have over 40 volunteers who run the daily activities of our programs as well as two employees.
 We have a board of directors of five of our most trusted local volunteers who oversee the programs
