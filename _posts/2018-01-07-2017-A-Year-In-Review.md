@@ -10,6 +10,8 @@ commentID: 20
 
 We give thanks to God and to you for guiding, supporting, and encouraging us in 2017. We are continually astounded by the overwhelming goodness that has been shown to us. We consider 2017 a year of success and growth. As we prayerfully prepare for 2018, we want to take a moment and thank you for accompanying us in this journey. 
 
+{% include figure.html src="blog-01-07-18/pic1.jpg" size="half" side="right" alt="Fuego Volcano, Guatemala" %}
+
 As an organization feel honored that God choose us to prepare and serve nearly 50,000 meals, and assist twenty-two families with groceries every month. In addition, aid eight parents with formula regularly, cover the costs of six surgeries, and continue to support our volunteers in their studies. By God’s grace we were able to maintain our two full-time employees, and move to our permanent location. While we are grateful for how well the programs are going, we are well aware that they are only avenues to reach our main goals. Create a community of love and support. Create an environment where individuals feel accepted and welcomed. Create an atmosphere that encourages personal and spiritual growth. We ask that you prayerfully consider supporting us in 2018 as we continue our programs and work towards purchasing our permanent location.
 
 We are well aware that your lives are often chaotic, and your agendas are full. For that reason, we fill all the more blessed that you took time to think of us, and more importantly the people we serve.  Thank you for walking alongside us as we develop as an organization. 
@@ -20,9 +22,9 @@ We cannot thank you enough. Much love & many blessings,
 
 <p class="meta">Brennan, Emily, and the Cosechando Felicidad Family</p>
 
-{% include figure.html src="blog-01-07-18/pic1.jpg" size="half" side="right" alt="Fuego Volcano, Guatemala" %}
-
 When I was little I lived with the wife of my uncle. We used to walk almost to Antigua to bring wood and vegetables back. There was no shoes in those times. All I remember is how the dirt burnt my feet as I walk. We earned 0.15Q (2 cents) a day. My aunt didn’t care if I was sick. If you said that your head hurt from how heavy the cargo was, she didn’t care....
+
+{% include figure.html src="blog-01-07-18/pic2.jpg" size="half" side="left" alt="Eldery woman from feeding program" %}
 
 I thought those were hard times. But, when you are young you have energy. Not like now. I am getting older every day.
 
@@ -36,11 +38,8 @@ Now I am all alone. Who for me?
 
 <p class="meta">-Elderly woman in our feeding program</p>
 
-{% include figure.html src="blog-01-07-18/pic2.jpg" size="half" side="left" alt="Eldery woman from feeding program" %}
-
->“I told my husband our daughter was sick. He didn’t believe me. I knew I couldn’t wait for him, so I just tried my best to put money together. I took her to the hospital and they said she had hepatitis. I knew something was wrong because her eyes turned yellow. Finally, my husband began to believe me. He thought I was making it up just to get money. Once he offered me the money for her medicine, I just told him that I already paid for it. I can’t wait around for someone to believe me that they really is something wrong when our kids are really sick.”
-
-<p class="meta">-Mother in the community</p>
+>“I told my husband our daughter was sick. He didn’t believe me. I knew I couldn’t wait for him, so I just tried my best to put money together. I took her to the hospital and they said she had hepatitis. I knew something was wrong because her eyes turned yellow. Finally, my husband began to believe me. He thought I was making it up just to get money. Once he offered me the money for her medicine, I just told him that I already paid for it. I can’t wait around for someone to believe me that they really is something wrong when our kids are really sick.” 
+>-Mother in the community
 
 I am the oldest son of 8 children. I have 3 brothers and 4 sisters. Since I was little I wanted to help others. That is what brought me here to this organization. Here, I have found a lot of people who have the same ideas as me. There are people here from Santa who want to help others. I feel lucky to have them. I’ve also been lucky to find people from others countries who also want to help. There is a lot left to do to help the people who need it most, but we are achieving this little by little. Alone, you cannot do it. It needs to be with the help of various people. People who help us from other countries help us a lot to achieve our goals of helping others.
 
