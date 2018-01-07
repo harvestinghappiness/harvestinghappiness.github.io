@@ -47,6 +47,8 @@ Now I am all alone. Who for me?
 >“I told my husband our daughter was sick. He didn’t believe me. I knew I couldn’t wait for him, so I just tried my best to put money together. I took her to the hospital and they said she had hepatitis. I knew something was wrong because her eyes turned yellow. Finally, my husband began to believe me. He thought I was making it up just to get money. Once he offered me the money for her medicine, I just told him that I already paid for it. I can’t wait around for someone to believe me that they really is something wrong when our kids are really sick.” <br>
 >-Mother in the community
 
+&nbsp;
+
 {% include figure.html src="blog-01-07-18/pic3.jpg" size="half" side="left" alt="Co-Founder Brennan McMillen with Cosechando Felicidad volunteers" %}
 
 I am the oldest son of 8 children. I have 3 brothers and 4 sisters. Since I was little I wanted to help others. That is what brought me here to this organization. Here, I have found a lot of people who have the same ideas as me. There are people here from Santa who want to help others. I feel lucky to have them. I’ve also been lucky to find people from others countries who also want to help. There is a lot left to do to help the people who need it most, but we are achieving this little by little. Alone, you cannot do it. It needs to be with the help of various people. People who help us from other countries help us a lot to achieve our goals of helping others.
