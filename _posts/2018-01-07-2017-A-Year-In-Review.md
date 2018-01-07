@@ -18,13 +18,17 @@ We are well aware that your lives are often chaotic, and your agendas are full. 
 
 We want to share with you some excerpts from interviews we have been conducting with our volunteers and individuals who benefit from our programs. We feel it is important to share the stories of those in our community to allow for a better understanding of the hurt and heartache they experience on a daily basis. Their stories might be difficult for you to hear, but they are important ones. These are the individual we partner with on a daily basis.  They tell stories of everyday life in Santa Maria and of their past struggles. These are the individuals who are no longer alone in their suffering because of your generous support of our organization.  
 
-We cannot thank you enough. Much love & many blessings,
+<p class="meta">We cannot thank you enough. Much love & many blessings,</p>
+
+&nbsp;
 
 <p class="meta">Brennan, Emily, and the Cosechando Felicidad Family</p>
 
-When I was little I lived with the wife of my uncle. We used to walk almost to Antigua to bring wood and vegetables back. There was no shoes in those times. All I remember is how the dirt burnt my feet as I walk. We earned 0.15Q (2 cents) a day. My aunt didn’t care if I was sick. If you said that your head hurt from how heavy the cargo was, she didn’t care....
+&nbsp;
 
 {% include figure.html src="blog-01-07-18/pic2.jpg" size="half" side="left" alt="Eldery woman from feeding program" %}
+
+When I was little I lived with the wife of my uncle. We used to walk almost to Antigua to bring wood and vegetables back. There was no shoes in those times. All I remember is how the dirt burnt my feet as I walk. We earned 0.15Q (2 cents) a day. My aunt didn’t care if I was sick. If you said that your head hurt from how heavy the cargo was, she didn’t care....
 
 I thought those were hard times. But, when you are young you have energy. Not like now. I am getting older every day.
 
@@ -37,6 +41,8 @@ The neighbor came to see him, but his tongue was in the back of his throat. That
 Now I am all alone. Who for me?
 
 <p class="meta">-Elderly woman in our feeding program</p>
+
+&nbsp;
 
 >“I told my husband our daughter was sick. He didn’t believe me. I knew I couldn’t wait for him, so I just tried my best to put money together. I took her to the hospital and they said she had hepatitis. I knew something was wrong because her eyes turned yellow. Finally, my husband began to believe me. He thought I was making it up just to get money. Once he offered me the money for her medicine, I just told him that I already paid for it. I can’t wait around for someone to believe me that they really is something wrong when our kids are really sick.” 
 >-Mother in the community
@@ -51,4 +57,4 @@ If I could give one piece of advice, it would be to help others. Even though we 
 
 <p class="meta">-One of our volunteers</p>
 
-{% include figure.html src="blog-01-07-18/pic3.jpg" size="half" side="right" alt="Co-Founder Brennan McMillen with Cosechando Felicidad volunteers" %}
+{% include figure.html src="blog-01-07-18/pic3.jpg" size="half" side="left" alt="Co-Founder Brennan McMillen with Cosechando Felicidad volunteers" %}
