@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Update: Bible Study
+title:  Update Bible Study
 author: brennan
 date:   2018-01-16 12:00:00
 categories: Guatemala Reflections
