@@ -30,7 +30,7 @@ In the same way, we are overwhelming proud of the young adults that are receivin
 
 Every other Saturday we invite the young adults we assist, as well as other teens from the community to an evening Bible study. These groups not only address biblical topics, but also social issues that majority of the teens are facing. We are hopeful that these groups will continue to grow, and provide a nonjudgmental space for people to talk, and express themselves. The next group will be held April 14th, and will be centered on the topic of trust. In addition to this, we are still in the process of planning for a weekly devotional message to be given to the elderly at our feeding program. Special consideration is being taken while planning for this devotional as the message needs to be accessible to the elderly in both Spanish and their native Mayan dialect. We look forward to bringing you more information about this in the future! 
 
-{% include figure.html src="blog-04-09-18/pic6.jpg" size="quarter" side="left" alt="A view of the volcano Feugo behind Santa Maria, Guatemala" %}
+{% include figure.html src="blog-04-09-18/pic6.jpg" size="half" side="right" alt="A view of the volcano Feugo behind Santa Maria, Guatemala" %}
 
 During the month of April we hope to post interviews with our volunteers and board member to our Facebook page. Also, if you have any questions about the project, how we work, or what we do, please message us! We hope to upload videos answering any questions you may have. 
 
