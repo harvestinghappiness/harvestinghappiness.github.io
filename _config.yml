@@ -10,7 +10,7 @@ footertext: Cosechando Felicidad Inc. is a 501(c)3 nonprofit working in Guatemal
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://harvestinghappiness.org" # the base hostname & protocol for your site
 facebook_username: harvestinghappinessguate
-twitter_username:
+instagram_username: harvestinghappinessguate
 
 # Build settings
 markdown: kramdown
