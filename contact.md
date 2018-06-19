@@ -5,39 +5,16 @@ permalink: /contact/
 ---
 
 <div class="col-sm-6">
-    <h3>Have Questions?</h3>
-    <hr>
-    <form action="https://docs.google.com/forms/d/1ooxeou7pVxHweD8-jG7Hq6cQONiDby3u1yt0TBef1wg/formResponse" method="POST" id="ss-form" name="forma" target="secret-frame" onsubmit="">
-        <div class="form-group">
-            <label for="itemView.getDomIdToLabel()" aria-label="(Required field)">First &amp; Last Name: *
-            </label>
-            <input type="text" name="entry.917075521" value="" class="ss-q-short form-control" id="entry_917075521" dir="auto" aria-label="Name:  First and Last " aria-required="true" required="" title="">
-        </div>
-        <div class="form-group">
-            <label class="ss-q-item-label" for="entry_2068441859">Email Address: *
-            </label>
-            <input type="email" name="entry.2068441859" value="" class="ss-q-short form-control" id="entry_2068441859" dir="auto" aria-label="Email address:  " aria-required="true" required="" title="">
-        </div>
-        <div class="form-group">
-            <label class="ss-q-item-label" for="entry_1857669065">
-                Subject *:
-            </label>
-            <input type="text" name="entry.1857669065" value="" class="ss-q-short form-control" id="entry_1857669065" dir="auto" aria-label="Subject:  " title="" required="">
-        </div>
-        <div class="form-group">
-            <label class="ss-q-item-label" for="entry_112630363">
-                Message *:
-            </label>
-            <textarea name="entry.112630363" rows="8" class="ss-q-long form-control" id="entry_112630363" dir="auto" aria-label="Message:  " required=""></textarea>
-        </div>
-        <div class="form-group">
-            <input type="hidden" name="draftResponse" value="[,,&quot;6162429118050415973&quot;]">
-            <input type="hidden" name="pageHistory" value="0">
-            <input type="hidden" name="fvv" value="0">
-            <input type="hidden" name="fbzx" value="6162429118050415973">
-            <input type="submit" name="submit" value="Submit" id="ss-submita" class="jfk-button jfk-button-action btn btn-default">
-        </div>
-    </form>
+	<h3>Business Contact</h3>
+	<pre>
+Emily Keller
+<a href="mailto:emily@harvestinghappiness.org">emily@harvestinghappiness.org</a>
+Cosechando Felicidad Inc.
+117 Elk Lane
+Williston, VT 05495
+
+For phone or further contact info email Emily Keller.
+</pre>
 </div>
 <div class="col-sm-5 col-sm-offset-1 newsletter">
     <h3>Sign up for our newsletter!</h3>
@@ -117,16 +94,6 @@ function validateFormb() {
     return true;
 }
 
-// replace "ss-submit" with the ID of your submit button
-document.getElementById("ss-submita").addEventListener("click", function() {
-    // adds a delay because the results page loads before the form has a chance to submit
-    if (validateForma()){
-        setTimeout(function() {
-            // replace the url in quotes below to where you want to the user to be redirected to
-            window.location = "https://www.harvestinghappiness.org/contactsuccess/";
-        }, 1000);
-    }
-});
 
 document.getElementById("ss-submitb").addEventListener("click", function() {
     // adds a delay because the results page loads before the form has a chance to submit
@@ -138,19 +105,6 @@ document.getElementById("ss-submitb").addEventListener("click", function() {
     }
 });
 </script>
-
-<div class="col-sm-12">
-	<h3>Business Contact</h3>
-	<pre>
-Emily Keller
-<a href="mailto:emily@harvestinghappiness.org">emily@harvestinghappiness.org</a>
-Cosechando Felicidad Inc.
-117 Elk Lane
-Williston, VT 05495
-
-For phone or further contact info email Emily Keller.
-</pre>
-</div>
 
 <figure class="col-sm-8 col-sm-offset-2">
     <img src="{{ site.url }}/images/directors.jpg" alt="Co-Founders Brennan McMillen &amp; Emily Keller" title="" style="">
