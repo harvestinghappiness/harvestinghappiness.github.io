@@ -33,7 +33,7 @@ this week. From there we will be able to see how best to help the specific cases
 medications in future visits.
 
 
-{% include figure.html src="blog-06-28-18/pic1.png" size="half" side="left" caption="Standing at street level looking down into the ruins of a home. The ash has raised street level to the height of the roof and the roof was either destroyed or removed during rescue efforts." %}
+{% include figure.html src="blog-06-28-18/pic1.png" size="half" side="right" caption="Standing at street level looking down into the ruins of a home. The ash has raised street level to the height of the roof and the roof was either destroyed or removed during rescue efforts." %}
 
 After leaving the village, we went to San Miguel Los Lotes, the most affected town. Los Lotes is the town
 you have probably seen pictures of if you have seen any of the jaw-dropping photos on the internet. The
@@ -89,11 +89,11 @@ provided.
 
 {% include figure.html src="blog-06-28-18/pic8.png" size="half" side="left" caption="Walking into town on a part of the road that is in the final stages of being cleared." %}
 
-{% include figure.html src="blog-06-28-18/pic9.png" size="half" side="left" caption="A demolished vehicle that was lifted by the lava and ash flow and deposited on top of a pile of rubble and ash amidst remnants of homes." %}
-
 {% include figure.html src="blog-06-28-18/pic10.png" size="half" side="left" caption="Ash and boulders reaching 2/3 of a the way up a house." %}
 
-{% include figure.html src="blog-06-28-18/pic11.png" size="half" side="left" caption="Remnants of homes and debris." %}
+{% include figure.html src="blog-06-28-18/pic9.png" size="full" side="left" caption="A demolished vehicle that was lifted by the lava and ash flow and deposited on top of a pile of rubble and ash amidst remnants of homes." %}
+
+{% include figure.html src="blog-06-28-18/pic11.png" size="full" side="left" caption="Remnants of homes and debris." %}
 
 {% include figure.html src="blog-06-28-18/pic12.png" size="half" side="left" caption="Ash filling homes." %}
 
