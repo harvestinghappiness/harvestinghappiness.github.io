@@ -8,7 +8,6 @@ activetab: blog
 commentID: 24
 ---
 
-6-27-18
 
 {% include figure.html src="blog-06-28-18/pic2.png" size="half" side="left" caption="A small stream filling the path where the lava traveled." %}
 
