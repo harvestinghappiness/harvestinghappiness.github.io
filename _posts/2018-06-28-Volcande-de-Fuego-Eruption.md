@@ -10,7 +10,7 @@ commentID: 24
 
 6-27-18
 
-{% include figure.html src="blog-06-28-18/pic2.png" size="half" side="left" alt="A small stream filling the path where the lava traveled." %}
+{% include figure.html src="blog-06-28-18/pic2.png" size="half" side="left" caption="A small stream filling the path where the lava traveled." %}
 
 This morning we left at 6 AM with 6 of our volunteers to visit the areas most affected by the recent
 Volcan de Fuego eruption on June 3 rd . The affected area would usually only be a 30-35 minute drive from
@@ -34,7 +34,7 @@ this week. From there we will be able to see how best to help the specific cases
 medications in future visits.
 
 
-{% include figure.html src="blog-06-28-18/pic1.png" size="half" side="left" alt="Standing at street level looking down into the ruins of a home. The ash has raised street level to the height of the roof and the roof was either destroyed or removed during rescue efforts." %}
+{% include figure.html src="blog-06-28-18/pic1.png" size="half" side="left" caption="Standing at street level looking down into the ruins of a home. The ash has raised street level to the height of the roof and the roof was either destroyed or removed during rescue efforts." %}
 
 After leaving the village, we went to San Miguel Los Lotes, the most affected town. Los Lotes is the town
 you have probably seen pictures of if you have seen any of the jaw-dropping photos on the internet. The
@@ -56,7 +56,7 @@ the second level of houses, and on the terrace of the house there would still be
 toys left from the children who used to play there. Cars had been smashed and lifted several feet in the
 air and ultimately deposited on piles of rubble and ash. In some areas, houses were filled 2/3 with ash
 
-{% include figure.html src="blog-06-28-18/pic3.png" size="half" side="left" alt="Looking down into the remains of another home." %}
+{% include figure.html src="blog-06-28-18/pic3.png" size="full" side="left" caption="Looking down into the remains of another home." %}
 
 and in other areas they were covered to the rooves. Many metal roofs had been either smashed by
 boulders from the volcano or ripped back during the search for bodies and potential survivors in the
@@ -80,22 +80,22 @@ families up with basic housing as they get on their feet. We will continue to gi
 have more information. Those who are interested in donating toward these efforts can follow the links
 provided.
 
-{% include figure.html src="blog-06-28-18/pic4.png" size="half" side="left" alt="Lava and ash cover everything and you can easily see the destruction the eruption caused." %}
+{% include figure.html src="blog-06-28-18/pic4.png" size="half" side="left" caption="Lava and ash cover everything and you can easily see the destruction the eruption caused." %}
 
-{% include figure.html src="blog-06-28-18/pic5.png" size="half" side="left" alt="Stream filling in the path the lava traveled durign the eruption making it hard to access villages." %}
+{% include figure.html src="blog-06-28-18/pic5.png" size="half" side="left" caption="Stream filling in the path the lava traveled durign the eruption making it hard to access villages." %}
 
-{% include figure.html src="blog-06-28-18/pic6.png" size="half" side="left" alt="Ash that has been cleared from the main road by backhoes. It stands 3 stories high." %}
+{% include figure.html src="blog-06-28-18/pic6.png" size="half" side="left" caption="Ash that has been cleared from the main road by backhoes. It stands 3 stories high." %}
 
-{% include figure.html src="blog-06-28-18/pic7.png" size="half" side="left" alt="An alleyway filled with ash and debris one store high." %}
+{% include figure.html src="blog-06-28-18/pic7.png" size="half" side="left" caption="An alleyway filled with ash and debris one store high." %}
 
-{% include figure.html src="blog-06-28-18/pic8.png" size="half" side="left" alt="Walking into town on a part of the road that is in the final stages of being cleared." %}
+{% include figure.html src="blog-06-28-18/pic8.png" size="half" side="left" caption="Walking into town on a part of the road that is in the final stages of being cleared." %}
 
-{% include figure.html src="blog-06-28-18/pic9.png" size="half" side="left" alt="A demolished vehicle that was lifted by the lava and ash flow and deposited on top of a pile of rubble and ash amidst remnants of homes." %}
+{% include figure.html src="blog-06-28-18/pic9.png" size="half" side="left" caption="A demolished vehicle that was lifted by the lava and ash flow and deposited on top of a pile of rubble and ash amidst remnants of homes." %}
 
-{% include figure.html src="blog-06-28-18/pic10.png" size="half" side="left" alt="Ash and boulders reaching 2/3 of a the way up a house." %}
+{% include figure.html src="blog-06-28-18/pic10.png" size="half" side="left" caption="Ash and boulders reaching 2/3 of a the way up a house." %}
 
-{% include figure.html src="blog-06-28-18/pic11.png" size="half" side="left" alt="Remnants of homes and debris." %}
+{% include figure.html src="blog-06-28-18/pic11.png" size="half" side="left" caption="Remnants of homes and debris." %}
 
-{% include figure.html src="blog-06-28-18/pic12.png" size="half" side="left" alt="Ash filling homes." %}
+{% include figure.html src="blog-06-28-18/pic12.png" size="half" side="left" caption="Ash filling homes." %}
 
-{% include figure.html src="blog-06-28-18/pic13.png" size="half" side="left" alt="Inside a ruined church where a small plant has sprouted in the ash and rubble." %}
+{% include figure.html src="blog-06-28-18/pic13.png" size="half" side="left" caption="Inside a ruined church where a small plant has sprouted in the ash and rubble." %}
