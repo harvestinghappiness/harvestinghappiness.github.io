@@ -83,9 +83,9 @@ provided.
 
 {% include figure.html src="blog-06-28-18/pic5.png" size="half" side="left" caption="Stream filling in the path the lava traveled durign the eruption making it hard to access villages." %}
 
-{% include figure.html src="blog-06-28-18/pic6.png" size="half" side="left" caption="Ash that has been cleared from the main road by backhoes. It stands 3 stories high." %}
-
 {% include figure.html src="blog-06-28-18/pic7.png" size="half" side="left" caption="An alleyway filled with ash and debris one store high." %}
+
+{% include figure.html src="blog-06-28-18/pic6.png" size="half" side="left" caption="Ash that has been cleared from the main road by backhoes. It stands 3 stories high." %}
 
 {% include figure.html src="blog-06-28-18/pic10.png" size="half" side="left" caption="Ash and boulders reaching 2/3 of a the way up a house." %}
 
