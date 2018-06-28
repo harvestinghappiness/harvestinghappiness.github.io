@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Volcan de Fuego Eruption"
-author: brennan
+author: emilybrennan
 date:   2018-06-27 12:00:00
 categories: Guatemala Reflections
 activetab: blog
