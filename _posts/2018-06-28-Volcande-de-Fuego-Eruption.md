@@ -74,7 +74,7 @@ in these locations and how donations are not necessarily used as they were inten
 have been careful to work directly with affected families, and investigate their needs for ourselves. Our
 goal today was to collect information, and determine the way in which we can best serve as efforts
 move from relief to reconstruction. Our plan if to partner with two to three families, and assist them as
-they move from the temporary shelters, to a permeant location. We hope to be able to set these
+they move from the temporary shelters, to a permanent location. We hope to be able to set these
 families up with basic housing as they get on their feet. We will continue to give you all updates as we
 have more information. Those who are interested in donating toward these efforts can follow the links
 provided.
