@@ -87,9 +87,9 @@ provided.
 
 {% include figure.html src="blog-06-28-18/pic7.png" size="half" side="left" caption="An alleyway filled with ash and debris one store high." %}
 
-{% include figure.html src="blog-06-28-18/pic8.png" size="half" side="left" caption="Walking into town on a part of the road that is in the final stages of being cleared." %}
-
 {% include figure.html src="blog-06-28-18/pic10.png" size="half" side="left" caption="Ash and boulders reaching 2/3 of a the way up a house." %}
+
+{% include figure.html src="blog-06-28-18/pic8.png" size="half" side="left" caption="Walking into town on a part of the road that is in the final stages of being cleared." %}
 
 {% include figure.html src="blog-06-28-18/pic9.png" size="full" side="left" caption="A demolished vehicle that was lifted by the lava and ash flow and deposited on top of a pile of rubble and ash amidst remnants of homes." %}
 
