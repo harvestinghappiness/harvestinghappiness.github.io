@@ -19,6 +19,6 @@ Emily, Brennan, and the Cosechando Felicidad Family
 <small>*Please note tax receipts are sent at the end of each calendar year</small>
 
 <figure class="col-sm-8 col-sm-offset-2">
-    <img src="http://harvestinghappiness.org/images/success.jpg" alt="Co-Founders Brennan McMillen &amp; Emily Keller" title="" style="">
+    <img src="{{ site.url }}/images/success.jpg" alt="Co-Founders Brennan McMillen &amp; Emily Keller" title="" style="">
     <figcaption>Co-Founders Emily Keller &amp; Brennan McMillen</figcaption>
 </figure>
