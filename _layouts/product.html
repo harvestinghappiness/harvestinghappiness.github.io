@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="page container product-page-container">
+{% assign product = page.product %}
+{% if product.name %}
+
+<div class="product-full row">
+    <img src="{{ site.url }}/images/products/{{ product.img }}" alt="{{ product.name }}" class="col-sm-5">
+    <div class="product-info col-sm-7">
+        {% if product.name %}<h1 class="product-title">{{ product.name }}</h1>{% endif %}
+        {% if product.description %}<p class="product-description">{{ product.description }}</p>{% endif %}
+        {% if product.price %}<p class="product-price col-xs-2 row">${{ product.price }}</p>{% endif %}
+        <div class="col-xs-4 row">
+            {% include paypalbutton.html %}
+        </div>
+    </div>
+</div>
+{% endif %}
+</div>

@@ -1,0 +1,107 @@
+bag:
+  id: 1
+  name: Authentic Guatemalan Purse
+  summary: Handcrafted purse from Santa Maria
+  description: Authentic Guatemalan purse, sourced directly from Santa Maria. Perfect for every occasion!
+  img: 1.jpg
+  price: 50
+  categories: clothing, accesories
+  options:
+    red:
+      name: red
+      label: Color - Red
+      photo: 1red.jpg
+    blue:
+      name: blue
+      label: Color - Blue
+      photo: 1blue.jpg
+
+bracelet:
+  id: 2
+  name: Sweet Bracelet 
+  summary: Local bracelet from Santa Maria
+  description: Authentic Guatemalan purse, sourced directly from Santa Maria. Perfect for every occasion!
+  img: 2.jpg
+  price: 29.99
+  categories: accesories
+  options:
+    red:
+      name: red
+      label: Color - Red
+      photo: 1red.jpg
+    blue:
+      name: blue
+      label: Color - Blue
+      photo: 1blue.jpg
+
+bag2:
+  id: 1
+  name: Authentic Guatemalan Purse
+  summary: Handcrafted purse from Santa Maria
+  description: Authentic Guatemalan purse, sourced directly from Santa Maria. Perfect for every occasion!
+  img: 1.jpg
+  price: 50
+  categories: clothing, accesories
+  options:
+    red:
+      name: red
+      label: Color - Red
+      photo: 1red.jpg
+    blue:
+      name: blue
+      label: Color - Blue
+      photo: 1blue.jpg
+
+bracelet2:
+  id: 2
+  name: Sweet Bracelet 
+  summary: Local bracelet from Santa Maria
+  description: Authentic Guatemalan purse, sourced directly from Santa Maria. Perfect for every occasion!
+  img: 2.jpg
+  price: 29.99
+  categories: accesories
+  options:
+    red:
+      name: red
+      label: Color - Red
+      photo: 1red.jpg
+    blue:
+      name: blue
+      label: Color - Blue
+      photo: 1blue.jpg
+
+bag3:
+  id: 1
+  name: Authentic Guatemalan Purse
+  summary: Handcrafted purse from Santa Maria
+  description: Authentic Guatemalan purse, sourced directly from Santa Maria. Perfect for every occasion!
+  img: 1.jpg
+  price: 50
+  categories: clothing, accesories
+  options:
+    red:
+      name: red
+      label: Color - Red
+      photo: 1red.jpg
+    blue:
+      name: blue
+      label: Color - Blue
+      photo: 1blue.jpg
+
+bracelet3:
+  id: 2
+  name: Sweet Bracelet 
+  summary: Local bracelet from Santa Maria
+  description: Authentic Guatemalan purse, sourced directly from Santa Maria. Perfect for every occasion!
+  img: 2.jpg
+  price: 29.99
+  categories: accesories
+  options:
+    red:
+      name: red
+      label: Color - Red
+      photo: 1red.jpg
+    blue:
+      name: blue
+      label: Color - Blue
+      photo: 1blue.jpg
