@@ -7,13 +7,18 @@ layout: default
 {% if product.name %}
 
 <div class="product-full row">
+    {% if product.imgs %}
+    {% include carousel.html id=product.id numImgs=product.numImgs imgs=product.imgs alt=product.name %}
+    {% else %}
     <img src="{{ site.url }}/images/products/{{ product.img }}" alt="{{ product.name }}" class="col-sm-5">
+    {% endif %}
     <div class="product-info col-sm-7">
         {% if product.name %}<h1 class="product-title">{{ product.name }}</h1>{% endif %}
         {% if product.description %}<p class="product-description">{{ product.description }}</p>{% endif %}
+        {% if product.meals %}<p class="product-full-meals">Meals provided with this purchase: {{ product.meals }}</p>{% endif %}
         {% if product.price %}<p class="product-price col-xs-2 row">${{ product.price }}</p>{% endif %}
         <div class="col-xs-4 row">
-            {% include paypalbutton.html %}
+            {% include shoppingcartbutton.html id=product.id options=product.options price=product.price %}
         </div>
     </div>
 </div>

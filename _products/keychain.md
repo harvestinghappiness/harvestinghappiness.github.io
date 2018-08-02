@@ -1,7 +1,7 @@
 ---
 layout: product
 product:
-  id: 1
+  id: 9YJYEFPGPFHCN
   name: Handmade Keychain from Recycled Plastic
   summary: Renewable handmade Guatemalan keychain from recycled plastic
   description: Renewable handmade Guatemalan keychain from recycled plastic. Features sturdy, painted, plastic beads. These keychains provide a source of income for single mothers and recovering victims of domestic and sexual abuse in Santa María de Jesús, Guatemala. Keychains are handmade and one of a kind. Each keychain is packaged in a handmade typical pouch.
@@ -10,7 +10,5 @@ product:
   price: 5
   meals: 8
   categories: clothing, accessories,
-  options:
-    blue: Blue (3)
-    pink: Pink (3)
+  options: ['Blue', 'Pink']
 ---
