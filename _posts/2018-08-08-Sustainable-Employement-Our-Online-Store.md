@@ -42,8 +42,6 @@ women. We then either deliver the fabric to our artisans or they pick it up depe
 situation. They then sew the merchandise in their own homes and we purchase the items from them at
 a set price.
 
-{% include figure.html src="blog-08-08-18/pic3.jpg" size="half" caption="" %}
-
 Through natural next steps we have grown our selection of items. We have been contacted by local
 single mothers recovering from physical and sexual abuse seeking to earn a stable living to provide a
 safe situation for themselves and their children. We have taught them how to make unique handmade
@@ -54,6 +52,7 @@ need from their local community. They have the abilities and knowledge to work w
 materials we are not as comfortable with. We are excited about our collaboration with them as it is
 supporting locals who have a similar vision to us and are making a difference in their home country.
 
+{% include figure.html src="blog-08-08-18/pic3.jpg" size="half" caption="" %}
 {% include figure.html src="blog-08-08-18/pic4.jpg" size="half" caption="" %}
 
 Looking towards the future we are excited to expand our products as well as incorporate new artisans
