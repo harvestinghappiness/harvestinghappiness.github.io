@@ -11,7 +11,7 @@ commentID: 25
 At this point you have probably received notice of the opening of our online store! We are so excited to
 share this new program with you and a little bit of the history behind its creation.
 
-{% include figure.html src="blog-08-08-18/pic1.png" size="full" caption="" %}
+{% include figure.html src="blog-08-08-18/pic1.jpg" size="full" caption="" %}
 
 From the very beginning, we have sought to create employment opportunities in the community of
 Santa Maria. We have 2 full-time employees of our own, but want to provide more opportunities in the
@@ -24,7 +24,7 @@ you give a man a fish, you feed him for a day—if you teach him to fish, you fe
 other words, you can give a person food, but if you give them a job they will be able to buy food for the
 rest of their lives.
 
-{% include figure.html src="blog-08-08-18/pic2.png" size="full" caption="" %}
+{% include figure.html src="blog-08-08-18/pic2.jpg" size="full" caption="" %}
 
 While we have been thinking and dreaming about taking these next steps for years, we have been held
 back from embarking on this journey because we have been unsure of exactly how to go about this.
@@ -33,7 +33,7 @@ business sewing the necklines of traditional shirts and altering traditional clo
 upon hard times and couldn’t find adequate work to support themselves. They came to us asking if we
 had any work for them and thus began the production of our tote bags.
 
-{% include figure.html src="blog-08-08-18/pic3.png" size="full" caption="" %}
+{% include figure.html src="blog-08-08-18/pic3.jpg" size="full" caption="" %}
 
 Here is a little bit of information about how our items are made:
 
@@ -43,7 +43,7 @@ women. We then either deliver the fabric to our artisans or they pick it up depe
 situation. They then sew the merchandise in their own homes and we purchase the items from them at
 a set price.
 
-{% include figure.html src="blog-08-08-18/pic4.png" size="full" caption="" %}
+{% include figure.html src="blog-08-08-18/pic4.jpg" size="full" caption="" %}
 
 Through natural next steps we have grown our selection of items. We have been contacted by local
 single mothers recovering from physical and sexual abuse seeking to earn a stable living to provide a
@@ -55,7 +55,7 @@ need from their local community. They have the abilities and knowledge to work w
 materials we are not as comfortable with. We are excited about our collaboration with them as it is
 supporting locals who have a similar vision to us and are making a difference in their home country.
 
-{% include figure.html src="blog-08-08-18/pic5.png" size="full" caption="" %}
+{% include figure.html src="blog-08-08-18/pic5.jpg" size="full" caption="" %}
 
 Looking towards the future we are excited to expand our products as well as incorporate new artisans
 into the program. Traditionally, a large number of individuals in Santa Maria have been employed in
@@ -63,7 +63,7 @@ sewing shops that tailor traditional clothes or sew coffee bags for the booming 
 future we look forward to using microloans to allow in-need families who know how to sew to purchase
 their own sewing machines and thus start their own small businesses.
 
-{% include figure.html src="blog-08-08-18/pic6.png" size="full" caption="" %}
+{% include figure.html src="blog-08-08-18/pic6.jpg" size="full" caption="" %}
 
 We are so excited to bring you handcrafted goods that support a mission year-round. You can expect
 new designs and items being added in the next few months. Another exciting aspect to our store is that
