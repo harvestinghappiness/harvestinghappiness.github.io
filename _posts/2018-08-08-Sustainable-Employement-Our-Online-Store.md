@@ -61,8 +61,6 @@ sewing shops that tailor traditional clothes or sew coffee bags for the booming 
 future we look forward to using microloans to allow in-need families who know how to sew to purchase
 their own sewing machines and thus start their own small businesses.
 
-{% include figure.html src="blog-08-08-18/pic5.jpg" size="half" caption="" %}
-
 We are so excited to bring you handcrafted goods that support a mission year-round. You can expect
 new designs and items being added in the next few months. Another exciting aspect to our store is that
 not only do our items provide sustainable employment opportunities to at risk families and individuals,
@@ -76,4 +74,5 @@ small business please reach out to us at info@harvestinghappiness.org.
 With the help of many individuals both in Guatemala and the USA we are proud to present our online
 store. We hope that you love it as much as we do and will take the time to share it with your loved ones.
 
+{% include figure.html src="blog-08-08-18/pic5.jpg" size="half" caption="" %}
 {% include figure.html src="blog-08-08-18/pic6.jpg" size="half" caption="" %}
