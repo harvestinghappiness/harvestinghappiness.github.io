@@ -61,14 +61,14 @@ sewing shops that tailor traditional clothes or sew coffee bags for the booming 
 future we look forward to using microloans to allow in-need families who know how to sew to purchase
 their own sewing machines and thus start their own small businesses.
 
+{% include figure.html src="blog-08-08-18/pic5.jpg" size="half" caption="" %}
+
 We are so excited to bring you handcrafted goods that support a mission year-round. You can expect
 new designs and items being added in the next few months. Another exciting aspect to our store is that
 not only do our items provide sustainable employment opportunities to at risk families and individuals,
 but 100% of the proceeds go directly to supporting our programs at Cosechando Felicidad. As a tangible
 way for you to measure the impact of your purchases, we have included the number of meals for the
 elderly that your purchase provides.
-
-{% include figure.html src="blog-08-08-18/pic5.jpg" size="half" caption="" %}
 
 If you or someone you know is interested in partnering with us and selling our products in their store or
 small business please reach out to us at info@harvestinghappiness.org.
