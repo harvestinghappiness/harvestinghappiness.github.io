@@ -138,6 +138,14 @@ alone during the days. Single mothers are often the recipients of our constructi
 some of the most needy people in the community. On our “Donate” page you can select the option to
 sponsor a single mothers groceries. The cost is $20 and can be set up through automatic payments.
 
+## Online Store and Sustainable Employment
+
+In 2018 we launched our online store to sell typical goods and merchandise from the community of Santa María de Jesús and the surrounding areas. We seek to provide employment opportunities to at risk and poverty stricken families. We want to create lasting change through small businesses and are excited to share our line of merchandise with you. The products are purchased directly from the merchants year-round at a prices that provide them a desirable income to support their family. Beyond providing employment opportunities to empower locals and provide them with economic security, 100% of the proceeds generated from the sales of our online merchandise benefit the programs of Cosechando Felciidad Inc. Feel free to shop our online store from the “Shop” tab on our website. 
+
+## Feeding Program Sponsorship
+
+To help support the elderly individuals and others we serve through our feeding program we have created a sponsorship program. When you sponsor an individual you are personally partnering with them to provide for their needs during the month. The sponsorship includes providing food, medical care, and any specific health-related items they may require (i.e. adult diapers, etc.). We encourage you to look further into the program by exploring the “Sponsor” tab of our website. 
+
 We encourage you to read “Our People” section under our “About” section, check out or blog to find
 out what is currently going on in Santa Maria, and explore our “Donate” page as we are entirely funded
 by private donations. Please do not hesitate to contact us with any questions or comments. We would
