@@ -140,7 +140,7 @@ sponsor a single mothers groceries. The cost is $20 and can be set up through au
 
 ## Online Store and Sustainable Employment
 
-In 2018 we launched our online store to sell typical goods and merchandise from the community of Santa María de Jesús and the surrounding areas. We seek to provide employment opportunities to at risk and poverty stricken families. We want to create lasting change through small businesses and are excited to share our line of merchandise with you. The products are purchased directly from the merchants year-round at a prices that provide them a desirable income to support their family. Beyond providing employment opportunities to empower locals and provide them with economic security, 100% of the proceeds generated from the sales of our online merchandise benefit the programs of Cosechando Felciidad Inc. Feel free to shop our online store from the “Shop” tab on our website. 
+In 2018 we launched our online store to sell typical goods and merchandise from the community of Santa María de Jesús and the surrounding areas. We seek to provide employment opportunities to at risk and poverty stricken families. We want to create lasting change through small businesses and are excited to share our line of merchandise with you. The products are purchased directly from the merchants year-round at a prices that provide them a desirable income to support their family. Beyond providing employment opportunities to empower locals and provide them with economic security, 100% of the proceeds generated from the sales of our online merchandise benefit the programs of Cosechando Felicidad Inc. Feel free to shop our online store from the “Shop” tab on our website. 
 
 ## Feeding Program Sponsorship
 
