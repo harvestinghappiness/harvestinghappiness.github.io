@@ -7,7 +7,7 @@ permalink: /faith/
 **Purpose:** To create a community where those in most need can receive holistic aide as we strive to be
 the hands and feet of Jesus.
 
-###Statement of Faith
+### Statement of Faith
 
 We believe God is the Eternal King. He is infinite, unchangeable, perfect in holiness, wisdom, justice,
 power, and love.
