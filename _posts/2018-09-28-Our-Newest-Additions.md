@@ -8,8 +8,6 @@ activetab: blog
 commentID: 26
 ---
 
-{% include figure.html src="blog-09-28-18/pic1.jpg" size="half" caption="" %}
-
 The Bible says there is a season for everything. A time for everything under the sun. It talks about
 mourning and laughing. Destroying and building up. Scattering and gathering. It is beautiful to know we
 are able to experience and feel all the extremes life has to offer, and all the ordinariness in the middle.
@@ -18,6 +16,7 @@ come up with timelines, agendas, and visions of how each season will play out. L
 thanks to God we are not in charge. We remind ourselves to take a deep breath, knowing all things are
 made perfect in God’s timing.
 
+{% include figure.html src="blog-09-28-18/pic1.jpg" size="half" caption="" %}
 {% include figure.html src="blog-09-28-18/pic2.jpg" size="half" caption="" %}
 
 We have always been believers that change comes from the inside. We strive to be the community’s
@@ -37,6 +36,7 @@ between Guatemala and the States. Essentially, they will be overseeing the respo
 do when we are in Guatemala.
 
 {% include figure.html src="blog-09-28-18/pic3.jpg" size="half" caption="" %}
+{% include figure.html src="blog-09-28-18/pic4.jpg" size="half" caption="" %}
 
 We are ready to embrace this time of growth, learning, and new opportunities.
 Edwin Osoy and José Pich have already assumed their roles, and have brought a new surge of energy to
@@ -55,5 +55,3 @@ without you.
 <p class="meta">Blessings,<br>
 
 Brennan McMillen &amp; Emily Keller</p>
-
-{% include figure.html src="blog-09-28-18/pic4.jpg" size="half" caption="" %}
