@@ -46,6 +46,6 @@ part of a harvest far larger than we could have imagined.
 Praise God for He is faithful! Thank you all for your support and encouragement, we could not do it
 without you.
 
-<p class="meta">Blessings,
+<p class="meta">Blessings,<br>
 
 Brennan McMillen &amp; Emily Keller</p>
