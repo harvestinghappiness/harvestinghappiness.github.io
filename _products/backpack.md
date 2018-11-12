@@ -10,5 +10,5 @@ product:
   img: backpack.jpg
   imgs: ['backpack-1.jpg', 'backpack-2.jpg', 'backpack-3.jpg', 'backpack-4.jpg']
   price: 50
-  meals: 33
+  meals: 68
 ---
