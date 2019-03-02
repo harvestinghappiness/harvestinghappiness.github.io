@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Update: Getting to now our leaders"
+title:  "Update: Getting to Know Our Leaders"
 author: emilybrennan
 date:   2019-03-01 12:00:00
 categories: Guatemala Reflections
