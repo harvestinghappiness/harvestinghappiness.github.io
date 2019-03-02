@@ -12,7 +12,7 @@ Warmest greetings from Santa Maria de Jesus. As we had previously mentioned, we 
 
 ### Tell us a little about yourself.
 
-I am Josefina Pich and I will turn 24 years old this year. I am one of ten siblings. Last year I completed one of my goals, and graduated as an LPN. I have been involved with Cosechando Felicidad before it even had a name. I think it has been over four years now. I originally came because I heard there was an opportunity for a scholarship. Little did I know then that it would evolve into one of the biggest parts of my life.
+I am Josefa Pich and I will turn 24 years old this year. I am one of ten siblings. Last year I completed one of my goals, and graduated as an LPN. I have been involved with Cosechando Felicidad before it even had a name. I think it has been over four years now. I originally came because I heard there was an opportunity for a scholarship. Little did I know then that it would evolve into one of the biggest parts of my life.
 
 ### What makes you want to keep coming? 
 
@@ -43,7 +43,7 @@ Love and you will be loved. Forgive and you will be forgiven.
 
 There are things to been done, it is best we go do them. 
 
-{% include figure.html src="blog-03-01-19/pic1.jpg" size="full" caption="Josefina Pich" %}
+{% include figure.html src="blog-03-01-19/pic1.jpg" size="full" caption="Josefa Pich" %}
 
 ### Tell us a little about yourself.
 
