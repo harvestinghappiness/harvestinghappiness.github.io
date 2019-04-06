@@ -12,7 +12,7 @@ commentID: 29
 > Let us not love with words or speech but with actions and in truth.
 > \- 1 John 3:18
 
-{% include figure.html src="blog-04-06-19/pic1.jpg" size="full" caption="Guatemala" %}
+{% include figure.html src="blog-04-06-19/pic1.jpg" size="full" %}
 
 As many of you know, for approximately two years now members of the community, and our volunteers have been looking after an elderly man. He never had children, and has outlived all his close relatives. Two years ago he found himself without any place to go after losing his home. A women from the community offered him a room where he could stay for free. It was ideal for him because he did not have to worry about the space being taken away from him. It was also ideal for us, because it is less than a half a block away from the project. For the past two years we have been able to deliver three meals a day to him! In addition, we have been able to have him seen by a doctor, and his medications filled. We visit with him a minimum of three times a day and call each other family. 
 
@@ -22,8 +22,8 @@ Thankfully we have been able to come together as a group to problem solve, and e
 
 We have been talking among ourselves, and have realized what a good reminder this situation is for us. We are reminded to practice patience, to value friendship, and to give generously and intentionally of our time. We love him more than he will ever realize. We are humbled and blessed to have the opportunity to share with him his final years here on Earth.
 
-{% include figure.html src="blog-04-06-19/pic2.jpg" size="full" caption="Guatemala" %}
-{% include figure.html src="blog-04-06-19/pic3.jpg" size="full" caption="Guatemala" %}
+{% include figure.html src="blog-04-06-19/pic2.jpg" size="half" %}
+{% include figure.html src="blog-04-06-19/pic3.jpg" size="half" %}
 
 The abuelo likes to make a small fire outside of his room to keep himself warm. 
 
