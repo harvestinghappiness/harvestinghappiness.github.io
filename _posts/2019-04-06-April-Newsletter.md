@@ -12,7 +12,7 @@ commentID: 29
 > Let us not love with words or speech but with actions and in truth.
 > \- 1 John 3:18
 
-{% include figure.html src="blog-04-06-19/pic1.jpg" size="full" %}
+{% include figure.html src="blog-04-06-19/pic1.jpg" size="half" %}
 
 As many of you know, for approximately two years now members of the community, and our volunteers have been looking after an elderly man. He never had children, and has outlived all his close relatives. Two years ago he found himself without any place to go after losing his home. A women from the community offered him a room where he could stay for free. It was ideal for him because he did not have to worry about the space being taken away from him. It was also ideal for us, because it is less than a half a block away from the project. For the past two years we have been able to deliver three meals a day to him! In addition, we have been able to have him seen by a doctor, and his medications filled. We visit with him a minimum of three times a day and call each other family. 
 
