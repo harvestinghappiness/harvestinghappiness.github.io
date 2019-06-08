@@ -1,8 +1,8 @@
 ---
 layout: product
 product:
-  id: product-component-3d559f1030c
-  shopifyId: 1386140106822
+  id: product-component-9f7e8a62f46
+  shopifyId: 2046569250886
   name: Quetzal Coin Bracelet
   summary: Inspirational handmade Guatemalan adjustable bracelet
   description: "Handcrafted Guatemalan bracelet. Bracelet is made of resistant waxed cord and beads. Features adjustable closure in the back. These bracelets provide a source of income for single mothers and recovering victims of domestic and sexual abuse in Santa María de Jesús, Guatemala. Each bracelet is packaged in a handmade typical pouch.  
