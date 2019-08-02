@@ -9,6 +9,6 @@ product:
                <br><br>100% of our profits support the elderly and our programs at Cosechando Felicidad Inc. including our feeding program for the elderly."
   img: backpack.jpg
   imgs: ['backpack-1.jpg', 'backpack-2.jpg', 'backpack-3.jpg', 'backpack-4.jpg']
-  price: 30
+  price: 40
   meals: 33
 ---
