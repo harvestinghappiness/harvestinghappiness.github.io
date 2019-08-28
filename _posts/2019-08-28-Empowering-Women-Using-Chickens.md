@@ -2,7 +2,7 @@
 layout: post
 title:  "Empowering Women Using Chickens"
 author: emilybrennan
-date:   2019-04-06 12:00:00
+date:   2019-08-28 12:00:00
 categories: Guatemala Reflections
 activetab: blog
 commentID: 30
