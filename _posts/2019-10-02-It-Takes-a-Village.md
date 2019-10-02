@@ -20,9 +20,9 @@ One of our staff members and I accompanied the family to the appointment an hour
 
 They informed us in order to be attended to at the referral hospital you have to be in line by no later than 5:00am. A staff member and volunteer eagerly signed up to accompany the family the following day. They left at 3:30am (God bless them) for the capital in order to get in line to see the doctor. By 10:00am they had seen the doctor but with no real answers, just with a paper saying to come back the following week. At this point all we truly wanted was pain relief for the person that was with us. It is difficult to not become discouraged when everywhere we went the answer seems to be ¨no¨. We patiently waited, and prayed for the follow-up appointment in the capital. Our staff member and volunteer again eagerly signed up to go with the family (God bless them x 2.) 3:30am rolls around and they were on the road to the hospital to get in line, again. Due to lack of resources, and an overabundance of people in need of the services the hospital provides we were told they could remove the kidney stones, but in February of 2020. It was devastating news, especially since the man with us was in constant pain. 
 
-{% include figure.html src="blog-10-02-19/pic3.jpg" size="half" caption="Waiting room at the Emergency Room." %}
-
 They called the project on their way home from the hospital to inquire about the next steps we should take. We called another private hospital, they told us the specialist took patients on Tuesdays and Thursdays, but you have to make the appointments in person. Thankfully it was Monday, so before coming back to Santa Maria they went and scheduled the appointment for the following day. 
+
+{% include figure.html src="blog-10-02-19/pic3.jpg" size="half" side="right" caption="Waiting room at the Emergency Room." %}
 
 While all of this was going on there were still a ton of things to attend to at the project. A water pipe that supplies half of the town had broken, meaning there was no water at the project for about a week. Home visitations still needed to occur. Food still needed to be bought, and prepared. The elder’s clothes still needed to be collected, washed, folded, and returned. Monthly payments needed to be made for the scholarships we give. Daily new people flowed in seeking help…. In the back of our minds we are still thinking about the surgery we know would have to happen sooner or later.
 
@@ -34,7 +34,7 @@ We again accompanied the family Tuesday to doctor. The doctor described the kidn
 
 Thanks be to Jesus he is now three weeks post-op, and feeling better each day. The kidney stone in questioned ended up being the size of a walnut (ouch!). On the 26th of September he had his staples removed. He still has a few remaining follow-up appointments, but overall is doing very well!
 
-{% include figure.html src="blog-10-02-19/pic5.jpg" size="full" caption="Streets of Santa Maria de Jesus, Guatemala." %}
-
 Like I said, it takes a village. I stand in awe of God. How He brings people together. How he equips, encourages, and unifies His children. If it weren’t for the countless staff members, volunteers, and random strangers that offered us a hand…. I have no idea what this past month would have looked like. Shout out to everyone who got up at crazy hours of the day to serve their neighbor. To those who gave of their time and energy to bring water from a distance. To everyone who washed the MOUNTAIN of dishes every day. To our faithful and selfless donors. To everyone who encourages us on this crazy journey. You all are the best! To God be all the glory.    
+
+{% include figure.html src="blog-10-02-19/pic5.jpg" size="full" caption="Streets of Santa Maria de Jesus, Guatemala." %}
 
