@@ -26,11 +26,11 @@ They called the project on their way home from the hospital to inquire about the
 
 While all of this was going on there were still a ton of things to attend to at the project. A water pipe that supplies half of the town had broken, meaning there was no water at the project for about a week. Home visitations still needed to occur. Food still needed to be bought, and prepared. The elder’s clothes still needed to be collected, washed, folded, and returned. Monthly payments needed to be made for the scholarships we give. Daily new people flowed in seeking help…. In the back of our minds we are still thinking about the surgery we know would have to happen sooner or later.
 
-{% include figure.html src="blog-10-02-19/pic4.jpg" size="half" caption="Collecting water to bring back to the project since the pipe burst in our section of town." %}
-
 They family was originally quoted a price of Q6,000 almost a $900. When we went to the original appointment we started reaching out to our partners asking if they, or someone they knew would be willing to assist with the costs. There was such an overwhelming outpouring of support. Their prayers, well wishes, and donations left us speechless. 
 
 We again accompanied the family Tuesday to doctor. The doctor described the kidney stones as      ´´ginormous´´ and agreed that surgery needed to happen because of the size. At this point we were just grateful we had been given solid answers, and that this doctor and hospital were able to take the case. Due to it being a private hospital, the price, as we excepted, was higher than the original quote. Again, our donors jumped into action. By the grace of God and the generous hearts of many, the money was collected in full. We continually prayed for positive outcomes for the patient, and comfort for the family. 
+
+{% include figure.html src="blog-10-02-19/pic4.jpg" size="half" caption="Collecting water to bring back to the project since the pipe burst in our section of town." %}
 
 Thanks be to Jesus he is now three weeks post-op, and feeling better each day. The kidney stone in questioned ended up being the size of a walnut (ouch!). On the 26th of September he had his staples removed. He still has a few remaining follow-up appointments, but overall is doing very well!
 
