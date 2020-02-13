@@ -1,8 +1,8 @@
 ---
 layout: product
 product:
-  id: product-component-22dcbe27631
-  shopifyId: 1739688083526
+  id: product-component-1581620282377
+  shopifyId: 4495595012173
   name: Guatemalan Scrunchie
   summary: Handcrafted Guatemalan Scrunchie
   description: "Handmade Guatemalan scrunchie made from recycled handwoven fabric and elastic. Fabric protects hair for a tangle-free experience. The scrunchies were made in Santa María de Jesús, Guatemala and provided a source of sustainable employment to the community. Available in red, blue, and multicolored variants. All scrunchies are handmade and one of a kind.
