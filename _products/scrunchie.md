@@ -10,6 +10,6 @@ product:
                <br><br>100% of our profits support the elderly and our programs at Cosechando Felicidad Inc. including our feeding program for the elderly."
   img: scrunchie-1.jpg
   imgs: ['scrunchie-1.jpg', 'scrunchie-2.jpg', 'scrunchie-3.jpg', 'scrunchie-4.jpg']
-  price: 5
+  price: 5 for 1 or $12 for 3
   meals: 8
 ---
