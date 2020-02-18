@@ -1,6 +1,5 @@
 @import vars
 
-/* Nav */
 .navbar-container
   display: flex
   justify-content: space-between
@@ -22,10 +21,15 @@
   color: white
 
 .navbar-list
-  list-style: none;
-  display: flex;
+  list-style: none
+  display: flex
   li
-    margin-left: 32px;
+    margin-left: 32px
+
+a.nav-link
+  color: black
+  &:hover
+    text-decoration: underline
 
 @media screen and (min-width: 767px)
   .nav li.active > a
