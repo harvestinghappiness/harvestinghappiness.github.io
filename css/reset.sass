@@ -1,0 +1,311 @@
+@import vars
+
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure
+  margin: 0
+  padding: 0
+
+// Using media queries with like this:
+// @include media-query($on-palm)
+//     .wrapper
+//         padding-right: $spacing-unit / 2
+//         padding-left: $spacing-unit / 2
+//
+//
+@mixin media-query($device)
+  @media screen and (max-width: $device)
+    @content
+
+/**
+ * Clearfix
+ */
+%clearfix
+  &:after
+    content: ""
+    display: table
+    clear: both
+
+/**
+ * Basic styling
+ */
+body
+  font-family: $base-font-family
+  font-size: $base-font-size
+  line-height: $base-line-height
+  font-weight: 300
+  color: $text-color
+  background-color: $background-color
+  -webkit-text-size-adjust: 100%
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm
+  margin-bottom: $spacing-unit / 2
+
+/**
+ * Images
+ */
+img
+  max-width: 100%
+  vertical-align: middle
+
+/**
+ * Figures
+ */
+figure > img
+  display: block
+
+figcaption
+  font-size: $small-font-size
+
+/**
+ * Lists
+ */
+ul, ol
+  margin-left: $spacing-unit
+
+li
+  > ul,
+  > ol
+    margin-bottom: 0
+
+/**
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6
+  font-weight: 300
+
+/**
+ * Links
+ */
+a
+  color: $brand-color
+  text-decoration: none
+  &:visited
+    color: darken($brand-color, 15%)
+  &:hover
+    color: $text-color
+    text-decoration: underline
+
+/**
+ * Blockquotes
+ */
+blockquote
+  color: $grey-color
+  border-left: 4px solid $grey-color-light
+  padding-left: $spacing-unit / 2
+  font-size: 18px
+  letter-spacing: -1px
+  font-style: italic
+  > :last-child
+    margin-bottom: 0
+
+/**
+ * Code formatting
+ */
+pre,
+code
+  font-size: 15px
+  border: 1px solid $grey-color-light
+  border-radius: 3px
+  background-color: #eef
+
+code
+  padding: 1px 5px
+
+pre
+  padding: 8px 12px
+  overflow-x: scroll
+
+  > code
+    border: 0
+    padding-right: 0
+    padding-left: 0
+
+/**
+ * Wrapper
+ */
+.wrapper
+  max-width: -webkit-calc($content-width - ($spacing-unit * 2))
+  max-width:         calc($content-width - ($spacing-unit * 2))
+  margin-right: auto
+  margin-left: auto
+  padding-right: $spacing-unit
+  padding-left: $spacing-unit
+  @extend %clearfix
+  @include media-query($on-laptop)
+    max-width: -webkit-calc($content-width - ($spacing-unit))
+    max-width:       calc($content-width - ($spacing-unit))
+    padding-right: $spacing-unit / 2
+    padding-left: $spacing-unit / 2
+
+/**
+ * Site footer
+ */
+.site-footer
+  border-top: 1px solid $grey-color-light
+  padding: $spacing-unit 0
+
+.footer-heading
+  font-size: 18px
+  margin-bottom: $spacing-unit / 2
+
+.contact-list,
+.social-media-list
+  list-style: none
+  margin-left: 0
+
+.footer-col-wrapper
+  font-size: 15px
+  color: $grey-color
+  margin-left: -$spacing-unit / 2
+  @extend %clearfix
+
+.footer-col
+  float: left
+  margin-bottom: $spacing-unit / 2
+  padding-left: $spacing-unit / 2
+
+.footer-col-1
+  width: -webkit-calc(35% - ($spacing-unit / 2))
+  width:         calc(35% - ($spacing-unit / 2))
+
+.footer-col-2
+  width: -webkit-calc(20% - ($spacing-unit / 2))
+  width:         calc(20% - ($spacing-unit / 2))
+
+.footer-col-3
+  width: -webkit-calc(45% - ($spacing-unit / 2))
+  width:         calc(45% - ($spacing-unit / 2))
+
+@include media-query($on-laptop)
+  .footer-col-1,
+  .footer-col-2
+    width: -webkit-calc(50% - ($spacing-unit / 2))
+    width:         calc(50% - ($spacing-unit / 2))
+  .footer-col-3
+    width: -webkit-calc(100% - ($spacing-unit / 2))
+    width:         calc(100% - ($spacing-unit / 2))
+
+@include media-query($on-palm)
+  .footer-col
+    float: none
+    width: -webkit-calc(100% - ($spacing-unit / 2))
+    width:         calc(100% - ($spacing-unit / 2))
+
+/**
+ * Page content
+ */
+.page-content
+  padding: $spacing-unit 0
+
+.page-heading
+  font-size: 20px
+
+.post-list
+  margin-left: 0
+  list-style: none
+  > li
+    margin-bottom: $spacing-unit
+
+.post-meta
+  font-size: $small-font-size
+  color: $grey-color
+
+.post-link
+  display: block
+  font-size: 24px
+
+/**
+ * Posts
+ */
+.post-header
+  margin-bottom: $spacing-unit
+
+.post-title
+  font-size: 42px
+  letter-spacing: -1px
+  line-height: 1
+  @include media-query($on-laptop)
+    font-size: 36px
+
+.post-content
+  margin-bottom: $spacing-unit
+  h2
+    font-size: 32px
+    @include media-query($on-laptop)
+      font-size: 28px
+  h3
+    font-size: 26px
+    @include media-query($on-laptop)
+      font-size: 22px
+  h4
+    font-size: 20px
+    @include media-query($on-laptop)
+      font-size: 18px
+
+/* General */
+html
+  background: $background-color
+
+body
+  @extend html
+  margin: 0
+  font-family: $font-stack
+  text-rendering: optimizeLegibility
+  -webkit-font-smoothing: subpixel-antialiased
+  -moz-osx-font-smoothing: grayscale
+
+p
+  font-size: 1em
+
+a, a:hover, a:visited
+  color: $primary-color
+
+figure
+  text-align: center
+  color: gray
+  font-size: .9em
+  img
+    width: 100%
+    margin-bottom: 5px
+
+figcaption
+  font-size: 1.1em
+
+code
+  font-size: inherit
+  border: none
+  border-radius: 0
+  background-color: transparent
+  font-family: inherit
+
+pre
+  @extend code
+  padding: 0
+  overflow-x: inherit
+
+.container.body
+  padding: 0
+  margin-top: 50px
+
+.right
+  float: right
+
+.page
+  padding-top: 20px
+
+hr
+  margin: 5px 0 10px 0
+
+.center
+  float: none
+  margin: 0 auto

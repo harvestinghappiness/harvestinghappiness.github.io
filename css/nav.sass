@@ -1,0 +1,44 @@
+@import vars
+
+/* Nav */
+.navbar-container
+  display: flex
+  justify-content: space-between
+  max-width: $body-width
+  padding: 32px 64px
+  margin: auto
+
+.navbar-header
+  display: flex
+  height: fit-content
+  justify-content: center
+  align-items: center
+
+.navbar-brand
+  display: inline-block
+  font-family: $font-brand
+  padding-left: 16px
+  margin: 0 0 0 0
+  color: white
+
+.navbar-list
+  list-style: none;
+  display: flex;
+  li
+    margin-left: 32px;
+
+@media screen and (min-width: 767px)
+  .nav li.active > a
+    border-bottom: 3px solid #cc7a6f
+
+@media screen and (max-width: 420px)
+  a.navbar-brand
+    font-size: 1.2em
+
+@media screen and (max-width: 380px)
+  a.navbar-brand
+    font-size: 1em
+
+a.navbar-brand
+  font-size: 1.3em
+  color: black

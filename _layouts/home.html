@@ -1,23 +1,19 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
 
   <body>
-  	{% include header.html %}
-	<div class="title">
-	  <div class="text">
-	    <h1>Cosechando Felicidad</h1>
-	    <h2>Harvesting Happiness</h2>
-	  </div>
-	</div>
+    {% include header.html %}
+    <div class="title">
+      <div class="text">
+        <h1>Cosechando Felicidad</h1>
+        <h2>Harvesting Happiness</h2>
+      </div>
+    </div>
 
     <div class="container" style="margin-top: 50px;">
-        {{ content }}
+      {{ content }}
     </div>
     {% include footer.html %}
-    <script src="{{ site.url }}/bootstrap/jquery.min.js"></script>
-    <script src="{{ site.url }}/bootstrap/bootstrap.min.js"></script>
   </body>
-
 </html>
