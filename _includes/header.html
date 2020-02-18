@@ -1,9 +1,6 @@
 <header class="nav-header">
   <nav class="navbar-container">
-    <div class="navbar-header">
-      <img src="{{ site.url }}/images/logo.svg" class="logo" alt="Logo">
-      <a class="navbar-brand" href="/">Cosechando Felicidad</a>
-    </div>
+    {% include logo-brand.html %}
     <ul class="navbar-list">
       <li {% if page.url == '/blog/' %}class="active"{% elsif page.activetab == "blog" %}class="active"{% endif %}><a class="nav-link" href="/blog/">Blog</a></li>
       <li {% if page.url == '/donate/' %}class="active"{% endif %}><a class="nav-link" href="/donate/" id="donate">Donate</a></li>
