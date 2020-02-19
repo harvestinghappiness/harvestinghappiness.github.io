@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Blog
 permalink: /blog/
 ---
@@ -9,12 +9,13 @@ permalink: /blog/
     {% if post.author %} {% assign author = site.data.people[post.author] %} {% endif %}
     <li>
       <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
-        <p class="meta">{{ post.date | date: '%B %d, %Y' }}{% if post.author %} by {{ author.name }}{% endif %}</p>
-      <hr>
-      {% if post.imageoff %} <!-- Turn this back on by removing "off" -->
-      <div class="blog-img" style="background-image: url({{ site.url }}/images/{{ post.image }});"></div>
-      {% endif %}
-      {{ post.content | strip_html | truncatewords: 50 }}
+      <div class="blog-description-container">
+        <div class="meta-container">
+          {% if post.author %}<p class="meta">{{ author.name }}{% endif %}</p>
+          <p class="meta">{{ post.date | date: '%m/%d/%y' }}</p>
+        </div>
+        <p class="blog-description">{{ post.content | strip_html | truncatewords: 50 }}</p>
+      </div>
     </li>
   {% endfor %}
 </ul>

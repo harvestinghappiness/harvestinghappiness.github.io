@@ -1,14 +1,24 @@
 ---
 ---
 
-@import css/vars, css/reset, css/nav, css/footer
+@import css/vars, css/reset, css/nav, css/footer, css/blog
 
 .container
   margin: auto
   margin-top: 72px
   max-width: $body-width
 
-/* Header */
+header.page-header
+  display: flex
+  justify-content: center
+  align-items: center
+  padding: 48px 0
+  h1
+    font-weight: 800
+    font-size: 64px
+    line-height: 80px
+    font-family: $font-brand
+
 .title
   background-image: url("../images/santamariaoverview.jpg")
   background-size: inherit
@@ -29,7 +39,6 @@
 img.logo
   width: 40px
 
-/* Forms */
 select
   width: 100%
   margin-bottom: 10px
@@ -37,59 +46,12 @@ select
 label
   font-weight: inherit
 
-/* Blog */
 div.newsletter
   background-color: rgba(59, 136, 5, 0.56)
   border-radius: 28px
   padding: 20px
   box-shadow: 0 0 13px rgba(0,0,0,0.2)
   margin-bottom: 10px
-
-.inner-content, .nav-blog
-  padding-top: 20px
-
-ul.blog
-  max-width: 728px
-  list-style: none
-  margin: 0
-
-ul.blog h4
-  margin: 0
-  font-size: 1.5em
-
-.meta
-  margin: 0
-  font-size: 1em
-
-ul.blog li
-  margin-bottom: 2em
-
-p.name
-  font-size: 1.5em
-  margin: 0
-
-p.email
-  margin: 0
-
-p.position
-  margin: 0 0 10px 0
-
-div.blog-img
-  width: 100%
-  margin: 0 auto 1em auto
-  height: 150px
-  background-size: cover
-  background-repeat: no-repeat
-
-article.post-content p
-  text-indent: 1em
-
-article.post-content p.meta
-  text-indent: 0
-
-ul.blog > li
-  margin: 10px
-  border-left: $primary-color solid 2px
 
 .paypal-button-logo
   vertical-align: middle
@@ -139,12 +101,6 @@ ul.blog > li
 /* People */
 .person + hr
   margin: 15px 0 15px 0
-
-.person, ul.blog > li
-  overflow: hidden
-  background-color: white
-  padding: 10px
-  box-shadow: 0 0 5px rgba(0,0,0,0.2)
 
 .person img
   width: 20%
