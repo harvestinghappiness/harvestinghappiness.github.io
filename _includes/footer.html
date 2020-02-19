@@ -1,14 +1,14 @@
 <footer class="site-footer">
   <section class="footer-section">
     {% include logo-brand.html %}
-    <ul class="contact-list">
-      <li>{{ site.title }}</li>
-      <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-    </ul>
+    <p class="footer-description">
+      Cosechando Felicidad Inc. is a 501(c)3 nonprofit working in Guatemala
+    </p>
   </section>
 
   <section class="footer-section">
     <ul class="social-media-list">
+      <li><a class="email-link" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
       {% if site.facebook_username %}
       <li>
         <a href="https://facebook.com/{{ site.facebook_username }}">
