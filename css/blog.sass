@@ -18,9 +18,11 @@ ul.blog h4
   font-size: 14px
   line-height: 16px
   margin-bottom: 4px
+  color: lighten($primary-color, 40%)
 
 div.meta-container
   margin-right: 32px
+  flex: 0 0 88px
 
 div.blog-description-container
   display: flex
@@ -33,28 +35,44 @@ div.blog-description-container
 ul.blog li
   margin-bottom: 2em
 
-p.name
-  font-size: 1.5em
+div.post
+  padding-top: 40px
+
+h1.post-title
+  font-family: $font-brand
+  font-weight: bold
+  font-size: 36px
+  line-height: 45px
+  margin-bottom: 24px
+
+.post-meta-container
+  margin-bottom: 64px
+
+p.post-meta
+  font-family: $font-brand
+  font-weight: 300
   margin: 0
+  &.name
+    font-size: 18px
+    line-height: 22px
 
-p.email
-  margin: 0
+  &.date, &.position
+    color: lighten($primary-color, 40%)
+    font-size: 14px
+    line-height: 16px
 
-p.position
-  margin: 0 0 10px 0
-
-div.blog-img
-  width: 100%
-  margin: 0 auto 1em auto
-  height: 150px
-  background-size: cover
-  background-repeat: no-repeat
-
-article.post-content p
-  text-indent: 1em
+article.post-content
+  max-width: 800px
+  font-family: $font-brand
+  font-weight: normal
+  font-size: 18px
+  line-height: 24px
+  text-indent: 24px
 
 article.post-content p.meta
   text-indent: 0
-
-ul.blog > li
-  margin-bottom: 62px
+  font-family: $font-brand
+  font-weight: normal
+  font-size: 18px
+  line-height: 24px
+  color: $primary-color
