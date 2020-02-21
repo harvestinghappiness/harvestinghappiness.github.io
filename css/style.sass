@@ -1,7 +1,7 @@
 ---
 ---
 
-@import css/vars, css/reset, css/nav, css/footer, css/blog, css/404, css/donate
+@import css/vars, css/reset, css/nav, css/footer, css/blog, css/404, css/donate, css/home
 
 .container
   margin: auto
@@ -19,6 +19,7 @@ header.page-header
     line-height: 80px
     font-family: $font-brand
 
+// Hero
 .hero
   background-color: black
   color: white
@@ -34,23 +35,6 @@ header.page-header
   font-size: 64px
   line-height: 80px
   margin-bottom: 24px
-
-.title
-  background-image: url("../images/santamariaoverview.jpg")
-  background-size: inherit
-  background-position: center
-  margin-top: 50px
-  position: relative
-  height: 350px
-
-.title > .text
-  text-align: center
-  top: 50%
-  position: absolute
-  left: 50%
-  -webkit-transform: translate(-50%,-50%)
-  transform: translate(-50%,-50%)
-  font-family: century gothic,CenturyGothic,AppleGothic,sans-serif
 
 img.logo
   width: 40px
@@ -69,7 +53,7 @@ div.newsletter
   box-shadow: 0 0 13px rgba(0,0,0,0.2)
   margin-bottom: 10px
 
-/* Contact */
+// Contact
 .contact.group
   vertical-align: top
   width: 49%
@@ -78,7 +62,7 @@ div.newsletter
 .contact
   padding: 0
 
-/* People */
+// People
 .person + hr
   margin: 15px 0 15px 0
 
