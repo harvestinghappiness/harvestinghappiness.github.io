@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: hero
 title: Cosechando Felicidad Inc.
 permalink: /
 ---
