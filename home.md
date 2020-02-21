@@ -16,7 +16,25 @@ permalink: /
   <a class="guide-star-link" href="https://www.guidestar.org/profile/47-4437262" target="#"><img alt="Guide Star Platinum Seal of Transparency 2019" src="{{ site.url }}/images/guideStarSeal_2019_platinum_SM.svg"></a>
 </div>
 
-{% include value.html title="test" text="test" src="test" alt="test" %}
+{% for valued in site.data.values %}
+{% assign value = valued[1] %}
+
+<div class="value-container val-{{ forloop.index }} {% cycle "", "value-reverse" %}">
+  <div class="value-text-container">
+    <h3 class="value-title">
+      {{ value.title }}
+    </h3>
+    <p class="value-text">{{ value.text }}</p>
+  </div>
+
+  <div class="value-image-container">
+    <img
+      src="{{ site.url }}/images/values/{{ value.src }}"
+      alt="{% if value.alt %}{{ value.alt }}{% else %}{{ value.title }}{% endif %}"
+    />
+  </div>
+</div>
+{% endfor %}
 
 Cosechando Felicidad Inc., (or Harvesting Happiness, in English), is a 501(c)3 non-profit corporation working in Santa Maria de Jesús, Guatemala. Our goal is to empower the community by forming genuine relationships through which people can receive the help they need.
 
