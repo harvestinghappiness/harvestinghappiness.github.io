@@ -11,6 +11,7 @@ permalink: /blog/
       <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
       <div class="blog-description-container">
         <div class="meta-container">
+          {% if post.author and author.img %}<img class="meta-image" src="{{ site.url }}/images/people/{{ author.img }}" alt="{{ author.name }}">{% endif %}
           {% if post.author %}<p class="meta">{{ author.name }}</p>{% endif %}
           <p class="meta">{{ post.date | date: '%m/%d/%y' }}</p>
         </div>

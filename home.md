@@ -50,9 +50,7 @@ permalink: /
   <div class="people-container">
     {% for persond in site.data.people %}
     {% assign person = persond[1] %}
-
     {% if person.bio %}
-
     <div class="person-container">
       <div class="person-image-container">
         <img class="person-image" src="{{ site.url }}/images/people/{{ person.img }}" alt="{{ person.name }}">
