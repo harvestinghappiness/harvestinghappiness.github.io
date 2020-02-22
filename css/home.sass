@@ -1,3 +1,5 @@
+@import results
+
 .guide-star-container
   width: 100%
   display: flex
@@ -58,3 +60,63 @@
   width: 360px
   background-color: black
   flex: 0 0 360px
+
+.home-section
+  margin-bottom: 64px
+
+.section-title
+  font-weight: bold
+  font-size: 36px
+  line-height: 45p
+  text-align: center
+  margin-bottom: 32px
+
+.results-table-container
+  display: flex
+  flex-wrap: wrap
+  justify-content: space-between
+
+th
+  text-align: left
+td
+  padding: 4px
+  &:first-child
+    border-right: 1px solid black
+
+table
+  width: calc(50% - 32px)
+  margin-bottom: 32px
+
+.people-container
+  display: flex
+  justify-content: space-evenly
+  flex-wrap: wrap
+  width: 100%
+
+.person-container
+  width: calc( 33.333% - 16px )
+  display: flex
+  flex-direction: column
+  justify-content: center
+  align-items: center
+  text-align: center
+  margin-bottom: 40px
+
+.person-image
+  border-radius: 50%
+  width: 160px
+  height: 160px
+  object-fit: cover
+  margin-bottom: 24px
+
+.person-name
+  font-weight: 500
+  font-size: 36px
+  line-height: 40px
+  margin-bottom: 4px
+
+.person-position
+  font-weight: 500
+  font-size: 18px
+  line-height: 24px
+  color: #686868

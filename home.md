@@ -10,12 +10,13 @@ permalink: /
   </div>
 </div>
 
-<div class="guide-star-container">
+<div class="guide-star-container home-section">
   <a class="guide-star-link" href="https://www.guidestar.org/profile/47-4437262" target="#"><img alt="Guide Star Platinum Seal of Transparency 2017" src="{{ site.url }}/images/guideStarSeal_2017_platinum_SM.svg"></a>
   <a class="guide-star-link" href="https://www.guidestar.org/profile/47-4437262" target="#"><img alt="Guide Star Platinum Seal of Transparency 2018" src="{{ site.url }}/images/guideStarSeal_2018_platinum_SM.svg"></a>
   <a class="guide-star-link" href="https://www.guidestar.org/profile/47-4437262" target="#"><img alt="Guide Star Platinum Seal of Transparency 2019" src="{{ site.url }}/images/guideStarSeal_2019_platinum_SM.svg"></a>
 </div>
 
+<div class="values-section home-section">
 {% for valued in site.data.values %}
 {% assign value = valued[1] %}
 
@@ -35,13 +36,32 @@ permalink: /
   </div>
 </div>
 {% endfor %}
+</div>
 
-Cosechando Felicidad Inc., (or Harvesting Happiness, in English), is a 501(c)3 non-profit corporation working in Santa Maria de Jesús, Guatemala. Our goal is to empower the community by forming genuine relationships through which people can receive the help they need.
+<div class="results-section home-section">
+  <h2 class="section-title">Results</h2>
+  <div class="results-table-container">
+    {% include results-tables.html %}
+  </div>
+</div>
 
-**Vision:** To walk alongside the sick, the elderly, the abandoned, and the hopeless by providing genuine
-support, and physical aide. Regardless of gender, religion, level of education, job, or past experiences.
+<div class="people-section home-section">
+  <h2 class="section-title">People</h2>
+  <div class="people-container">
+{% for persond in site.data.people %}
+{% assign person = persond[1] %}
 
-**Mission:** We strive to maintain a safe location where everyone is welcome to come and find physical,
-emotional, and spiritual support.
-
-[Learn more about us](/about/)
+{% if person.bio %}
+<div class="person-container">
+  <div class="person-image-container">
+    <img class="person-image" src="{{ site.url }}/images/people/{{ person.img }}" alt="{{ person.name }}">
+    <h3 class="person-name">
+      {{ person.name }}
+    </h3>
+    <p class="person-position">{{ person.position }}</p>
+  </div>
+</div>
+{% endif %}
+{% endfor %}
+</div>
+</div>
