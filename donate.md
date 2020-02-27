@@ -6,7 +6,7 @@ permalink: /donate/
 
 <div class="hero donate-hero">
   <div class="hero-container">
-    <h1 class="hero-text">Donate Slogan</h1>
+    <h1 class="hero-text">Your donation helps feed the elderly and much more!</h1>
     {% include paypalbutton.html %}
   </div>
 </div>
