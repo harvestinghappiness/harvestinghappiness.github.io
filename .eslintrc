@@ -8,9 +8,12 @@
       "jsx": true // Allows for the parsing of JSX
     }
   },
-  "plugins": [
-    "@typescript-eslint"
-  ],
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "plugins": ["react", "@typescript-eslint"],
   "extends": [
     "plugin:react/recommended",
     "eslint:recommended",
