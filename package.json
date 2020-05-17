@@ -39,7 +39,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "tsc": "npx tsc",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 0"
   },
   "repository": {
     "type": "git",
