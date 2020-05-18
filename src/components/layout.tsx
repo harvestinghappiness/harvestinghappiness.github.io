@@ -23,20 +23,12 @@ interface Props {
 }
 
 const Layout = ({ children }: Props): JSX.Element => {
-  const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
-      site {
-        siteMetadata {
-          title
-        }
-      }
-    }
-  `);
 
   return (
     <>
-      <Header siteTitle={data.site.siteMetadata.title} />
+      <Header siteTitle="Harvesting Happiness" />
       <Container>
+      
         <main>{children}</main>
         <footer>
           © {new Date().getFullYear()}, Built with
