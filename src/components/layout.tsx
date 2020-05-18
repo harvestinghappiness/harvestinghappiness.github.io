@@ -6,7 +6,6 @@
  */
 
 import React from "react";
-import { useStaticQuery, graphql } from "gatsby";
 import styled from "styled-components";
 
 import Header from "./header";
@@ -23,12 +22,10 @@ interface Props {
 }
 
 const Layout = ({ children }: Props): JSX.Element => {
-
   return (
     <>
       <Header siteTitle="Harvesting Happiness" />
       <Container>
-      
         <main>{children}</main>
         <footer>
           © {new Date().getFullYear()}, Built with
