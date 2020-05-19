@@ -10,9 +10,9 @@ import { Helmet } from "react-helmet";
 import { useStaticQuery, graphql } from "gatsby";
 
 interface Props {
-  description: string;
-  lang: string;
-  meta: (
+  description?: string;
+  lang?: string;
+  meta?: (
     | {
         name: string;
         content: string;
@@ -25,7 +25,12 @@ interface Props {
   title: string;
 }
 
-function SEO({ description, lang, meta, title }: Props): JSX.Element {
+function SEO({
+  description = '',
+  lang = "en",
+  meta = [],
+  title,
+}: Props): JSX.Element {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -86,11 +91,5 @@ function SEO({ description, lang, meta, title }: Props): JSX.Element {
     />
   );
 }
-
-SEO.defaultProps = {
-  lang: `en`,
-  meta: [],
-  description: ``,
-};
 
 export default SEO;
