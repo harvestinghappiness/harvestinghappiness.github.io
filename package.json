@@ -27,6 +27,7 @@
     "@typescript-eslint/eslint-plugin": "^2.33.0",
     "@typescript-eslint/parser": "^2.33.0",
     "eslint": "^7.0.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
     "prettier": "2.0.5",
     "typescript": "^3.9.2"
   },
