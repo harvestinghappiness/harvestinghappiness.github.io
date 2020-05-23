@@ -91,7 +91,7 @@ function SEO({
       link={[
         {
           href:
-            "https://fonts.googleapis.com/css2?family=Gothic+A1&display=swap",
+            "https://fonts.googleapis.com/css2?family=Gothic+A1:wght@300;400;600&display=swap",
           rel: "stylesheet",
         },
       ]}

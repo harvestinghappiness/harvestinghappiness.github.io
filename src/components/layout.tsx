@@ -11,9 +11,10 @@ import styled from "styled-components";
 import Header from "./header";
 import "./layout.css";
 import { maxWidth } from "../utils/style-constants";
+import Footer from "./Footer";
 
 const Container = styled.div`
-  margin: 0 auto;
+  margin: 32px auto;
   max-width: ${maxWidth}px;
 `;
 
@@ -27,12 +28,8 @@ const Layout = ({ children }: Props): JSX.Element => {
       <Header />
       <Container>
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
       </Container>
+      <Footer />
     </>
   );
 };
