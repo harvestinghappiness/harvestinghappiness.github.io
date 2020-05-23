@@ -10,6 +10,7 @@ export function getButtonStyle(color = "white"): string {
   border: solid 2px ${color};
   font-size: 14px;
   font-weight: 600;
+  text-transform: uppercase;
   display: flex;
   justify-content: center;
   align-items: center;
