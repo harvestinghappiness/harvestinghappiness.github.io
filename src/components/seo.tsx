@@ -26,7 +26,7 @@ interface Props {
 }
 
 function SEO({
-  description = '',
+  description = "",
   lang = "en",
   meta = [],
   title,
@@ -88,6 +88,13 @@ function SEO({
           content: metaDescription,
         },
       ].concat(meta)}
+      link={[
+        {
+          href:
+            "https://fonts.googleapis.com/css2?family=Gothic+A1&display=swap",
+          rel: "stylesheet",
+        },
+      ]}
     />
   );
 }

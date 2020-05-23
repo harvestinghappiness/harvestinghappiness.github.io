@@ -24,7 +24,7 @@ interface Props {
 const Layout = ({ children }: Props): JSX.Element => {
   return (
     <>
-      <Header siteTitle="Harvesting Happiness" />
+      <Header />
       <Container>
         <main>{children}</main>
         <footer>
