@@ -10,12 +10,10 @@ import styled from "styled-components";
 
 import Header from "./header";
 import "./layout.css";
-import { maxWidth } from "../utils/style-constants";
 import Footer from "./Footer";
 
 const Container = styled.div`
-  margin: 32px auto;
-  max-width: ${maxWidth}px;
+  margin: 0 auto 32px auto;
 `;
 
 interface Props {

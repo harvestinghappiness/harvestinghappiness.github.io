@@ -2,7 +2,6 @@ import * as React from "react";
 import styled from "styled-components";
 import { Link } from "gatsby";
 import Logo from "../icons/logo";
-import { COLORS } from "../utils/style-constants";
 
 const LogoContainer = styled.div`
   margin-right: 16px;
