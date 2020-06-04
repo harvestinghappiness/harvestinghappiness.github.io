@@ -8,9 +8,7 @@ activetab: blog
 commentID: 32
 ---
 
-<p class="meta">
 Dear Supporters,
-</p><br>
 
 We hope that you are well and healthy amidst all of the chaos that continues to be the pandemic. We want to reach out to you with a specific request, and to share additional information about the current state of affairs in our town of Santa Maria de Jesus, Guatemala.
 
