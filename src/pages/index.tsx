@@ -6,6 +6,8 @@ import Image from "../image-components/image";
 import SEO from "../components/seo";
 import Hero from "../components/Hero";
 import OurVision from "../components/vision";
+import OurMission from "../components/mission";
+import OurPrograms from "../components/programs";
 
 
 const IndexPage = (): JSX.Element => (
@@ -13,9 +15,8 @@ const IndexPage = (): JSX.Element => (
     <SEO title="Home" />
     <Hero />
     <OurVision />
-    <h1>Hi people</h1>
-    <p id="programs">Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <OurMission />
+    <OurPrograms />
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>

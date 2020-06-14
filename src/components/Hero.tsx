@@ -7,7 +7,7 @@ import React from "react";
 
 const HeroContainer = styled.div`
   position: relative;
-  height: 50vh;
+  height: 80vh;
   min-height: 504px;
   width: 100%;
   overflow: hidden;
@@ -36,6 +36,7 @@ const HeroPhrase = styled.h2`
   line-height: 80px;
   font-weight: 800;
   padding-bottom: 32px;
+  margin-top: 48px;
 `;
 
 const Button = styled.a`

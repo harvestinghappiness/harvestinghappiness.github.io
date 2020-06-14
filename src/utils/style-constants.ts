@@ -14,7 +14,7 @@ export function getButtonStyle(color = "white"): string {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 16px 32px;
+  padding: 12px 40px;
   text-decoration: none;
   &:hover {
     background-color: rgba(255, 255, 255, 0.4);
