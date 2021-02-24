@@ -10,7 +10,7 @@ commentID: 22
 
 Thanks be to God for all the ways in which He has blessed us during the first quarter of 2018! We continue to fundraise in the hopes of purchasing our current project site. We have been able to make monthly payments, as well as some other larger deposits over the past seven months to pay just over $12,500 thus far. In order to reach our goal, we are still in need of approximately $35,000. We ask to consider partnering with us as we grow and expand our programs. All donations are tax deductible, and one receipt for all of your donations this year will be provided in January of 2019. All checks can be made payable to Cosechando Felicidad Inc. 
 
-{% include figure.html src="blog-04-09-18/pic1.jpg" size="half" side="left" alt="Cofounder Emily Keller with volunteers Rocael, Edwin, Robin and Wilson" %}
+{% include figure.html src="blog-04-09-18/pic1.jpg" size="half" side="left" alt="Cofounder Emily with volunteers Rocael, Edwin, Robin and Wilson" %}
 
 We are grateful not only for the moments of abundance, but also all the difficult days that drew us closer to Him. While at times it can be discouraging, we continue to celebrate the small victories that occur daily.  We pray that overtime these small, consistent, and intentional acts will have everlasting effects on those we serve.  
 
@@ -37,4 +37,4 @@ During the month of April we hope to post interviews with our volunteers and boa
 We humbly thank you with all our hearts for continuing to support us, and those we serve. Your prayers, and words of encouragement are felt thousands of miles away. We pray God blesses you in all the countless ways you have blessed us and so much more. 
 
 Much Love and Many Blessings,
-Emily Keller and Brennan McMillen
+Emily and Brennan

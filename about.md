@@ -7,7 +7,7 @@ permalink: /about/
 {% include figure.html src="about/building.jpg" caption="Cosechando Felicidad's building in Santa Maria" side="right" size="third" %}
 
 We began our programs in 2014 and became an official 501c3 in the US and ONG in Guatemala in 2015.
-Founded by Brennan McMillan, Pennsylvania, and Emily Keller, Vermont, we are an organization seeking
+Founded by Brennan, Pennsylvania, and Emily, Vermont, we are an organization seeking
 to empower the community of Santa Maria de Jesus, Sacatepéquez, Guatemala, especially the youth, to
 help their neighbors. This organization began as its founders were living in the community and began
 meeting needs one person at a time. This mentality of helping one person at a time has now grown into

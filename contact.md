@@ -7,13 +7,13 @@ permalink: /contact/
 <div class="col-sm-6">
 	<h3>Business Contact</h3>
 	<pre>
-Emily Keller
+Emily
 <a href="mailto:emily@harvestinghappiness.org">emily@harvestinghappiness.org</a>
 Cosechando Felicidad Inc.
 117 Elk Lane
 Williston, VT 05495
 
-For phone or further contact info email Emily Keller.
+For phone or further contact info email Emily.
 
 </pre>
 </div>
@@ -101,6 +101,6 @@ window.location = "https://www.harvestinghappiness.org/newssuccess/";
 </script>
 
 <figure class="col-sm-8 col-sm-offset-2">
-    <img src="{{ site.url }}/images/directors.jpg" alt="Co-Founders Brennan McMillen &amp; Emily Keller" title="" style="">
-    <figcaption>Co-Founders Emily Keller &amp; Brennan McMillen</figcaption>
+    <img src="{{ site.url }}/images/directors.jpg" alt="Co-Founders Brennan &amp; Emily" title="" style="">
+    <figcaption>Co-Founders Emily &amp; Brennan</figcaption>
 </figure>

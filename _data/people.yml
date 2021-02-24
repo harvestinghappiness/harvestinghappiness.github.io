@@ -1,5 +1,5 @@
 emily:
-  name: Emily Keller
+  name: Emily
   email: emily@harvestinghappiness.org
   position: Co-Director
   img: emily.jpg
@@ -13,7 +13,7 @@ emily:
     helping with the organization I like to knit and do pottery.
 
 brennan:
-  name: Brennan McMillen
+  name: Brennan
   email: brennan@harvestinghappiness.org
   position: Co-Director
   img: brennan.jpg
@@ -26,12 +26,12 @@ brennan:
     with them while I am in the US.
 
 courtney:
-  name: Courtney Lecker
+  name: Courtney
   email: courtney@harvestinghappiness.org
   position: Short Term Missions Coordinator 
   img: courtney.jpg
   bio: >
-    My name is Courtney Lecker and I am the Short-Term Mission Coordinator for 
+    My name is Courtney and I am the Short-Term Mission Coordinator for 
     Cosechando Felicidad. I grew up in DuBois, Pennsylvania. I am in nursing 
     school at Lock Haven University and will graduate with my RN degree in May 
     of 2016. I plan to continue my education to earn my BSN degree. My dream is 
@@ -39,12 +39,12 @@ courtney:
     short-term missions, and will go back for my third time in the summer of 2016. 
 
 katie:
-  name: Katie Bashant
+  name: Katie
   email: katie@harvestinghappiness.org
   position: Data Manager
   img: katie.jpg
   bio: >
-    After spending a semester abroad working in rural Ecuador, Kathleen Bashant 
+    After spending a semester abroad working in rural Ecuador, Kathleen  
     (Katie) was excited to join the Cosechando Felicidad team in order to help 
     combat some of the same issues she encountered in Ecuador. After graduating 
     from the University of Vermont in 2016, she is planning to obtain her Ph.D. 
@@ -53,7 +53,7 @@ katie:
     canoeing, running, and traveling.
 
 sam:
-  name: Sam Swanke
+  name: Sam
   email: sam@harvestinghappiness.org
   position: Web Developer
   img: sam.jpg
@@ -64,7 +64,7 @@ sam:
     a UI developer at Dealer.com in Burlington Vermont.
 
 rocael:
-  name: Rocael Bocó Vasquez
+  name: Rocael
   email:
   position: Board Member
   img: rocael.jpg
@@ -74,7 +74,7 @@ rocael:
     project and has completed education. He loves to play soccer and listen to music.
 
 wilson:
-  name: Wilson Vasquez Oron
+  name: Wilson
   email:
   position: Board Member
   img: wilson.jpg
@@ -84,7 +84,7 @@ wilson:
     Guatemala. He loves music and is passionate about playing the guitar.
 
 jose:
-  name: Jose Piche Cuma
+  name: Jose
   email:
   position: Board Member
   img: jose.jpg
@@ -95,7 +95,7 @@ jose:
     very grateful. Jose loves plants, jokes, and dancing.
 
 yuman:
-  name: Edwin Osoy Yuman
+  name: Edwin
   email:
   position: Board Member
   img: yuman.jpg
@@ -105,7 +105,7 @@ yuman:
     and reliable. He loves to play soccer and listen to music.
 
 edwin:
-  name: Edwin Chavez Perez
+  name: Edwin
   email:
   position: Board Member
   img: edwin.jpg
@@ -116,7 +116,7 @@ edwin:
     organized and patient. He loves music and studying.
 
 ingrid:
-  name: Ingrid Argentina Vasquez
+  name: Ingrid
   email:
   position: Employee
   img: ingrid.jpg
@@ -126,6 +126,6 @@ ingrid:
     children. Ingrid is extremely hard working. She loves to cook and enjoys listening to music.
 
 emilybrennan:
-  name: Emily Keller and Brennan McMillen
+  name: Emily and Brennan
   email: info@harvestinghappiness.org
   position: Co-Directors

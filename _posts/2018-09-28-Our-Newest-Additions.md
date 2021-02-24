@@ -54,4 +54,4 @@ without you.
 
 <p class="meta">Blessings,<br>
 
-Brennan McMillen &amp; Emily Keller</p>
+Brennan &amp; Emily</p>

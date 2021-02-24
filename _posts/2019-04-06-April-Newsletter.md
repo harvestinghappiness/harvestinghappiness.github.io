@@ -43,5 +43,5 @@ We are forever grateful for you all, and your continued support with allows all 
 
 <p class='meta'>
 Blessings, <br>
-Brennan McMillen and Emily Keller
+Brennan and Emily
 </p>
