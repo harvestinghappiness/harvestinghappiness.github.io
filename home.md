@@ -19,3 +19,4 @@ emotional, and spiritual support.
 <a href="https://www.guidestar.org/profile/47-4437262" target="#"><img alt="Guide Star Platinum Seal of Transparency 2017" src="{{ site.url }}/images/guideStarSeal_2017_platinum_SM.svg"></a>
 <a href="https://www.guidestar.org/profile/47-4437262" target="#"><img alt="Guide Star Platinum Seal of Transparency 2018" src="{{ site.url }}/images/guideStarSeal_2018_platinum_SM.svg"></a>
 <a href="https://www.guidestar.org/profile/47-4437262" target="#"><img alt="Guide Star Platinum Seal of Transparency 2019" src="{{ site.url }}/images/guideStarSeal_2019_platinum_SM.svg"></a>
+<a href="https://www.guidestar.org/profile/47-4437262" target="#"><img alt="Guide Star Platinum Seal of Transparency 2020" src="{{ site.url }}/images/guideStarSeal_2020_platinum_SM.svg"></a>
