@@ -22,3 +22,115 @@ sandra:
     mother to 3 beautiful and hilarious children. Sandra has a great sense of humor and it is a
     pleasure to have her as one of our employees and support her in this way.
     
+brennan:
+  name: Brennan
+  email: brennan@harvestinghappiness.org
+  position: Co-Director
+  img: brennan.jpg
+  bio: >
+    I am from Reynoldsville, PA and grew up visiting Guatemala with my family. It has been 
+    awesome to watch the feeding program grow from one person to what it is today and see 
+    our volunteers grow as people and leaders. I am completing my Licensed Practical Nurse 
+    degree. I am very passionate about the elderly and plan to continue working with them 
+    for the rest of my life. I attend Reynoldsville Methodist Church and enjoy volunteering 
+    with them while I am in the US.
+
+courtney:
+  name: Courtney
+  email: courtney@harvestinghappiness.org
+  position: Short Term Missions Coordinator 
+  img: courtney.jpg
+  bio: >
+    My name is Courtney and I am the Short-Term Mission Coordinator for 
+    Cosechando Felicidad. I grew up in DuBois, Pennsylvania. I am in nursing 
+    school at Lock Haven University and will graduate with my RN degree in May 
+    of 2016. I plan to continue my education to earn my BSN degree. My dream is 
+    to be a labor and delivery nurse! I have been to Guatemala two times on 
+    short-term missions, and will go back for my third time in the summer of 2016. 
+
+katie:
+  name: Katie
+  email: katie@harvestinghappiness.org
+  position: Data Manager
+  img: katie.jpg
+  bio: >
+    After spending a semester abroad working in rural Ecuador, Kathleen  
+    (Katie) was excited to join the Cosechando Felicidad team in order to help 
+    combat some of the same issues she encountered in Ecuador. After graduating 
+    from the University of Vermont in 2016, she is planning to obtain her Ph.D. 
+    in Immunology and hopes to conduct research that aids patients suffering from 
+    infection and autoimmune disorders worldwide. In her free time, Katie enjoys 
+    canoeing, running, and traveling.
+
+sam:
+  name: Sam
+  email: sam@harvestinghappiness.org
+  position: Web Developer
+  img: sam.jpg
+  bio: >
+    Sam is from Essex, Vermont. He handles all of the web development and design 
+    for Cosechando Felicidad. Sam recieved a degree in Computer Science with 
+    a minor in Math from the University of Vermont. He is currently working as
+    a UI developer at Dealer.com in Burlington Vermont.
+
+rocael:
+  name: Rocael
+  email:
+  position: Board Member
+  img: rocael.jpg
+  bio: >
+    Rocael has been with us since the beginning. He began helping at the project when he found out
+    about the feeding program and the scholarship assistance available. He enjoys hanging out at
+    project and has completed education. He loves to play soccer and listen to music.
+
+wilson:
+  name: Wilson
+  email:
+  position: Board Member
+  img: wilson.jpg
+  bio: >
+    Born and raised in Santa Maria de Jesus, Wilson has been with us since the beginning of the
+    organization. He is trained as an accountant and helps to keep track of our financial archives in
+    Guatemala. He loves music and is passionate about playing the guitar.
+
+jose:
+  name: Jose
+  email:
+  position: Board Member
+  img: jose.jpg
+  bio: >
+    Jose is a spitfire who loves to work hard. She is extremely motivated and often volunteers to
+    oversee tasks. She is studying to be a nurse and is very passionate about helping the elderly.
+    People from the community feel at ease talking to her about their problems and for this we are
+    very grateful. Jose loves plants, jokes, and dancing.
+
+yuman:
+  name: Edwin
+  email:
+  position: Board Member
+  img: yuman.jpg
+  bio: >
+    Trained as a teacher, Edwin, or “Velorio” as we call him, is always eager to help. He often
+    accompanies individuals to the hospital and facilitates their treatment. He is extremely patient
+    and reliable. He loves to play soccer and listen to music.
+
+edwin:
+  name: Edwin
+  email:
+  position: Board Member
+  img: edwin.jpg
+  bio: >
+    Edwin tirelessly works for his family and the elderly. He works long hours in a makeup and
+    perfume factory, studies at the University fulltime, and never fails to help at the project. He
+    oversees our stockroom and orders all of our groceries in bulk each month. He is extremely
+    organized and patient. He loves music and studying.
+
+ingrid:
+  name: Ingrid
+  email:
+  position: Employee
+  img: ingrid.jpg
+  bio: >
+    Ingrid is the mother of Rocael and became our second employee in 2015. She found herself
+    going through some rough times with her family and became a single mother to her two
+    children. Ingrid is extremely hard working. She loves to cook and enjoys listening to music.

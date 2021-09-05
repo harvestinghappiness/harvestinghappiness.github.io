@@ -4,13 +4,12 @@ emily:
   position: Co-Director
   img: emily.jpg
   bio: >
-    I am from Williston, VT and grew up visiting Central American with my family. 
-    I love spending time in Guatemala and running Cosechando Felicidad with 
-    Brennan and our volunteers. I graduated from the University of Vermont with 
-    a Bachelors of Science in Molecular Genetics and am continuing my studies at 
-    the University of Connecticut School of Dental Medicine. I love hanging out 
-    with everyone and running the feeding program. When I am not studying or 
-    helping with the organization I like to knit and do pottery.
+    Emily is from Williston, VT and grew up visiting Central American with my family.
+    She graduated from the University of Vermont with a Bachelors of Science in
+    Molecular Genetics and continued her studies at the University of Connecticut
+    School of Dental Medicine. She now practices dentistry in Vermont. She is
+    passionate about providing opportunities to the community of Santa María de Jesus.
+    In her free time she enjoys knitting, pottery, all things DIY and exercising.
 
 brennan:
   name: Brennan
@@ -18,112 +17,126 @@ brennan:
   position: Co-Director
   img: brennan.jpg
   bio: >
-    I am from Reynoldsville, PA and grew up visiting Guatemala with my family. It has been 
-    awesome to watch the feeding program grow from one person to what it is today and see 
-    our volunteers grow as people and leaders. I am completing my Licensed Practical Nurse 
-    degree. I am very passionate about the elderly and plan to continue working with them 
-    for the rest of my life. I attend Reynoldsville Methodist Church and enjoy volunteering 
-    with them while I am in the US.
+    Brennan was born and raised in the small town of Reynoldsville, PA. She first came
+    to Guatemala as a teenager on a short-term mission trip, she instantly fell in
+    love with the country and people. Along with Emily Keller and many volunteers they
+    began Cosechando Felicidad (officially in 2015.) In 2017 she graduated as a
+    Licensed Practical Nurse. When she is in the US, she works at many local long-term
+    care facilities.  When not working Brennan enjoys hiking, weaving, and spending
+    time with family.
+
+irma:
+  name: Irma
+  email:
+  position: Team Member
+  img: irma.jpg
+  bio: >
+    Irma has been volunteering at the project for many years, but officially became a
+    full-time staff member in early 2020. Irma is the youngest sibling in her large
+    family. Irma is highly motivated and has recently taken on additional
+    responsibilities at the project. We are so proud of her growth here at the project.
+    When she is not working she enjoys playing clarinet, and learning new instruments.
+    In 2022 she hopes to continue her education at a technical school for nursing.
+
+edwin:
+  name: Edwin Osoy
+  email:
+  position: Legal Representative
+  img: edwin-osoy.jpg
+  bio: >
+    Edwin began volunteering at the project from the very start. He is now the President
+    of the Board of Directors & Legal Representative in Guatemala. Edwin assists with
+    everything from meal delivery to the elderly, transporting patients to medical
+    appointments, home visitations, and much more. We are thankful for his time and
+    energy dedicated to the administration part of the non-profit in GUA. When he is not
+    at the project, he assists with his family's business selling produce. He enjoys
+    watching/playing soccer as well as organizing games in the community.
+
+gelder:
+  name: Gelder
+  email:
+  position: Board Member
+  img: gelder.jpg
+  bio: >
+    Gelder also known as 'Roceal' has been with Cosechando Felicidad since the start. He
+    assists with the daily functioning of the project, meal delivery, home visitations,
+    and care of the elderly. He enjoys learning new things, and is often our go-to guy
+    for problem solving. Roceal has also been practicing alongside local barbers to become
+    a barber himself. In his free time Roceal enjoys helping local street dogs, spending
+    time with his two nieces, and playing soccer. 
+
+josefa:
+  name: Josefa
+  email:
+  position: Board Member
+  img: josefa.jpg
+  bio: >
+    Jose is a spitfire who loves to work hard. In 2017 she graduated as a Licensed Practical
+    Nurse. She loves all areas of nursing, but specifically caring for the elderly. Jose is
+    passionate about supporting the women of her community to achieve all they possibly can.
+    She is a wonderful asset to Cosechando Felicidad, and is always determined to make things
+    work. Along with her sisters, Jose opened a café in Santa Maria. At the café she does all
+    the cooking and baking. In her free time she loves gardening, sewing, and dabbling in
+    many hobbies. 
 
 courtney:
   name: Courtney
   email: courtney@harvestinghappiness.org
-  position: Short Term Missions Coordinator 
+  position: Short-Term Mission Coordinator, Online Store Manager
   img: courtney.jpg
   bio: >
-    My name is Courtney and I am the Short-Term Mission Coordinator for 
-    Cosechando Felicidad. I grew up in DuBois, Pennsylvania. I am in nursing 
-    school at Lock Haven University and will graduate with my RN degree in May 
-    of 2016. I plan to continue my education to earn my BSN degree. My dream is 
-    to be a labor and delivery nurse! I have been to Guatemala two times on 
-    short-term missions, and will go back for my third time in the summer of 2016. 
+    Courtney is the Short-Term Mission Coordinator and manages the online store. She grew up in
+    DuBois, Pennsylvania. In 2016 she graduated as a Registered Nurse from Lock Haven
+    University. She later went on to receive her BSN and got her dream job in Labor and
+    Delivery. In her free time she enjoys hiking with her dogs, spending time with family and
+    planning different events. Courtney is a constant source of support for Cosechando Felicidad
+    Inc. We are so grateful for her servant heart! 
 
-katie:
-  name: Katie
-  email: katie@harvestinghappiness.org
-  position: Data Manager
-  img: katie.jpg
+edwin:
+  name: Edwin
+  email:
+  position: Board Member 
+  img: edwin.jpg
   bio: >
-    After spending a semester abroad working in rural Ecuador, Kathleen  
-    (Katie) was excited to join the Cosechando Felicidad team in order to help 
-    combat some of the same issues she encountered in Ecuador. After graduating 
-    from the University of Vermont in 2016, she is planning to obtain her Ph.D. 
-    in Immunology and hopes to conduct research that aids patients suffering from 
-    infection and autoimmune disorders worldwide. In her free time, Katie enjoys 
-    canoeing, running, and traveling.
+    Edwin tirelessly works for his family and the community. He works in the fields along with
+    his family. He along with other young men from the community have started their own
+    business that focuses on exporting produce. He studied industrial engineering in college, and
+    hopes to apply all he learned to help other farmers. He is extremely organized & patient. He
+    brings a smile to the faces of everyone around him. 
 
+wilson:
+  name: Wilson
+  email:
+  position: Board Member 
+  img: wilson.jpg
+  bio: >
+    Born and raised in Santa Maria de Jesus, Wilson has been with us since the beginning of the
+    organization. He is certified accountant and is currently attending college to be an auditor.
+    He is committed to providing support and opportunities to the farmers within his community.
+    Wilson enjoys photography, writing, studying language and helping with a variety of
+    organizations. Wilson has a wide array of skills and knowledge. He is always willing to
+    answer questions and help in any way he can. 
+
+ingrid:
+  name: Ingrid
+  email:
+  position: Team Member 
+  img: ingrid.jpg
+  bio: >
+    Ingrid is the full-time cook at Cosechando Felicidad. She has been with us since 2015, and has
+    only become more passionate about serving the elderly. She takes great pride in the food she
+    cooks, and is always coming up with ways to make it better. She prepared approximately 125
+    portions of food every day. We are thankful for her commitment over the past six year to
+    Cosechando Felicidad. When she is not working she enjoys the company of her two granddaughters,
+    embroidering, and DIY projects.
+  
 sam:
   name: Sam
   email: sam@harvestinghappiness.org
   position: Web Developer
   img: sam.jpg
   bio: >
-    Sam is from Essex, Vermont. He handles all of the web development and design 
-    for Cosechando Felicidad. Sam recieved a degree in Computer Science with 
-    a minor in Math from the University of Vermont. He is currently working as
-    a UI developer at Dealer.com in Burlington Vermont.
-
-rocael:
-  name: Rocael
-  email:
-  position: Board Member
-  img: rocael.jpg
-  bio: >
-    Rocael has been with us since the beginning. He began helping at the project when he found out
-    about the feeding program and the scholarship assistance available. He enjoys hanging out at
-    project and has completed education. He loves to play soccer and listen to music.
-
-wilson:
-  name: Wilson
-  email:
-  position: Board Member
-  img: wilson.jpg
-  bio: >
-    Born and raised in Santa Maria de Jesus, Wilson has been with us since the beginning of the
-    organization. He is trained as an accountant and helps to keep track of our financial archives in
-    Guatemala. He loves music and is passionate about playing the guitar.
-
-jose:
-  name: Jose
-  email:
-  position: Board Member
-  img: jose.jpg
-  bio: >
-    Jose is a spitfire who loves to work hard. She is extremely motivated and often volunteers to
-    oversee tasks. She is studying to be a nurse and is very passionate about helping the elderly.
-    People from the community feel at ease talking to her about their problems and for this we are
-    very grateful. Jose loves plants, jokes, and dancing.
-
-yuman:
-  name: Edwin
-  email:
-  position: Board Member
-  img: yuman.jpg
-  bio: >
-    Trained as a teacher, Edwin, or “Velorio” as we call him, is always eager to help. He often
-    accompanies individuals to the hospital and facilitates their treatment. He is extremely patient
-    and reliable. He loves to play soccer and listen to music.
-
-edwin:
-  name: Edwin
-  email:
-  position: Board Member
-  img: edwin.jpg
-  bio: >
-    Edwin tirelessly works for his family and the elderly. He works long hours in a makeup and
-    perfume factory, studies at the University fulltime, and never fails to help at the project. He
-    oversees our stockroom and orders all of our groceries in bulk each month. He is extremely
-    organized and patient. He loves music and studying.
-
-ingrid:
-  name: Ingrid
-  email:
-  position: Employee
-  img: ingrid.jpg
-  bio: >
-    Ingrid is the mother of Rocael and became our second employee in 2015. She found herself
-    going through some rough times with her family and became a single mother to her two
-    children. Ingrid is extremely hard working. She loves to cook and enjoys listening to music.
+    Sam handles all of the web development and design for Cosechando Felicidad.
 
 emilybrennan:
   name: Emily and Brennan
