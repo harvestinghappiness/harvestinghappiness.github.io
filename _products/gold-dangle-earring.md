@@ -1,8 +1,8 @@
 ---
 layout: product
 product:
-  id: product-component-1637939579374
-  shopifyId: 6708389969997
+  id: product-component-1638021546584
+  shopifyId: 6708388954189
   name: Gold Dangle Earrings
   summary: Gold Dangle Earrings
   description: Detailed gold earrings with dangling colored beads. Available in a variety of colors including dark and light blue, orange, and red.   

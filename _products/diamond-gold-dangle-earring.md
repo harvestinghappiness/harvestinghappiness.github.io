@@ -1,8 +1,8 @@
 ---
 layout: product
 product:
-  id: product-component-1637939216647
-  shopifyId: 6708391313485
+  id: product-component-1638021498522
+  shopifyId: 6708390002765
   name: Diamond Gold Dangle Earring
   summary: Diamond Gold Dangle Earring
   description: Detailed gold dangly earrings with colored beads. 
