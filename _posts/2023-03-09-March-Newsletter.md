@@ -13,8 +13,8 @@ Greetings from Santa María de Jesús! We have now had our dining area reopened 
 We all tend to be creatures of habit in one way or another. Prior to the pandemic, when the abuelos would come for a meal, they themselves would divide the tables by men and women. We always encouraged them to change up where they would sit, so they could visit with everyone. Now that we have reopened the dining area, we have noticed that they no longer divide the tables by men and women, nor do they sit in the same place each meal. It is so nice to see them all enjoying each other's company. The project is filled with noise and laughter again; it is music to our ears!
 
 {% include figure.html src="blog-03-09-2023/pic0.jpg" size="full" caption="Home visits in the village." %}
-{% include figure.html src="blog-03-09-2023/pic1.jpg" size="third" caption="Home visits in the village." %}
-{% include figure.html src="blog-03-09-2023/pic2.jpg" size="third" caption="Home visits in the village." %}
+{% include figure.html src="blog-03-09-2023/pic1.jpg" size="half" caption="Home visits in the village." %}
+{% include figure.html src="blog-03-09-2023/pic2.jpg" size="half" caption="Home visits in the village." %}
 
 In February we were able to celebrate three birthdays along with the day of love & friendship! It is always a privilege to be able to make these days extra special for them. The majority of our abuelos are in their early to mid 80s, but we have many who are also in their 90s. They are true examples of what it means to be young at heart. They are always ready for anything, especially a jazzy song to dance to.
 
