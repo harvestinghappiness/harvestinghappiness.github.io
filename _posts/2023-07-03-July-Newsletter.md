@@ -52,7 +52,7 @@ _I like to cook for the abuelos, but more than that I enjoy serving the food I h
 __Jessica Sicajau__ began working part-time at the project in 2021. She helped us cover holidays, weekends and times we had events planned for our abuelos. Jessica has the most contagious laugh and light hearted spirit. We were so thankful to be able to transfer her to a full time position in 2022! She is a jack of all trades, and fills in all the gaps at the project! Two days a week she makes tortillas for the feeding program, two days a week she assists with home visits and maintenance of the abueloʼs homes, and on Sundays she is our cook. We are forever grateful for her willingness and ability to help wherever needed. Jessica can always be found sitting and talking to the abuelos while they eat. Her genuine concern for them and their wellbeing is evident in everything she does.
 Jessica has two elementary aged daughters as well as a one and half year old son. When she is not at the project she helps her husband with their harvest of tomatoes and snap peas. She also enjoys cooking and trying new recipes.
 
-_"—------"_
+_"When I began at Cosechando Felicidad, I just helped cover the weekends, I never imagined it would turn into all of this. I love spending time with the abuelos and talking to them. I never want them to feel alone, or like they have nowhere to turn. We are all in this together." - Jessica_
 
 <hr>
 <br>
@@ -62,3 +62,9 @@ __Judith Limon__ is currently twenty years olds and began working part-time at t
 When Judith is not at the project she enjoys weaving, helping her mother with household chores, and cooking.
 
 _"I love being able to care for and love on the abuelos that come to the project. I have learned a lot since starting here. It has helped me come out of my shell and make lifelong connections." - Judith_
+
+Providing stable employment is something that we have as a foundation value. We want to invest in those who are invested in their community. Have consistent staff that the abuelos know and trust is instrumental to what we do on a daily basis. __Each month we need to raise approximately $2,700 in total to cover the salaries of our staff.__ If this is something that you would like to support, or would like more information, please do not hesitate in reaching out.
+
+<p class="meta">
+Emily, Brennan, and the Cosechando Felicidad Family 
+</p>
