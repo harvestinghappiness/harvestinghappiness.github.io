@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include figure.html src="about/cosechando-center.jpg" caption="Cosechando Felicidad's building in Santa Maria" side="right" size="third" %}
+{% include figure.html src="about/cosechando-center.jpg" caption="Cosechando Felicidad's building in Santa Maria" side="right" size="half" %}
 
 Cosechando Felicidad began in December of 2014 and became an official 501c3 in the US an ONG in Guatemala in 2015. Founded by Brennan of Pennsylvania, Emily of Vermont, along with community members of Santa Maria de Jesus. Cosechando
 
@@ -14,7 +14,7 @@ Felicidad seeks to empower and encourage the community of Santa Maria de Jesús,
 
 365 days a year Cosechando Felicidad offers both breakfast and lunch to the elderly within the community. This was established after finding that many of the elderly experience food scarcity, or are unable to prepare the food themselves. The feeding program is open to any of the elderly within the community who wish to come. Additionally, meals are delivered door-to-door to those who are unable to walk to the project. On average, over one hundred plates of food are served daily by staff and volunteers. Cosechando Felicidad prides itself on preparing each meal from scratch using locally grown produce.
 
-{% include figure.html src="about/bowl-of-peppers.jpg" caption="A donation of locally grown vegetables." side="left" size="half" %}
+{% include figure.html src="about/bowl-of-peppers2.jpg" caption="A donation of locally grown vegetables." side="left" size="half" %}
 {% include figure.html src="about/two-pot-meal.jpg" caption="Leafy greens and chicken ready to be served for lunch!" side="right" size="half" %}
 
 &nbsp;
