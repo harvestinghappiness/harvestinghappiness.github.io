@@ -15,8 +15,8 @@ Warm greetings from Santa María de Jesús! This December the project will celeb
 On February 20th a fire broke out on El Volcán de Agua. The fire burned for nearly one week while hundreds of volunteers attempted to control the flames. Firefighters, volunteers, military personnel, and many private agencies worked
 around the clock digging trenches to contain the fire.
 
-{% include figure.html src="blog-03-25-24/pic2.jpg" size="half" alt="Fire on the side of the mountain." %}
 {% include figure.html src="blog-03-25-24/pic3.jpg" size="half" alt="Volcano Fuego covered in smoke." %}
+{% include figure.html src="blog-03-25-24/pic2.jpg" size="half" alt="Fire on the side of the mountain." %}
 
 Locals coordinated efforts to get supplies, food, and bottled water to the volunteers. Many families donated their time, and vehicles to transport volunteers to the furthest point possible
 before they set out on foot.
@@ -38,8 +38,8 @@ We celebrated two March birthdays with presents and cake!
 
 {% include figure.html src="blog-03-25-24/pic8.jpg" size="half" caption="Mateo showed off his fun new sweater!" %}
 {% include figure.html src="blog-03-25-24/pic9.jpg" size="half" caption="We received many thoughtful donations from the community." %}
-{% include figure.html src="blog-03-25-24/pic10.jpg" size="half" caption="Delicious avocados to share with the abuelos." %}
 {% include figure.html src="blog-03-25-24/pic11.jpg" size="half" alt="Beans and rice on a table." %}
+{% include figure.html src="blog-03-25-24/pic10.jpg" size="half" caption="Delicious avocados to share with the abuelos." %}
 
 Thank you for all your prayers and encouraging messages. We are so grateful for the countless people that uplift and support our work here. As always, you can find updates on our work on our Facebook and Instagram pages.
 
