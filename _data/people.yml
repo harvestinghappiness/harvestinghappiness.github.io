@@ -63,7 +63,7 @@ gelder:
     and care of the elderly. He enjoys learning new things, and is often our go-to guy
     for problem solving. Roceal has also been practicing alongside local barbers to become
     a barber himself. In his free time Roceal enjoys helping local street dogs, spending
-    time with his two nieces, and playing soccer. 
+    time with his two nieces, and playing soccer.
 
 josefa:
   name: Josefa
@@ -77,7 +77,7 @@ josefa:
     She is a wonderful asset to Cosechando Felicidad, and is always determined to make things
     work. Along with her sisters, Jose opened a café in Santa Maria. At the café she does all
     the cooking and baking. In her free time she loves gardening, sewing, and dabbling in
-    many hobbies. 
+    many hobbies.
 
 courtney:
   name: Courtney
@@ -90,24 +90,24 @@ courtney:
     University. She later went on to receive her BSN and got her dream job in Labor and
     Delivery. In her free time she enjoys hiking with her dogs, spending time with family and
     planning different events. Courtney is a constant source of support for Cosechando Felicidad
-    Inc. We are so grateful for her servant heart! 
+    Inc. We are so grateful for her servant heart!
 
 edwin:
   name: Edwin
   email:
-  position: Board Member 
+  position: Board Member
   img: edwin.jpg
   bio: >
     Edwin tirelessly works for his family and the community. He works in the fields along with
     his family. He along with other young men from the community have started their own
     business that focuses on exporting produce. He studied industrial engineering in college, and
     hopes to apply all he learned to help other farmers. He is extremely organized & patient. He
-    brings a smile to the faces of everyone around him. 
+    brings a smile to the faces of everyone around him.
 
 wilson:
   name: Wilson
   email:
-  position: Board Member 
+  position: Board Member
   img: wilson.jpg
   bio: >
     Born and raised in Santa Maria de Jesus, Wilson has been with us since the beginning of the
@@ -115,12 +115,12 @@ wilson:
     He is committed to providing support and opportunities to the farmers within his community.
     Wilson enjoys photography, writing, studying language and helping with a variety of
     organizations. Wilson has a wide array of skills and knowledge. He is always willing to
-    answer questions and help in any way he can. 
+    answer questions and help in any way he can.
 
 ingrid:
   name: Ingrid
   email:
-  position: Team Member 
+  position: Team Member
   img: ingrid.jpg
   bio: >
     Ingrid is the full-time cook at Cosechando Felicidad. She has been with us since 2015, and has
@@ -129,7 +129,14 @@ ingrid:
     portions of food every day. We are thankful for her commitment over the past six year to
     Cosechando Felicidad. When she is not working she enjoys the company of her two granddaughters,
     embroidering, and DIY projects.
-  
+
+ray:
+  name: Ray Keller, MD
+  position: Physician Consultant
+  img: ray.jpg
+  bio: >
+    Ray Keller, MD is an emergency medicine physician from Williston Vermont.  He has been serving as a medical volunteer in Central America for 20 years, and most recently works with the staff of Harvesting Happiness to consult on medical issues.  Most of his interactions are remote where he reviews patient information and diagnostic test, but he has traveled to Santa Maria de Jesus on average once per year.  He loves to spend time with the staff and volunteers at Harvesting Happiness.  Aside from practicing medicine, he enjoys spending time with family, traveling, hiking, and gardening.
+
 sam:
   name: Sam
   email: sam@harvestinghappiness.org
