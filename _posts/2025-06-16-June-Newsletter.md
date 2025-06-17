@@ -23,8 +23,8 @@ In February the majority of those who receive scholarships began school. All sch
 The abuelos continue to enjoy receiving letters from their penpals in the US. They also have received special holiday cards from various school groups. Getting colorful cards is one of their favorite things!
 
 {% include figure.html src="blog-2025-06-16/pic3.jpg" size="third" alt="Volcano Aqua with smoke rising in the background." %}
-{% include figure.html src="blog-2025-06-16/pic5.jpg" size="third" alt="Volcano Aqua with smoke rising in the background." %}
 {% include figure.html src="blog-2025-06-16/pic7.jpg" size="third" alt="Volcano Aqua with smoke rising in the background." %}
+{% include figure.html src="blog-2025-06-16/pic5.jpg" size="third" alt="Volcano Aqua with smoke rising in the background." %}
 
 We celebrated New Years, Valentine's Day, Mother's day, and many birthdays with the abuelos. Our work here has made all of us extra aware of how quickly we are growing older. We try our best to savor these special times together.
 
