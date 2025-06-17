@@ -52,8 +52,8 @@ Being a small organization, we truly feel the magnitude of each person's support
 
 We humbly ask for your support as we continue into the last half of 2025.
 
-Blessings,
-
 <p class="meta">
+Blessings,
+<br>
 Emily & Brennan
 </p>
