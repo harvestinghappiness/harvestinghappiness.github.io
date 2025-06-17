@@ -16,7 +16,6 @@ It is often difficult to find the right words to write. There are months where t
 
 We received several volunteers in January and February who assisted with the daily chores of the project. They brought so much joy and energy to the project. We are thankful for their servant hearts and desire to advocate for the project while in the US. More than anything we are grateful for them coming and experiencing what our everyday life looks like.
 
-{% include figure.html src="blog-2025-06-16/pic2.jpg" size="full" alt="Volcano Aqua with smoke rising in the background." %}
 
 In February the majority of those who receive scholarships began school. All scholarship recipients are currently in college. They are nearing their final exams for the semester. We hope the very best for them as they pursue their education.
 
@@ -40,7 +39,8 @@ We continue to provide support to seventeen individuals on a monthly basis with 
 
 After hand washing laundry for ten years, we received a generous donation for a washing machine. We are so thankful for this generous gift! It has saved us so much time, energy, and WATER!
 
-{% include figure.html src="blog-2025-06-16/pic8.jpg" size="full" alt="Volcano Aqua with smoke rising in the background." %}
+{% include figure.html src="blog-2025-06-16/pic8.jpg" size="half" alt="Volcano Aqua with smoke rising in the background." %}
+{% include figure.html src="blog-2025-06-16/pic2.jpg" size="half" alt="Volcano Aqua with smoke rising in the background." %}
 
 Our feeding program has both welcomed new abuelos, as well as grieved the loss of many special people. Losing those that we have known and helped care for is difficult. It is hard on our staff, but even harder on the abuelos to look around the table and not see some of their friends.
 
